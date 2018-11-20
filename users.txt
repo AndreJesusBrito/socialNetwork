@@ -1,0 +1,95 @@
+CREATE TABLE users(
+    Primary key ID int,
+    name varchar(255),
+    password varchar(255),
+    unique email varchar(255),
+    birthday date,
+	bio varchar(2000)
+);
+
+insert into users values(
+'0000001',
+'Jesus',
+'******',
+'mormonsareright@believe.faith',
+'1/1/0000',
+'DEUS VULT!');
+
+
+insert into users values(
+'02133331',
+'Sir John Smith Smith	',
+'******',
+'gentlmen@sir.uk',
+'11/12/1965',
+'part time Connoisseur');
+
+
+insert into users values(
+'96133796',
+'Kid Ninja',
+'******',
+'fornite@victoryroyal.epicgames',
+'7/10/2005',
+'I LOVE FORTNITE');
+
+
+insert into users values(
+'293222332',
+'Miley Cyrus',
+'******',
+'mileycyrus@wreckingball.wreck',
+'7/10/1995',
+'WRECKING');
+
+insert into users values(
+'120032222',
+'Andre de gambelas',
+'******',
+'andredegambelas@gambelas.andre',
+'1/02/1999',
+'Ola eu sou o diogo');
+
+insert into users values(
+'002222333',
+'Bruno de fatima',
+'******',
+'brunobruno@pray.jesus',
+'10/12/1995',
+'#faith+1');
+
+
+insert into users values(
+'21112221',
+'Teresa de almancil',
+'******',
+'eggswithoutyolk@eggs.chicken',
+'6/11/1999',
+'comigo');
+
+
+insert into users values(
+'83222322',
+'Leandro de Olhao',
+'******',
+'facadas@stabby.streetcorner',
+'23/5/1999',
+'give me your money');
+
+
+insert into users values(
+'83222321',
+'Dario de olhao',
+'******',
+'facadelas@stabby.streetcorner',
+'23/5/1999',
+'give me your pizza');
+
+
+insert into users values(
+'13371337',
+'Berna Weezerd de Sines',
+'******',
+'houdini@nowyouseeme.nowyoudont',
+'10/2/1999',
+'imagine living in 2018 and not do magic lmaooo');
