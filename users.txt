@@ -1,10 +1,10 @@
 CREATE TABLE users(
-    Primary key ID int,
-    name varchar(255),
-    password varchar(255),
-    unique email varchar(255),
-    birthday date,
-	bio varchar(2000)
+ID int Primary key,
+name varchar(255),
+password varchar(255),
+email varchar(255) unique,
+birthday date,
+bio varchar(2000)
 );
 
 insert into users values(
@@ -154,7 +154,7 @@ insert into users values(
 '******',
 'erique@ir.quadro',
 '7/8/1882',
-'carai');
+'born,suffer,death');
 
 
 insert into users values(
