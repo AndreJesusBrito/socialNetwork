@@ -1,0 +1,39 @@
+insert into group values(
+      'weeb palace',
+      'we love anime!!!',
+      'true',
+      'false',
+      '3142791',
+);
+
+insert into group values(
+      'fornite gang',
+      'ligma :joy::ok_hand::100:',
+      'true',
+      'false',
+      '96133796',
+);
+
+insert into group values(
+      'geek council',
+      'Spock > Kirk dont even @ us on this',
+      'true',
+      'false',
+      '83222322',
+);
+
+insert into group values(
+      'LEI',
+      'Numerica<3',
+      'true',
+      'true',
+      '120032222',
+);
+
+insert into group values(
+      'LEI',
+      'Numerica<3',
+      'true',
+      'true',
+      '120032222',
+);
