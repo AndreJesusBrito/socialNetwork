@@ -179,3 +179,39 @@ insert into users values {
     '14/05/1984',
     'This network its much better than Facebook, indeed'
 }
+
+insert into users values {
+    '123123',
+    'John Cena',
+    '******',
+    'markZuckerberg@wwe.org',
+    '23/04/1977',
+    'bbbbbbbbbbbbmbmbmbbmmmmmmmmmmmmmmmmmmmmmmmmmmmm dammmdamdmammmmmmmmmmmmmmmmmmmmm tmmmmmmm'
+}
+
+insert into users values {
+    '30000000',
+    'Albert Einstein',
+    '******',
+    'markZuckerberg@wwe.org',
+    '23/04/1977',
+    'I am the E = mc^2 guy. I have no special talents. I am only passionately curious.'
+}
+
+insert into users values {
+    '51241242',
+    'Doge',
+    '******',
+    'dege@dogz.doggo',
+    '23/04/2005',
+    'dogeeeeeeeeeeeeeeeeeeeee meme xD'
+}
+
+insert into users values {
+    '420420420',
+    'Snoop Dogg',
+    '******',
+    'smoke@every.day',
+    '23/04/1971',
+    'When I\'m not longer rapping, I want to open up an ice cream parlor and call myself Scoop Dogg\nI love making music and I\'m falling in love with making records, so it\'s like having two girlfriends. But I can handle it.'
+}
