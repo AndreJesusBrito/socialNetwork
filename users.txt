@@ -94,16 +94,6 @@ insert into users values(
 '10/2/1999',
 'imagine living in 2018 and not do magic lmaooo');
 
-
-insert into users values(
-'13371337',
-'Berna Weezerd de Sines',
-'******',
-'houdini@nowyouseeme.nowyoudont',
-'10/2/1999',
-'imagine living in 2018 and not do magic lmaooo');
-
-
 insert into users values(
 '82331222',
 'Tiago Nunes de Lisboa',
