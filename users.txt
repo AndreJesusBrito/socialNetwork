@@ -73,7 +73,7 @@ insert into users values(
 'Leandro de Olhao',
 '******',
 'facadas@stabby.streetcorner',
-'23/5/1999',
+'23/8/1999',
 'give me your money');
 
 
@@ -93,3 +93,75 @@ insert into users values(
 'houdini@nowyouseeme.nowyoudont',
 '10/2/1999',
 'imagine living in 2018 and not do magic lmaooo');
+
+
+insert into users values(
+'13371337',
+'Berna Weezerd de Sines',
+'******',
+'houdini@nowyouseeme.nowyoudont',
+'10/2/1999',
+'imagine living in 2018 and not do magic lmaooo');
+
+
+insert into users values(
+'82331222',
+'Tiago Nunes de Lisboa',
+'******',
+'nunestiago@pediuguitarra.denied',
+'12/3/1999',
+'eu falo mais alto que a televisão');
+
+insert into users values(
+'31432791',
+'Ricardo-chan de Almancil/loule place kawaiiiuu',
+'******',
+'revoliatneh@weeb.desu',
+'7/8/2008',
+'I LOVE ANIME!!!!');
+
+
+insert into users values(
+'0000002',
+'Hamid coracao de bufalo',
+'******',
+'hamid@mosquitos.busy',
+'2/1/0000',
+'o programa funciona??? final entao');
+
+
+insert into users values(
+'42134929',
+'Michael Jackson',
+'******',
+'shamona@tehee.shamona',
+'25/06/2009',
+'ARE YOU OKAY ANI???');
+
+
+insert into users values(
+'84798479',
+'Toto africa de africa',
+'******',
+'toto@at.africa',
+'7/11/1008',
+'gonna take some time to do the things we never had');
+
+
+insert into users values(
+'92187421',
+'Erique',
+'******',
+'erique@ir.quadro',
+'7/8/1882',
+'carai');
+
+
+insert into users values(
+'1231232',
+'Guilherme matrix matrix',
+'******',
+'matrix@hacker.mrrobot',
+'31/12/1999',
+'mooshak <3');
+
