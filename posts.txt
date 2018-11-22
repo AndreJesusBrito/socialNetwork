@@ -1,0 +1,43 @@
+CREATE TABLE Post (
+    ID                  INT         PRIMARY KEY,
+    postTime            TIMESTAMP,
+    postText            VARCHAR(?),
+
+    authorID            INT,
+    FOREIGN KEY authorID REFERENCES User(ID)
+);
+
+insert into Post values(
+    '01';
+    '9/11/2001 20h12';
+    'F',
+    '1';
+);
+
+insert into Post values(
+    '02',
+    '20/1/2018 8h30',
+    'work',
+    '2',
+);
+
+insert into Post values(
+    '03',
+    '23/6/2018 16h20',
+    'Hello',
+    '3',
+);
+
+insert into Post values(
+    '04',
+    '12/8/2012 18h29',
+    'LMAOOO',
+    '4',
+);
+
+insert into Posts values(
+    '05',
+    '1/8/1992',
+    'yall need to wake up',
+    '1',
+);
