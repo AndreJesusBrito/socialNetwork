@@ -1,0 +1,360 @@
+insert into post values(
+	'0',
+	to_timestamp('7/9/42 4:19:4','YYYY-MM-DD HH24:MI:SS'),
+	'Vale mais lutar com gente de bem do que triunfar sobre gente ruim.',
+	'18');
+
+insert into post values(
+	'1',
+	to_timestamp('28/9/34 21:53:28','YYYY-MM-DD HH24:MI:SS'),
+	'Escolher o seu tempo é ganhar tempo.',
+	'3');
+
+insert into post values(
+	'2',
+	to_timestamp('20/7/12 5:2:41','YYYY-MM-DD HH24:MI:SS'),
+	'Só há uma maneira de lutar contra o poder: é sobreviver-lhe.',
+	'2');
+
+insert into post values(
+	'3',
+	to_timestamp('7/5/27 20:2:12','YYYY-MM-DD HH24:MI:SS'),
+	'A arte de vencer se aprende nas derrotas.',
+	'15');
+
+insert into post values(
+	'4',
+	to_timestamp('24/1/89 13:30:27','YYYY-MM-DD HH24:MI:SS'),
+	'O mal não pode vencer o mal. Só o bem pode fazê-lo.',
+	'5');
+
+insert into post values(
+	'5',
+	to_timestamp('12/2/49 9:26:47','YYYY-MM-DD HH24:MI:SS'),
+	'Só se pode vencer a natureza obedecendo-lhe.',
+	'11');
+
+insert into post values(
+	'6',
+	to_timestamp('4/4/21 8:47:38','YYYY-MM-DD HH24:MI:SS'),
+	'É mais fácil vencer um mau hábito hoje do que amanhã.',
+	'15');
+
+insert into post values(
+	'7',
+	to_timestamp('23/10/49 2:14:20','YYYY-MM-DD HH24:MI:SS'),
+	'Só há uma maneira de lutar contra o poder: é sobreviver-lhe.',
+	'0');
+
+insert into post values(
+	'8',
+	to_timestamp('19/2/62 1:1:21','YYYY-MM-DD HH24:MI:SS'),
+	'Difícil é ganhar um amigo em uma hora; fácil é ofendê-lo em um minuto.',
+	'19');
+
+insert into post values(
+	'9',
+	to_timestamp('5/7/41 4:11:11','YYYY-MM-DD HH24:MI:SS'),
+	'O primeiro grau do heroísmo é vencer o medo.',
+	'3');
+
+insert into post values(
+	'10',
+	to_timestamp('9/7/23 19:49:56','YYYY-MM-DD HH24:MI:SS'),
+	'A arte de vencer se aprende nas derrotas.',
+	'13');
+
+insert into post values(
+	'11',
+	to_timestamp('18/1/53 15:55:52','YYYY-MM-DD HH24:MI:SS'),
+	'Viver significa lutar.',
+	'18');
+
+insert into post values(
+	'12',
+	to_timestamp('14/11/34 7:7:19','YYYY-MM-DD HH24:MI:SS'),
+	'Lutar contra a injustiça custa-me mais do que sofrê-la.',
+	'0');
+
+insert into post values(
+	'13',
+	to_timestamp('25/8/70 7:6:31','YYYY-MM-DD HH24:MI:SS'),
+	'O mal não pode vencer o mal. Só o bem pode fazê-lo.',
+	'9');
+
+insert into post values(
+	'14',
+	to_timestamp('5/6/57 16:55:16','YYYY-MM-DD HH24:MI:SS'),
+	'De nada serve ao homem conquistar a Lua se acaba por perder a Terra.',
+	'19');
+
+insert into post values(
+	'15',
+	to_timestamp('1/11/97 11:46:34','YYYY-MM-DD HH24:MI:SS'),
+	'O homem digno ganha para viver; o menos honesto vive para ganhar.',
+	'2');
+
+insert into post values(
+	'16',
+	to_timestamp('28/11/88 6:56:17','YYYY-MM-DD HH24:MI:SS'),
+	'Se você pretende ser rico, pense em economizar tanto quanto em ganhar.',
+	'12');
+
+insert into post values(
+	'17',
+	to_timestamp('24/5/35 7:18:28','YYYY-MM-DD HH24:MI:SS'),
+	'É fácil adquirir um inimigo; difícil é conquistar um amigo.',
+	'13');
+
+insert into post values(
+	'18',
+	to_timestamp('20/1/9 9:45:14','YYYY-MM-DD HH24:MI:SS'),
+	'Muitos sabem ganhar dinheiro, mas poucos sabem gastá-lo.',
+	'15');
+
+insert into post values(
+	'19',
+	to_timestamp('24/10/57 12:13:35','YYYY-MM-DD HH24:MI:SS'),
+	'É melhor conquistar a si mesmo do que vencer mil batalhas.',
+	'4');
+
+insert into post values(
+	'20',
+	to_timestamp('8/1/64 15:57:55','YYYY-MM-DD HH24:MI:SS'),
+	'Só se pode vencer a natureza obedecendo-lhe.',
+	'3');
+
+insert into post values(
+	'21',
+	to_timestamp('5/6/91 18:46:7','YYYY-MM-DD HH24:MI:SS'),
+	'Nada é mais humilhante do que ver os tolos vencer naquilo em que fracassámos.',
+	'12');
+
+insert into post values(
+	'22',
+	to_timestamp('18/9/3 2:4:4','YYYY-MM-DD HH24:MI:SS'),
+	'Não basta conquistar a sabedoria, é preciso usá-la.',
+	'2');
+
+insert into post values(
+	'23',
+	to_timestamp('2/1/78 1:26:40','YYYY-MM-DD HH24:MI:SS'),
+	'Viver significa lutar.',
+	'11');
+
+insert into post values(
+	'24',
+	to_timestamp('3/5/34 0:40:52','YYYY-MM-DD HH24:MI:SS'),
+	'Prefiro perder a guerra e ganhar a paz.',
+	'9');
+
+insert into post values(
+	'25',
+	to_timestamp('8/4/50 12:0:28','YYYY-MM-DD HH24:MI:SS'),
+	'É mais fácil vencer um mau hábito hoje do que amanhã.',
+	'11');
+
+insert into post values(
+	'26',
+	to_timestamp('17/7/83 14:49:10','YYYY-MM-DD HH24:MI:SS'),
+	'O homem nasceu para lutar e a sua vida é uma eterna batalha.',
+	'5');
+
+insert into post values(
+	'27',
+	to_timestamp('3/10/10 1:5:22','YYYY-MM-DD HH24:MI:SS'),
+	'Só é lutador quem sabe lutar consigo mesmo.',
+	'19');
+
+insert into post values(
+	'28',
+	to_timestamp('18/1/8 15:30:3','YYYY-MM-DD HH24:MI:SS'),
+	'Enquanto houver vontade de lutar haverá esperança de vencer.',
+	'2');
+
+insert into post values(
+	'29',
+	to_timestamp('26/5/19 21:9:52','YYYY-MM-DD HH24:MI:SS'),
+	'O primeiro grau do heroísmo é vencer o medo.',
+	'14');
+
+insert into post values(
+	'30',
+	to_timestamp('17/10/29 2:52:52','YYYY-MM-DD HH24:MI:SS'),
+	'Vale mais lutar com gente de bem do que triunfar sobre gente ruim.',
+	'19');
+
+insert into post values(
+	'31',
+	to_timestamp('24/11/11 20:53:53','YYYY-MM-DD HH24:MI:SS'),
+	'Aquele que não tem confiança nos outros, não lhes pode ganhar a confiança.',
+	'5');
+
+insert into post values(
+	'32',
+	to_timestamp('3/9/20 11:32:1','YYYY-MM-DD HH24:MI:SS'),
+	'Sonha e serás livre de espírito... luta e serás livre na vida.',
+	'0');
+
+insert into post values(
+	'33',
+	to_timestamp('23/8/95 11:32:28','YYYY-MM-DD HH24:MI:SS'),
+	'É mais difícil vencer hábitos ruins do que despedaçar rochas.',
+	'11');
+
+insert into post values(
+	'34',
+	to_timestamp('25/7/4 16:41:2','YYYY-MM-DD HH24:MI:SS'),
+	'De que serve ao homem conquistar o mundo inteiro se perder a alma?',
+	'4');
+
+insert into post values(
+	'35',
+	to_timestamp('7/7/38 1:24:46','YYYY-MM-DD HH24:MI:SS'),
+	'Nada é mais humilhante do que ver os tolos vencer naquilo em que fracassámos.',
+	'8');
+
+insert into post values(
+	'36',
+	to_timestamp('27/3/7 8:47:29','YYYY-MM-DD HH24:MI:SS'),
+	'Fácil é sonhar todas as noites. Difícil é lutar por um sonho.',
+	'15');
+
+insert into post values(
+	'37',
+	to_timestamp('15/2/85 22:17:16','YYYY-MM-DD HH24:MI:SS'),
+	'A única forma de vencer uma discussão é evitá-la.',
+	'0');
+
+insert into post values(
+	'38',
+	to_timestamp('12/3/98 1:7:23','YYYY-MM-DD HH24:MI:SS'),
+	'O medo de perder tira a vontade de ganhar.',
+	'1');
+
+insert into post values(
+	'39',
+	to_timestamp('22/2/67 6:34:46','YYYY-MM-DD HH24:MI:SS'),
+	'Querer vencer significa já ter percorrido metade do caminho.',
+	'1');
+
+insert into post values(
+	'40',
+	to_timestamp('25/5/67 7:55:3','YYYY-MM-DD HH24:MI:SS'),
+	'A única forma de vencer uma discussão é evitá-la.',
+	'7');
+
+insert into post values(
+	'41',
+	to_timestamp('12/5/16 10:28:41','YYYY-MM-DD HH24:MI:SS'),
+	'O homem nasceu para lutar e a sua vida é uma eterna batalha.',
+	'9');
+
+insert into post values(
+	'42',
+	to_timestamp('25/9/39 8:34:20','YYYY-MM-DD HH24:MI:SS'),
+	'Arriscamo-nos a perder quando queremos ganhar demais.',
+	'12');
+
+insert into post values(
+	'43',
+	to_timestamp('17/3/32 6:14:48','YYYY-MM-DD HH24:MI:SS'),
+	'Perder para a razão, sempre é ganhar.',
+	'16');
+
+insert into post values(
+	'44',
+	to_timestamp('23/2/50 11:10:11','YYYY-MM-DD HH24:MI:SS'),
+	'Para ganhar aquilo que vale a pena ter, pode ser necessário perder tudo mais.',
+	'9');
+
+insert into post values(
+	'45',
+	to_timestamp('19/1/87 4:4:27','YYYY-MM-DD HH24:MI:SS'),
+	'Lutar contra a injustiça custa-me mais do que sofrê-la.',
+	'18');
+
+insert into post values(
+	'46',
+	to_timestamp('9/5/87 4:44:12','YYYY-MM-DD HH24:MI:SS'),
+	'Sofrer, é só uma vez; vencer, é para a eternidade.',
+	'9');
+
+insert into post values(
+	'47',
+	to_timestamp('24/2/94 16:49:13','YYYY-MM-DD HH24:MI:SS'),
+	'Sofrer, é só uma vez; vencer, é para a eternidade.',
+	'10');
+
+insert into post values(
+	'48',
+	to_timestamp('26/3/75 19:0:47','YYYY-MM-DD HH24:MI:SS'),
+	'Querer vencer significa já ter percorrido metade do caminho.',
+	'16');
+
+insert into post values(
+	'49',
+	to_timestamp('27/9/41 2:8:2','YYYY-MM-DD HH24:MI:SS'),
+	'Acredite na justiça, mas não a que emana dos demais e sim na tua própria',
+	'16');
+
+insert into post values(
+	'50',
+	to_timestamp('23/5/9 11:18:54','YYYY-MM-DD HH24:MI:SS'),
+	'Fácil é sonhar todas as noites. Difícil é lutar por um sonho.',
+	'2');
+
+insert into post values(
+	'51',
+	to_timestamp('12/6/43 0:3:42','YYYY-MM-DD HH24:MI:SS'),
+	'Não há dor que o sono não consiga vencer.',
+	'14');
+
+insert into post values(
+	'52',
+	to_timestamp('12/6/15 18:48:37','YYYY-MM-DD HH24:MI:SS'),
+	'O importante não é vencer todos os dias, mas lutar sempre.',
+	'6');
+
+insert into post values(
+	'53',
+	to_timestamp('22/6/11 0:25:5','YYYY-MM-DD HH24:MI:SS'),
+	'Maior que a tristeza de não haver vencido é a vergonha de não ter lutado!',
+	'7');
+
+insert into post values(
+	'54',
+	to_timestamp('17/6/21 6:13:48','YYYY-MM-DD HH24:MI:SS'),
+	'Sonha e serás livre de espírito... luta e serás livre na vida.',
+	'15');
+
+insert into post values(
+	'55',
+	to_timestamp('26/6/25 6:38:21','YYYY-MM-DD HH24:MI:SS'),
+	'Quer você acredite que consiga fazer uma coisa ou não, você está certo.',
+	'8');
+
+insert into post values(
+	'56',
+	to_timestamp('6/4/15 13:31:11','YYYY-MM-DD HH24:MI:SS'),
+	'Só é lutador quem sabe lutar consigo mesmo.',
+	'14');
+
+insert into post values(
+	'57',
+	to_timestamp('16/11/53 22:22:26','YYYY-MM-DD HH24:MI:SS'),
+	'Prefiro perder a guerra e ganhar a paz.',
+	'6');
+
+insert into post values(
+	'58',
+	to_timestamp('17/4/27 18:52:29','YYYY-MM-DD HH24:MI:SS'),
+	'Não há dor que o sono não consiga vencer.',
+	'17');
+
+insert into post values(
+	'59',
+	to_timestamp('19/1/11 8:8:5','YYYY-MM-DD HH24:MI:SS'),
+	'É mais difícil vencer hábitos ruins do que despedaçar rochas.',
+	'5');
+
