@@ -1,4 +1,5 @@
 insert into group values(
+      '1';
       'weeb palace',
       'we love anime!!!',
       'true',
@@ -7,6 +8,7 @@ insert into group values(
 );
 
 insert into group values(
+      '2';
       'fornite gang',
       'ligma :joy::ok_hand::100:',
       'true',
@@ -15,6 +17,7 @@ insert into group values(
 );
 
 insert into group values(
+      '3';
       'geek council',
       'Spock > Kirk dont even @ us on this',
       'true',
@@ -23,6 +26,7 @@ insert into group values(
 );
 
 insert into group values(
+      '4';
       'LEI',
       'Numerica<3',
       'true',
@@ -31,6 +35,7 @@ insert into group values(
 );
 
 insert into group values(
+      '5';
       'LEI',
       'Numerica<3',
       'true',
