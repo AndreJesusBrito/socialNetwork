@@ -1,0 +1,2023 @@
+insert into group values(
+	'0',
+	'Hope',
+	'empty');
+	'True',
+	'False',
+	'160952');
+
+insert into group values(
+	'1',
+	'Creation and evolution',
+	'empty');
+	'True',
+	'False',
+	'37417');
+
+insert into group values(
+	'2',
+	'Extinction',
+	'empty');
+	'False',
+	'False',
+	'188131');
+
+insert into group values(
+	'3',
+	'Fall (Autumn)',
+	'empty');
+	'True',
+	'False',
+	'160600');
+
+insert into group values(
+	'4',
+	'Strategy',
+	'empty');
+	'True',
+	'False',
+	'4466');
+
+insert into group values(
+	'5',
+	'Women',
+	'empty');
+	'False',
+	'True',
+	'104411');
+
+insert into group values(
+	'6',
+	'Irony',
+	'empty');
+	'False',
+	'True',
+	'45305');
+
+insert into group values(
+	'7',
+	'Independency',
+	'empty');
+	'True',
+	'True',
+	'76919');
+
+insert into group values(
+	'8',
+	'Loyalty',
+	'empty');
+	'False',
+	'True',
+	'58175');
+
+insert into group values(
+	'9',
+	'Plants',
+	'empty');
+	'True',
+	'True',
+	'116996');
+
+insert into group values(
+	'10',
+	'Wives',
+	'empty');
+	'True',
+	'True',
+	'68603');
+
+insert into group values(
+	'11',
+	'Celebratory',
+	'empty');
+	'False',
+	'False',
+	'27945');
+
+insert into group values(
+	'12',
+	'Consumerism',
+	'empty');
+	'True',
+	'False',
+	'120151');
+
+insert into group values(
+	'13',
+	'Oil',
+	'empty');
+	'True',
+	'True',
+	'53091');
+
+insert into group values(
+	'14',
+	'Philosophy',
+	'empty');
+	'True',
+	'False',
+	'22705');
+
+insert into group values(
+	'15',
+	'Hero',
+	'empty');
+	'True',
+	'True',
+	'67582');
+
+insert into group values(
+	'16',
+	'Marketing',
+	'empty');
+	'True',
+	'False',
+	'101973');
+
+insert into group values(
+	'17',
+	'Motivation',
+	'empty');
+	'True',
+	'False',
+	'27098');
+
+insert into group values(
+	'18',
+	'Procrastination',
+	'empty');
+	'False',
+	'True',
+	'177923');
+
+insert into group values(
+	'19',
+	'Gambling',
+	'empty');
+	'False',
+	'True',
+	'108263');
+
+insert into group values(
+	'20',
+	'Race',
+	'empty');
+	'True',
+	'True',
+	'169582');
+
+insert into group values(
+	'21',
+	'Volunteering',
+	'empty');
+	'True',
+	'True',
+	'76713');
+
+insert into group values(
+	'22',
+	'Great',
+	'empty');
+	'False',
+	'True',
+	'164795');
+
+insert into group values(
+	'23',
+	'Space',
+	'empty');
+	'True',
+	'True',
+	'13620');
+
+insert into group values(
+	'24',
+	'Ghosts',
+	'empty');
+	'False',
+	'False',
+	'195454');
+
+insert into group values(
+	'25',
+	'Opportunity',
+	'empty');
+	'False',
+	'False',
+	'188720');
+
+insert into group values(
+	'26',
+	'Opinion',
+	'empty');
+	'False',
+	'False',
+	'116352');
+
+insert into group values(
+	'27',
+	'God',
+	'empty');
+	'True',
+	'True',
+	'88021');
+
+insert into group values(
+	'28',
+	'Ethics',
+	'empty');
+	'True',
+	'False',
+	'106683');
+
+insert into group values(
+	'29',
+	'Serialism',
+	'empty');
+	'True',
+	'True',
+	'17072');
+
+insert into group values(
+	'30',
+	'Waste',
+	'empty');
+	'True',
+	'True',
+	'143323');
+
+insert into group values(
+	'31',
+	'Husbands',
+	'empty');
+	'True',
+	'False',
+	'146076');
+
+insert into group values(
+	'32',
+	'Suicide',
+	'empty');
+	'False',
+	'False',
+	'119166');
+
+insert into group values(
+	'33',
+	'Guilt',
+	'empty');
+	'True',
+	'True',
+	'79113');
+
+insert into group values(
+	'34',
+	'Performance',
+	'empty');
+	'True',
+	'False',
+	'164085');
+
+insert into group values(
+	'35',
+	'Journalism',
+	'empty');
+	'True',
+	'True',
+	'16121');
+
+insert into group values(
+	'36',
+	'Conservation',
+	'empty');
+	'False',
+	'False',
+	'38400');
+
+insert into group values(
+	'37',
+	'Fools',
+	'empty');
+	'True',
+	'False',
+	'137661');
+
+insert into group values(
+	'38',
+	'Economics',
+	'empty');
+	'True',
+	'False',
+	'167637');
+
+insert into group values(
+	'39',
+	'Heaven',
+	'empty');
+	'False',
+	'False',
+	'173691');
+
+insert into group values(
+	'40',
+	'Girls',
+	'empty');
+	'False',
+	'True',
+	'162650');
+
+insert into group values(
+	'41',
+	'Quotations',
+	'empty');
+	'False',
+	'False',
+	'129323');
+
+insert into group values(
+	'42',
+	'Responsibility',
+	'empty');
+	'True',
+	'False',
+	'149350');
+
+insert into group values(
+	'43',
+	'Autonomy',
+	'empty');
+	'True',
+	'True',
+	'97045');
+
+insert into group values(
+	'44',
+	'Optimism',
+	'empty');
+	'True',
+	'True',
+	'63683');
+
+insert into group values(
+	'45',
+	'Tonality',
+	'empty');
+	'True',
+	'False',
+	'186708');
+
+insert into group values(
+	'46',
+	'Form',
+	'empty');
+	'False',
+	'False',
+	'143342');
+
+insert into group values(
+	'47',
+	'Scratching',
+	'empty');
+	'False',
+	'False',
+	'19029');
+
+insert into group values(
+	'48',
+	'Automobiles',
+	'empty');
+	'True',
+	'True',
+	'86165');
+
+insert into group values(
+	'49',
+	'Simplicity',
+	'empty');
+	'False',
+	'False',
+	'64280');
+
+insert into group values(
+	'50',
+	'Good',
+	'empty');
+	'False',
+	'False',
+	'133079');
+
+insert into group values(
+	'51',
+	'Apocalypse',
+	'empty');
+	'True',
+	'True',
+	'140013');
+
+insert into group values(
+	'52',
+	'Espionage',
+	'empty');
+	'False',
+	'False',
+	'113543');
+
+insert into group values(
+	'53',
+	'New musicology',
+	'empty');
+	'True',
+	'False',
+	'115192');
+
+insert into group values(
+	'54',
+	'Arrogance',
+	'empty');
+	'False',
+	'False',
+	'34793');
+
+insert into group values(
+	'55',
+	'Youth',
+	'empty');
+	'True',
+	'True',
+	'1646');
+
+insert into group values(
+	'56',
+	'Literature',
+	'empty');
+	'False',
+	'True',
+	'139955');
+
+insert into group values(
+	'57',
+	'Chess',
+	'empty');
+	'True',
+	'False',
+	'139861');
+
+insert into group values(
+	'58',
+	'Concert',
+	'empty');
+	'True',
+	'False',
+	'117389');
+
+insert into group values(
+	'59',
+	'Isolation',
+	'empty');
+	'True',
+	'True',
+	'144327');
+
+insert into group values(
+	'60',
+	'Divorce',
+	'empty');
+	'False',
+	'True',
+	'199441');
+
+insert into group values(
+	'61',
+	'Wisdom',
+	'empty');
+	'False',
+	'True',
+	'133807');
+
+insert into group values(
+	'62',
+	'Advertising',
+	'empty');
+	'True',
+	'False',
+	'71371');
+
+insert into group values(
+	'63',
+	'Truth',
+	'empty');
+	'False',
+	'False',
+	'191881');
+
+insert into group values(
+	'64',
+	'Information',
+	'empty');
+	'True',
+	'True',
+	'180985');
+
+insert into group values(
+	'65',
+	'Mankind',
+	'empty');
+	'False',
+	'True',
+	'4262');
+
+insert into group values(
+	'66',
+	'Computers',
+	'empty');
+	'True',
+	'True',
+	'86987');
+
+insert into group values(
+	'67',
+	'Age',
+	'empty');
+	'False',
+	'False',
+	'75301');
+
+insert into group values(
+	'68',
+	'Video Games',
+	'empty');
+	'False',
+	'False',
+	'48292');
+
+insert into group values(
+	'69',
+	'Atheism',
+	'empty');
+	'False',
+	'False',
+	'32443');
+
+insert into group values(
+	'70',
+	'Democracy',
+	'empty');
+	'True',
+	'True',
+	'143126');
+
+insert into group values(
+	'71',
+	'Intelligence',
+	'empty');
+	'False',
+	'True',
+	'146283');
+
+insert into group values(
+	'72',
+	'Loneliness',
+	'empty');
+	'False',
+	'False',
+	'76138');
+
+insert into group values(
+	'73',
+	'Tonality',
+	'empty');
+	'True',
+	'False',
+	'23630');
+
+insert into group values(
+	'74',
+	'Ignorance',
+	'empty');
+	'False',
+	'True',
+	'92629');
+
+insert into group values(
+	'75',
+	'Physics',
+	'empty');
+	'False',
+	'False',
+	'74508');
+
+insert into group values(
+	'76',
+	'Technology',
+	'empty');
+	'False',
+	'True',
+	'47684');
+
+insert into group values(
+	'77',
+	'Individuality',
+	'empty');
+	'False',
+	'False',
+	'147425');
+
+insert into group values(
+	'78',
+	'Enemies',
+	'empty');
+	'False',
+	'True',
+	'156560');
+
+insert into group values(
+	'79',
+	'Leadership',
+	'empty');
+	'True',
+	'False',
+	'111768');
+
+insert into group values(
+	'80',
+	'Medicine',
+	'empty');
+	'False',
+	'False',
+	'123018');
+
+insert into group values(
+	'81',
+	'Feminism',
+	'empty');
+	'False',
+	'False',
+	'32019');
+
+insert into group values(
+	'82',
+	'Chance',
+	'empty');
+	'False',
+	'True',
+	'16560');
+
+insert into group values(
+	'83',
+	'Serialism',
+	'empty');
+	'True',
+	'True',
+	'13440');
+
+insert into group values(
+	'84',
+	'Law',
+	'empty');
+	'False',
+	'False',
+	'173941');
+
+insert into group values(
+	'85',
+	'Valor',
+	'empty');
+	'True',
+	'False',
+	'195044');
+
+insert into group values(
+	'86',
+	'Pseudoscience',
+	'empty');
+	'False',
+	'False',
+	'96125');
+
+insert into group values(
+	'87',
+	'Alienation',
+	'empty');
+	'True',
+	'False',
+	'11412');
+
+insert into group values(
+	'88',
+	'Anger',
+	'empty');
+	'True',
+	'False',
+	'124509');
+
+insert into group values(
+	'89',
+	'Cats',
+	'empty');
+	'False',
+	'False',
+	'80183');
+
+insert into group values(
+	'90',
+	'Acting',
+	'empty');
+	'False',
+	'False',
+	'45407');
+
+insert into group values(
+	'91',
+	'Upset',
+	'empty');
+	'True',
+	'False',
+	'95941');
+
+insert into group values(
+	'92',
+	'Public Speaking',
+	'empty');
+	'True',
+	'True',
+	'15931');
+
+insert into group values(
+	'93',
+	'Irrelevance',
+	'empty');
+	'False',
+	'False',
+	'138378');
+
+insert into group values(
+	'94',
+	'Citizenship',
+	'empty');
+	'True',
+	'False',
+	'111263');
+
+insert into group values(
+	'95',
+	'Epistemology',
+	'empty');
+	'False',
+	'False',
+	'867');
+
+insert into group values(
+	'96',
+	'Time',
+	'empty');
+	'True',
+	'False',
+	'44456');
+
+insert into group values(
+	'97',
+	'Slashdot',
+	'empty');
+	'False',
+	'False',
+	'55871');
+
+insert into group values(
+	'98',
+	'Humility',
+	'empty');
+	'True',
+	'True',
+	'61542');
+
+insert into group values(
+	'99',
+	'Sadism and Masochism',
+	'empty');
+	'True',
+	'True',
+	'120414');
+
+insert into group values(
+	'100',
+	'Anarchism',
+	'empty');
+	'False',
+	'True',
+	'65371');
+
+insert into group values(
+	'101',
+	'Teams and team work',
+	'empty');
+	'True',
+	'False',
+	'98389');
+
+insert into group values(
+	'102',
+	'Conservation',
+	'empty');
+	'False',
+	'False',
+	'11068');
+
+insert into group values(
+	'103',
+	'Drinking',
+	'empty');
+	'False',
+	'True',
+	'6408');
+
+insert into group values(
+	'104',
+	'Debate',
+	'empty');
+	'False',
+	'False',
+	'102638');
+
+insert into group values(
+	'105',
+	'Exercise',
+	'empty');
+	'True',
+	'True',
+	'139438');
+
+insert into group values(
+	'106',
+	'Kindness',
+	'empty');
+	'False',
+	'True',
+	'189065');
+
+insert into group values(
+	'107',
+	'Government',
+	'empty');
+	'False',
+	'False',
+	'59985');
+
+insert into group values(
+	'108',
+	'Fathers',
+	'empty');
+	'True',
+	'False',
+	'84632');
+
+insert into group values(
+	'109',
+	'Homosexuality',
+	'empty');
+	'False',
+	'True',
+	'51146');
+
+insert into group values(
+	'110',
+	'Nature',
+	'empty');
+	'True',
+	'False',
+	'151767');
+
+insert into group values(
+	'111',
+	'Human nature',
+	'empty');
+	'False',
+	'True',
+	'80776');
+
+insert into group values(
+	'112',
+	'All About You',
+	'empty');
+	'False',
+	'True',
+	'167219');
+
+insert into group values(
+	'113',
+	'Protection',
+	'empty');
+	'True',
+	'False',
+	'145418');
+
+insert into group values(
+	'114',
+	'Purpose',
+	'empty');
+	'True',
+	'False',
+	'109197');
+
+insert into group values(
+	'115',
+	'Terrorism',
+	'empty');
+	'True',
+	'False',
+	'116896');
+
+insert into group values(
+	'116',
+	'Theory and practice',
+	'empty');
+	'True',
+	'True',
+	'126583');
+
+insert into group values(
+	'117',
+	'Vegetarianism',
+	'empty');
+	'False',
+	'False',
+	'71213');
+
+insert into group values(
+	'118',
+	'Normality',
+	'empty');
+	'False',
+	'True',
+	'44404');
+
+insert into group values(
+	'119',
+	'Television',
+	'empty');
+	'False',
+	'False',
+	'107943');
+
+insert into group values(
+	'120',
+	'Guru',
+	'empty');
+	'True',
+	'False',
+	'70140');
+
+insert into group values(
+	'121',
+	'Anthropology',
+	'empty');
+	'True',
+	'False',
+	'183061');
+
+insert into group values(
+	'122',
+	'Morality',
+	'empty');
+	'True',
+	'True',
+	'181237');
+
+insert into group values(
+	'123',
+	'Beauty',
+	'empty');
+	'True',
+	'True',
+	'145807');
+
+insert into group values(
+	'124',
+	'Psychology',
+	'empty');
+	'True',
+	'False',
+	'162746');
+
+insert into group values(
+	'125',
+	'Silence',
+	'empty');
+	'True',
+	'True',
+	'124674');
+
+insert into group values(
+	'126',
+	'Boats',
+	'empty');
+	'False',
+	'True',
+	'126424');
+
+insert into group values(
+	'127',
+	'Form',
+	'empty');
+	'False',
+	'True',
+	'96745');
+
+insert into group values(
+	'128',
+	'Rain',
+	'empty');
+	'True',
+	'False',
+	'118092');
+
+insert into group values(
+	'129',
+	'Internet',
+	'empty');
+	'False',
+	'True',
+	'137428');
+
+insert into group values(
+	'130',
+	'Apathy',
+	'empty');
+	'False',
+	'True',
+	'147397');
+
+insert into group values(
+	'131',
+	'Future',
+	'empty');
+	'False',
+	'False',
+	'133092');
+
+insert into group values(
+	'132',
+	'Discourse',
+	'empty');
+	'False',
+	'True',
+	'181735');
+
+insert into group values(
+	'133',
+	'Middle name',
+	'empty');
+	'False',
+	'True',
+	'59276');
+
+insert into group values(
+	'134',
+	'Ideology',
+	'empty');
+	'True',
+	'False',
+	'35206');
+
+insert into group values(
+	'135',
+	'Gender',
+	'empty');
+	'False',
+	'False',
+	'85073');
+
+insert into group values(
+	'136',
+	'Europe',
+	'empty');
+	'False',
+	'True',
+	'195623');
+
+insert into group values(
+	'137',
+	'Evolution',
+	'empty');
+	'True',
+	'False',
+	'18507');
+
+insert into group values(
+	'138',
+	'Boys',
+	'empty');
+	'True',
+	'True',
+	'61442');
+
+insert into group values(
+	'139',
+	'Dedication',
+	'empty');
+	'True',
+	'True',
+	'30561');
+
+insert into group values(
+	'140',
+	'Depression',
+	'empty');
+	'True',
+	'False',
+	'63298');
+
+insert into group values(
+	'141',
+	'Dogs',
+	'empty');
+	'True',
+	'True',
+	'195152');
+
+insert into group values(
+	'142',
+	'Photography',
+	'empty');
+	'True',
+	'True',
+	'161858');
+
+insert into group values(
+	'143',
+	'Recording',
+	'empty');
+	'True',
+	'False',
+	'167525');
+
+insert into group values(
+	'144',
+	'Environment',
+	'empty');
+	'True',
+	'False',
+	'12881');
+
+insert into group values(
+	'145',
+	'Crime',
+	'empty');
+	'False',
+	'True',
+	'163581');
+
+insert into group values(
+	'146',
+	'Fire',
+	'empty');
+	'True',
+	'True',
+	'19439');
+
+insert into group values(
+	'147',
+	'Abstinence',
+	'empty');
+	'False',
+	'False',
+	'96140');
+
+insert into group values(
+	'148',
+	'Essentialism',
+	'empty');
+	'True',
+	'False',
+	'53453');
+
+insert into group values(
+	'149',
+	'Polyamory',
+	'empty');
+	'True',
+	'False',
+	'178066');
+
+insert into group values(
+	'150',
+	'Alcohol',
+	'empty');
+	'False',
+	'False',
+	'139665');
+
+insert into group values(
+	'151',
+	'Sunrise / Sunset',
+	'empty');
+	'False',
+	'True',
+	'68199');
+
+insert into group values(
+	'152',
+	'Success',
+	'empty');
+	'True',
+	'True',
+	'10895');
+
+insert into group values(
+	'153',
+	'Forethought',
+	'empty');
+	'False',
+	'False',
+	'42224');
+
+insert into group values(
+	'154',
+	'Violence',
+	'empty');
+	'True',
+	'True',
+	'143248');
+
+insert into group values(
+	'155',
+	'Waste',
+	'empty');
+	'False',
+	'True',
+	'166951');
+
+insert into group values(
+	'156',
+	'Segregation',
+	'empty');
+	'True',
+	'False',
+	'117134');
+
+insert into group values(
+	'157',
+	'Soul',
+	'empty');
+	'False',
+	'True',
+	'534');
+
+insert into group values(
+	'158',
+	'Names',
+	'empty');
+	'True',
+	'False',
+	'147381');
+
+insert into group values(
+	'159',
+	'Memory',
+	'empty');
+	'False',
+	'True',
+	'102364');
+
+insert into group values(
+	'160',
+	'Death',
+	'empty');
+	'False',
+	'True',
+	'29732');
+
+insert into group values(
+	'161',
+	'Wealth',
+	'empty');
+	'True',
+	'True',
+	'30886');
+
+insert into group values(
+	'162',
+	'Fascism',
+	'empty');
+	'False',
+	'False',
+	'86249');
+
+insert into group values(
+	'163',
+	'Knowledge',
+	'empty');
+	'False',
+	'False',
+	'94070');
+
+insert into group values(
+	'164',
+	'Sexuality',
+	'empty');
+	'True',
+	'False',
+	'26504');
+
+insert into group values(
+	'165',
+	'Solitude',
+	'empty');
+	'False',
+	'True',
+	'52768');
+
+insert into group values(
+	'166',
+	'Language',
+	'empty');
+	'False',
+	'False',
+	'81780');
+
+insert into group values(
+	'167',
+	'Ecology',
+	'empty');
+	'False',
+	'False',
+	'134215');
+
+insert into group values(
+	'168',
+	'Necessity',
+	'empty');
+	'False',
+	'False',
+	'117844');
+
+insert into group values(
+	'169',
+	'Justice',
+	'empty');
+	'False',
+	'True',
+	'139172');
+
+insert into group values(
+	'170',
+	'Money',
+	'empty');
+	'True',
+	'True',
+	'159103');
+
+insert into group values(
+	'171',
+	'Curiosity',
+	'empty');
+	'True',
+	'False',
+	'76991');
+
+insert into group values(
+	'172',
+	'Revolution',
+	'empty');
+	'True',
+	'False',
+	'90304');
+
+insert into group values(
+	'173',
+	'Books',
+	'empty');
+	'True',
+	'True',
+	'123251');
+
+insert into group values(
+	'174',
+	'Monarchy',
+	'empty');
+	'False',
+	'True',
+	'57618');
+
+insert into group values(
+	'175',
+	'Nationalism',
+	'empty');
+	'True',
+	'False',
+	'156206');
+
+insert into group values(
+	'176',
+	'War',
+	'empty');
+	'True',
+	'True',
+	'2403');
+
+insert into group values(
+	'177',
+	'Regret',
+	'empty');
+	'True',
+	'False',
+	'7598');
+
+insert into group values(
+	'178',
+	'Spring',
+	'empty');
+	'True',
+	'True',
+	'57621');
+
+insert into group values(
+	'179',
+	'Inner peace',
+	'empty');
+	'True',
+	'False',
+	'188676');
+
+insert into group values(
+	'180',
+	'Propaganda',
+	'empty');
+	'False',
+	'True',
+	'69816');
+
+insert into group values(
+	'181',
+	'Zoology',
+	'empty');
+	'False',
+	'False',
+	'47380');
+
+insert into group values(
+	'182',
+	'Cynicism',
+	'empty');
+	'False',
+	'True',
+	'180625');
+
+insert into group values(
+	'183',
+	'Writing',
+	'empty');
+	'False',
+	'True',
+	'31763');
+
+insert into group values(
+	'184',
+	'Smuggling',
+	'empty');
+	'False',
+	'False',
+	'35414');
+
+insert into group values(
+	'185',
+	'Tea',
+	'empty');
+	'True',
+	'False',
+	'187847');
+
+insert into group values(
+	'186',
+	'Sisters',
+	'empty');
+	'True',
+	'True',
+	'112559');
+
+insert into group values(
+	'187',
+	'Trees',
+	'empty');
+	'False',
+	'False',
+	'4106');
+
+insert into group values(
+	'188',
+	'Despair',
+	'empty');
+	'False',
+	'True',
+	'5046');
+
+insert into group values(
+	'189',
+	'Cult',
+	'empty');
+	'True',
+	'True',
+	'171143');
+
+insert into group values(
+	'190',
+	'Art',
+	'empty');
+	'False',
+	'True',
+	'62391');
+
+insert into group values(
+	'191',
+	'Vacation',
+	'empty');
+	'False',
+	'True',
+	'41339');
+
+insert into group values(
+	'192',
+	'Secrecy',
+	'empty');
+	'False',
+	'True',
+	'168112');
+
+insert into group values(
+	'193',
+	'Prejudice',
+	'empty');
+	'True',
+	'False',
+	'196404');
+
+insert into group values(
+	'194',
+	'Sanity',
+	'empty');
+	'True',
+	'False',
+	'43410');
+
+insert into group values(
+	'195',
+	'Confidence',
+	'empty');
+	'True',
+	'False',
+	'168469');
+
+insert into group values(
+	'196',
+	'Sex',
+	'empty');
+	'False',
+	'False',
+	'74685');
+
+insert into group values(
+	'197',
+	'Absurdity',
+	'empty');
+	'False',
+	'True',
+	'146512');
+
+insert into group values(
+	'198',
+	'Sociology',
+	'empty');
+	'True',
+	'False',
+	'142855');
+
+insert into group values(
+	'199',
+	'Passion',
+	'empty');
+	'False',
+	'False',
+	'126441');
+
+insert into group values(
+	'200',
+	'Bokononism',
+	'empty');
+	'False',
+	'False',
+	'15606');
+
+insert into group values(
+	'201',
+	'Mass culture',
+	'empty');
+	'True',
+	'False',
+	'134329');
+
+insert into group values(
+	'202',
+	'Guns',
+	'empty');
+	'False',
+	'False',
+	'164929');
+
+insert into group values(
+	'203',
+	'Common sense',
+	'empty');
+	'True',
+	'True',
+	'17897');
+
+insert into group values(
+	'204',
+	'Admiration',
+	'empty');
+	'True',
+	'True',
+	'49938');
+
+insert into group values(
+	'205',
+	'Fark',
+	'empty');
+	'False',
+	'True',
+	'43762');
+
+insert into group values(
+	'206',
+	'Winter',
+	'empty');
+	'False',
+	'False',
+	'5638');
+
+insert into group values(
+	'207',
+	'Disability',
+	'empty');
+	'False',
+	'True',
+	'122531');
+
+insert into group values(
+	'208',
+	'Life',
+	'empty');
+	'False',
+	'True',
+	'18986');
+
+insert into group values(
+	'209',
+	'Perfection',
+	'empty');
+	'False',
+	'True',
+	'11226');
+
+insert into group values(
+	'210',
+	'Tobacco',
+	'empty');
+	'True',
+	'True',
+	'195776');
+
+insert into group values(
+	'211',
+	'Sports',
+	'empty');
+	'True',
+	'False',
+	'23497');
+
+insert into group values(
+	'212',
+	'Reality',
+	'empty');
+	'False',
+	'False',
+	'116728');
+
+insert into group values(
+	'213',
+	'Science',
+	'empty');
+	'True',
+	'False',
+	'191730');
+
+insert into group values(
+	'214',
+	'Imagination',
+	'empty');
+	'True',
+	'False',
+	'180854');
+
+insert into group values(
+	'215',
+	'Identity',
+	'empty');
+	'False',
+	'True',
+	'100587');
+
+insert into group values(
+	'216',
+	'Jealousy',
+	'empty');
+	'True',
+	'True',
+	'163090');
+
+insert into group values(
+	'217',
+	'Bible',
+	'empty');
+	'False',
+	'True',
+	'188187');
+
+insert into group values(
+	'218',
+	'Bravery',
+	'empty');
+	'False',
+	'True',
+	'76499');
+
+insert into group values(
+	'219',
+	'Honor',
+	'empty');
+	'True',
+	'False',
+	'138874');
+
+insert into group values(
+	'220',
+	'Trust',
+	'empty');
+	'True',
+	'False',
+	'91763');
+
+insert into group values(
+	'221',
+	'Resistance',
+	'empty');
+	'True',
+	'False',
+	'22420');
+
+insert into group values(
+	'222',
+	'Courage',
+	'empty');
+	'True',
+	'True',
+	'42653');
+
+insert into group values(
+	'223',
+	'Stealing',
+	'empty');
+	'False',
+	'True',
+	'170502');
+
+insert into group values(
+	'224',
+	'Masturbation',
+	'empty');
+	'True',
+	'False',
+	'191729');
+
+insert into group values(
+	'225',
+	'Mercy',
+	'empty');
+	'False',
+	'False',
+	'157631');
+
+insert into group values(
+	'226',
+	'Failure',
+	'empty');
+	'False',
+	'False',
+	'319');
+
+insert into group values(
+	'227',
+	'Dreams',
+	'empty');
+	'False',
+	'True',
+	'54592');
+
+insert into group values(
+	'228',
+	'Work',
+	'empty');
+	'False',
+	'False',
+	'105095');
+
+insert into group values(
+	'229',
+	'Happiness',
+	'empty');
+	'True',
+	'True',
+	'123420');
+
+insert into group values(
+	'230',
+	'Love',
+	'empty');
+	'True',
+	'True',
+	'147071');
+
+insert into group values(
+	'231',
+	'Christmas',
+	'empty');
+	'False',
+	'False',
+	'156664');
+
+insert into group values(
+	'232',
+	'Skepticism',
+	'empty');
+	'False',
+	'False',
+	'94924');
+
+insert into group values(
+	'233',
+	'Self discipline',
+	'empty');
+	'True',
+	'True',
+	'140235');
+
+insert into group values(
+	'234',
+	'Travel',
+	'empty');
+	'False',
+	'False',
+	'187847');
+
+insert into group values(
+	'235',
+	'Words',
+	'empty');
+	'True',
+	'True',
+	'119647');
+
+insert into group values(
+	'236',
+	'Stupidity',
+	'empty');
+	'False',
+	'False',
+	'94777');
+
+insert into group values(
+	'237',
+	'Tolerance',
+	'empty');
+	'True',
+	'True',
+	'29262');
+
+insert into group values(
+	'238',
+	'Elders',
+	'empty');
+	'True',
+	'False',
+	'9886');
+
+insert into group values(
+	'239',
+	'Brothers',
+	'empty');
+	'True',
+	'False',
+	'117125');
+
+insert into group values(
+	'240',
+	'Summer',
+	'empty');
+	'False',
+	'False',
+	'144550');
+
+insert into group values(
+	'241',
+	'Sound',
+	'empty');
+	'True',
+	'False',
+	'36995');
+
+insert into group values(
+	'242',
+	'Bisexuality',
+	'empty');
+	'False',
+	'True',
+	'176495');
+
+insert into group values(
+	'243',
+	'Politics',
+	'empty');
+	'True',
+	'False',
+	'6362');
+
+insert into group values(
+	'244',
+	'Dance',
+	'empty');
+	'True',
+	'False',
+	'168012');
+
+insert into group values(
+	'245',
+	'Change',
+	'empty');
+	'True',
+	'True',
+	'89773');
+
+insert into group values(
+	'246',
+	'Performance',
+	'empty');
+	'True',
+	'False',
+	'110336');
+
+insert into group values(
+	'247',
+	'Mathematics',
+	'empty');
+	'False',
+	'False',
+	'124272');
+
+insert into group values(
+	'248',
+	'Marijuana',
+	'empty');
+	'False',
+	'True',
+	'118339');
+
+insert into group values(
+	'249',
+	'Marriage',
+	'empty');
+	'True',
+	'False',
+	'165675');
+
+insert into group values(
+	'250',
+	'Hypocrisy',
+	'empty');
+	'True',
+	'False',
+	'151931');
+
+insert into group values(
+	'251',
+	'Mothers',
+	'empty');
+	'False',
+	'True',
+	'125943');
+
+insert into group values(
+	'252',
+	'Acquisition',
+	'empty');
+	'False',
+	'False',
+	'907
