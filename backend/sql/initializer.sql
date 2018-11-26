@@ -2,34 +2,36 @@
     Base Classes
 ----------------------------------------------------*/
 
-CREATE TABLE User (
+CREATE TABLE Users (
     ID                  INT         PRIMARY KEY,
-    name                VARCHAR(?),
-    password            VARCHAR(?),
-    email               VARCHAR(?)  UNIQUE,
-    bio                 VARCHAR(150),
+    name                VARCHAR(50),
+    city                VARCHAR(50),
+    country             VARCHAR(50),
+    email               VARCHAR(50)  UNIQUE,
+    password            VARCHAR(50),
     birthday            DATE,
-    avatarFilename      VARCHAR(?)  UNIQUE
+    avatar              VARCHAR(150),
+    bio                 VARCHAR(300)
 );
 
-CREATE TABLE Group (
-    ID                  INT         PRIMARY KEY,
-    name                VARCHAR(?),
-    descrip             VARCHAR(?),
-    visible             BOOLEAN,
-    closed              BOOLEAN,
-    ownerID             INT,
+  CREATE TABLE Groups (
+      ID                  INT         PRIMARY KEY,
+      name                VARCHAR(50),
+      descrip             VARCHAR(50),
+      visible             BOOLEAN,
+      closed              BOOLEAN,
+      ownerID             INT,
 
-    FOREIGN KEYownerID REFERENCES User(ID)
-);
+      FOREIGN KEY (ownerID) REFERENCES Users(ID)
+  );
 
 CREATE TABLE Post (
     ID                  INT         PRIMARY KEY,
     postTime            TIMESTAMP,
-    postText            VARCHAR(?),
+    postText            VARCHAR(200000),
     authorID            INT,
 
-    FOREIGN KEYauthorID REFERENCES User(ID)
+    FOREIGN KEY (authorID) REFERENCES Users(ID)
 );
 
 
