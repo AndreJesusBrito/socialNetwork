@@ -21,7 +21,7 @@ insert into users values(
     'Hamid coracao de bufalo',
     '******',
     'hamid@mosquitos.busy',
-    '2/1/0000',
+    '29/09/2010',
     'o programa funciona??? final entao'
 );
 
@@ -106,7 +106,7 @@ insert into users values(
 
 insert into users values(
     '13371337',
-    'Berna Weezerd de Sines',
+    'Berna, the Weezerd of Sines',
     '******',
     'houdini@nowyouseeme.nowyoudont',
     '10/2/1999',
@@ -119,14 +119,14 @@ insert into users values(
     '******',
     'nunestiago@pediuguitarra.denied',
     '12/3/1999',
-    'eu falo mais alto que a televis�o'
+    'eu falo mais alto que a televisao'
 );
 
 insert into users values(
     '31432791',
     'Ricardo-chan de Almancil/loule place kawaiiiuu',
     '******',
-    'revoliatneh@weeb.desu',
+    'revol_iatneh@weeb.desu',
     '7/8/2008',
     'I LOVE ANIME!!!!'
 );
@@ -158,7 +158,7 @@ insert into users values(
     '******',
     'erique@ir.quadro',
     '7/8/1882',
-    'born,suffer,death (notice that dead is in past, cause im already dead)'
+    'born,suffer,dead (notice that dead is in past, cause i am already dead)'
 );
 
 
@@ -184,34 +184,34 @@ insert into users values {
     '123123',
     'John Cena',
     '******',
-    'markZuckerberg@wwe.org',
+    'cena@canSee.me',
     '23/04/1977',
     'bbbbbbbbbbbbmbmbmbbmmmmmmmmmmmmmmmmmmmmmmmmmmmm dammmdamdmammmmmmmmmmmmmmmmmmmmm tmmmmmmm'
 }
 
 insert into users values {
-    '30000000',
+    '299792458',
     'Albert Einstein',
     '******',
-    'markZuckerberg@wwe.org',
-    '23/04/1977',
-    'I am the E = mc^2 guy. I have no special talents. I am only passionately curious.'
+    'SCIENCEBOI@physics.org',
+    '14/03/1879',
+    'I am the E = mc² guy. I have no special talents. I am only passionately curious.'
 }
 
 insert into users values {
     '51241242',
     'Doge',
     '******',
-    'dege@dogz.doggo',
+    'deggedojo@dogz.doggo',
     '23/04/2005',
-    'dogeeeeeeeeeeeeeeeeeeeee meme xD'
+    '(just staring at U)'
 }
 
 insert into users values {
     '420420420',
     'Snoop Dogg',
     '******',
-    'smoke@every.day',
+    'smokeweed@every.day',
     '23/04/1971',
     'When I\'m not longer rapping, I want to open up an ice cream parlor and call myself Scoop Dogg\nI love making music and I\'m falling in love with making records, so it\'s like having two girlfriends. But I can handle it.'
 }

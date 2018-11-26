@@ -1,29 +1,70 @@
 const express = require('express');
-const app = express();
+const server = express();
+// const bodyParser = require('body-parser')
 
-// const ROOT_PATH = "/andre/socialNetwork";
-const ROOT_PATH = "";
-
-
-// app.set("view engine", "ejs");
-// app.use(express.static("public"));
+server.set("view engine", "ejs");
+// server.use(bodyParser);
+server.use(express.static("public"));
 
 //--------------------------------------------
 // Routes
 //--------------------------------------------
 
-
-app.get(ROOT_PATH + "/", function(req, res) {
-    console.log("get req at /");
-    res.send("TEste my subserver");
+server.get("/", function(req, res) {
+    res.render("homepage");
     // res.render("home");
 });
 
-app.get(ROOT_PATH + "", function(req, res) {
+server.get("/search", function(req, res) {
+
+});
+
+server.get("*", function(req, res) {
     res.send("404");
 });
 
+
+//--------------------------------------------
+// Action Routes
+//--------------------------------------------
+
+server.post("/post", function(req, res) {
+    // logic
+    console.log("posted");
+    res.send("you posted");
+});
+server.delete("/post", function(req, res) {
+    // logic
+    console.log("posted");
+    res.send("you posted");
+    // res.send(JSON.stringify(res) + "\n");
+});
+
+server.post("/react", function(req, res) {
+    // logic
+});
+server.delete("/react", function(req, res) {
+    // logic
+});
+
+
+server.post("/comment", function(req, res) {
+    // logic
+});
+server.delete("/comment", function(req, res) {
+    // logic
+});
+
+server.post("/share", function(req, res) {
+    // logic
+});
+
+
+
+
+
+
 // start server
-app.listen(8000, function() {
+server.listen(8000, function() {
     console.log("server online!!!");
 });
