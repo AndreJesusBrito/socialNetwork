@@ -51,8 +51,8 @@ CREATE TABLE Comment (
 
     PRIMARY KEY (postID, subID),
 
-    FOREIGN KEY (postID)   REFERENCES Post
-    FOREIGN KEY (authorID) REFERENCES User
+    FOREIGN KEY (postID)   REFERENCES Post,
+    FOREIGN KEY (authorID) REFERENCES Users
 );
 
 -- suport class of Group
