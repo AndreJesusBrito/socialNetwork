@@ -60,11 +60,11 @@ CREATE TABLE Role (
     groupID             INT,
     subID               INT,
     permitions          INT,
-    color               INT,
+    color               VARCHAR(10),
 
     PRIMARY KEY (groupID, subID),
 
-    FOREIGN KEY (groupID) REFERENCES Group
+    FOREIGN KEY (groupID) REFERENCES Groups
 );
 
 -- suport class of two Users
@@ -72,11 +72,11 @@ CREATE TABLE PM (
     sendUserID          INT,
     reciveUserID        INT,
     subID               INT,
-    PMtext              VARCHAR(),
+    textContent         INT,
+    PMtext              VARCHAR(100),
 
-    PRIMARY KEY (sendUserID, reciveUserID, subID),
+    PRIMARY KEY (sendUserID, reciveUserID, subID)
 
-    FOREIGN KEY (groupID) REFERENCES Group
 );
 
 
