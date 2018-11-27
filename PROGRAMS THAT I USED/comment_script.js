@@ -4,7 +4,7 @@ const fs = require('fs');
 
 //generate post 
 var name,txt,lastName,sr='',paragraph,h,m,s,ano,mes,dia,rd,rdPost;
-for(var i = 0; i < 80000;i++){
+for(var i = 0; i < 8000;i++){
 	paragraph = faker.lorem.paragraph();
 	ano = Math.floor(Math.random()*(2018-1920))+1920;
 	mes = Math.floor(Math.random()*11)+1;

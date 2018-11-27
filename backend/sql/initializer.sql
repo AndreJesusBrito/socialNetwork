@@ -58,11 +58,11 @@ CREATE TABLE Role (
     groupID             INT,
     subID               INT,
     permitions          INT,
-    color               VARCHAR(10),
+    color               VARCHAR(8),
 
     PRIMARY KEY (groupID, subID),
 
-    FOREIGN KEY (groupID) REFERENCES Groups
+    FOREIGN KEY (groupID) REFERENCES _Group
 );
 
 -- suport class of two Users
