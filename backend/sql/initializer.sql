@@ -2,7 +2,7 @@
     Base Classes
 ----------------------------------------------------*/
 
-CREATE TABLE Users (
+CREATE TABLE _User (
     ID                  INT         PRIMARY KEY,
     name                VARCHAR(50),
     city                VARCHAR(50),
@@ -14,7 +14,7 @@ CREATE TABLE Users (
     bio                 VARCHAR(300)
 );
 
-  CREATE TABLE Groups (
+  CREATE TABLE _Group (
       ID                  INT         PRIMARY KEY,
       name                VARCHAR(50),
       descrip             VARCHAR(50),
@@ -22,19 +22,17 @@ CREATE TABLE Users (
       closed              BOOLEAN,
       ownerID             INT,
 
-      FOREIGN KEY (ownerID) REFERENCES Users(ID)
+      FOREIGN KEY (ownerID) REFERENCES _User(ID)
   );
 
 CREATE TABLE Post (
     ID                  INT         PRIMARY KEY,
     postTime            TIMESTAMP,
-    postText            VARCHAR(200000),
+    postText            VARCHAR(5000),
     authorID            INT,
 
-    FOREIGN KEY (authorID) REFERENCES Users(ID)
+    FOREIGN KEY (authorID) REFERENCES _User(ID)
 );
-
-
 
 
 /*----------------------------------------------------
@@ -52,7 +50,7 @@ CREATE TABLE Comment (
     PRIMARY KEY (postID, subID),
 
     FOREIGN KEY (postID)   REFERENCES Post,
-    FOREIGN KEY (authorID) REFERENCES Users
+    FOREIGN KEY (authorID) REFERENCES _User
 );
 
 -- suport class of Group
@@ -99,7 +97,7 @@ CREATE TABLE ProfilePost (
     ID                  INT     PRIMARY KEY,
     profileID           INT,
 
-    FOREIGN KEY (profileID) REFERENCES User
+    FOREIGN KEY (profileID) REFERENCES Users
 );
 
 -- subclass class of Post
@@ -107,8 +105,8 @@ CREATE TABLE GroupPost (
     ID                  INT     PRIMARY KEY,
     profileID           INT,
 
-    FOREIGN KEY (ID)        REFERENCES Group,
-    FOREIGN KEY (profileID) REFERENCES User
+    FOREIGN KEY (ID)        REFERENCES Groups,
+    FOREIGN KEY (profileID) REFERENCES Users
 );
 
 -- subclass class of Post

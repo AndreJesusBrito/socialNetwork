@@ -4,7 +4,7 @@ const fs = require('fs');
 
 //generate post 
 var name,txt,lastName,sr='',paragraph,h,m,s,ano,mes,dia,rd,rdPost;
-for(var i = 0; i < 10000;i++){
+for(var i = 0; i < 80000;i++){
 	paragraph = faker.lorem.paragraph();
 	ano = Math.floor(Math.random()*(2018-1920))+1920;
 	mes = Math.floor(Math.random()*11)+1;
@@ -12,8 +12,8 @@ for(var i = 0; i < 10000;i++){
 	h = Math.floor(Math.random()*23);
 	m = Math.floor(Math.random()*59);
 	s = Math.floor(Math.random()*59);
-	rd = Math.floor(Math.random()*1999);
-	rdPost = Math.floor(Math.random()*4999);
+	rd = Math.floor(Math.random()*499);
+	rdPost = Math.floor(Math.random()*1999);
 	txt = Math.round(Math.random()*1);
 	sr+=`insert into comment values(
 		\r\n\t\'${rdPost}\', 
@@ -23,4 +23,4 @@ for(var i = 0; i < 10000;i++){
 		\r\n\t${rd});\r\n\r\n`;
 
 }
-fs.writeFile('C:/Users/Bruno/Documents/JS/comment.sql', sr,function(err){});
+fs.writeFile('C:\Users\Bruno\Documents\GitHub\socialNetwork\PROGRAMS THAT I USED\comment.sql', sr,function(err){});
