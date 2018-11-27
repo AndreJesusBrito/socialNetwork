@@ -15,6 +15,14 @@ server.get("/", function(req, res) {
     // res.render("home");
 });
 
+server.get("/user/*", function(req, res) {
+
+});
+
+server.get("/group/*", function(req, res) {
+
+});
+
 server.get("/search", function(req, res) {
 
 });

@@ -3,33 +3,33 @@
 ----------------------------------------------------*/
 
 CREATE TABLE _User (
-    ID                  INT         PRIMARY KEY,
-    name                VARCHAR(50),
-    city                VARCHAR(50),
-    country             VARCHAR(50),
-    email               VARCHAR(50)  UNIQUE,
-    password            VARCHAR(50),
-    birthday            DATE,
-    avatar              VARCHAR(150),
-    bio                 VARCHAR(300)
+    ID             INT                          PRIMARY KEY,
+    name           VARCHAR(50)     NOT NULL
+    city           VARCHAR(50),
+    country        VARCHAR(50),
+    email          VARCHAR(50)     NOT NULL     UNIQUE,
+    password       VARCHAR(50)     NOT NULL
+    birthday       DATE,
+    avatar         VARCHAR(150)                 UNIQUE, -- CHANGE ME!!!!!!!!!!!!!!!!!!!!!!!!!!!
+    bio            VARCHAR(300)
 );
 
-  CREATE TABLE _Group (
-      ID                  INT         PRIMARY KEY,
-      name                VARCHAR(50),
-      descrip             VARCHAR(50),
-      visible             BOOLEAN,
-      closed              BOOLEAN,
-      ownerID             INT,
+CREATE TABLE _Group (
+    ID             INT                          PRIMARY KEY,
+    name           VARCHAR(50)     NOT NULL,
+    descrip        VARCHAR(200),
+    visible        BOOLEAN         NOT NULL     DEFAULT true,
+    closed         BOOLEAN         NOT NULL     DEFAULT false,
+    ownerID        INT             NOT NULL,
 
-      FOREIGN KEY (ownerID) REFERENCES _User(ID)
-  );
+    FOREIGN KEY (ownerID) REFERENCES _User(ID)
+);
 
-CREATE TABLE Post (
-    ID                  INT         PRIMARY KEY,
-    postTime            TIMESTAMP,
-    postText            VARCHAR(5000),
-    authorID            INT,
+CREATE TABLE _Post (
+    ID             INT              PRIMARY KEY,
+    postTime       TIMESTAMP        NOT NULL
+    postText       VARCHAR(5000),
+    authorID       INT              NOT NULL,
 
     FOREIGN KEY (authorID) REFERENCES _User(ID)
 );
@@ -39,42 +39,44 @@ CREATE TABLE Post (
     Suport Classes
 ----------------------------------------------------*/
 
--- suport class of Post
+-- suport class of _Post
 CREATE TABLE Comment (
     postID              INT,
     subID               INT,
-    textContent         INT,
-    postTime            TIMESTAMP,
-    authorID            INT,
+    textContent         VARCHAR(500),
+    postTime            TIMESTAMP       NOT NULL,
+    authorID            INT             NOT NULL,
 
     PRIMARY KEY (postID, subID),
 
-    FOREIGN KEY (postID)   REFERENCES Post,
-    FOREIGN KEY (authorID) REFERENCES _User
+    FOREIGN KEY (postID)   REFERENCES _Post(ID),
+    FOREIGN KEY (authorID) REFERENCES _User(ID)
 );
 
 -- suport class of Group
 CREATE TABLE Role (
     groupID             INT,
-    subID               INT,
-    permitions          INT,
-    color               VARCHAR(8),
+    name                varchar(50),
+    permitions          INT         NOT NULL    DEFAULT 0,
+    color               CHAR(7),
 
-    PRIMARY KEY (groupID, subID),
+    PRIMARY KEY (groupID, name),
 
-    FOREIGN KEY (groupID) REFERENCES _Group
+    FOREIGN KEY (groupID) REFERENCES _Group(ID)
 );
 
 -- suport class of two Users
 CREATE TABLE PM (
-    sendUserID          INT,
-    reciveUserID        INT,
+    senderUserID        INT,
+    reciverUserID       INT,
     subID               INT,
-    textContent         INT,
-    PMtext              VARCHAR(100),
+    textContent         VARCHAR(500),
+    postTime            TIMESTAMP       NOT NULL,
 
-    PRIMARY KEY (sendUserID, reciveUserID, subID)
+    PRIMARY KEY (senderUserID, reciverUserID, subID),
 
+    FOREIGN KEY (senderUserID)  REFERENCES _User(ID),
+    FOREIGN KEY (reciverUserID) REFERENCES _User(ID)
 );
 
 
@@ -84,45 +86,47 @@ CREATE TABLE PM (
     SubClasses
 ----------------------------------------------------*/
 
--- subclass class of Post
+-- subclass class of _Post
 CREATE TABLE SharePost (
-    ID                  INT     PRIMARY KEY,
-    shareID             INT,
+    ID                      INT     PRIMARY KEY,
+    shareID                 INT     NOT NULL,
 
-    FOREIGN KEY (shareID) REFERENCES Post
+    FOREIGN KEY (ID)        REFERENCES _Post(ID),
+    FOREIGN KEY (shareID)   REFERENCES _Post(ID)
 );
 
--- subclass class of Post
+-- subclass class of _Post
 CREATE TABLE ProfilePost (
-    ID                  INT     PRIMARY KEY,
-    profileID           INT,
+    ID                      INT     PRIMARY KEY,
+    profileID               INT     NOT NULL,
 
-    FOREIGN KEY (profileID) REFERENCES Users
+    FOREIGN KEY (ID)        REFERENCES _Post(ID),
+    FOREIGN KEY (profileID) REFERENCES _User(ID)
 );
 
--- subclass class of Post
+-- subclass class of _Post
 CREATE TABLE GroupPost (
-    ID                  INT     PRIMARY KEY,
-    profileID           INT,
+    ID                      INT     PRIMARY KEY,
+    groupID                 INT     NOT NULL,
 
-    FOREIGN KEY (ID)        REFERENCES Groups,
-    FOREIGN KEY (profileID) REFERENCES Users
+    FOREIGN KEY (ID)        REFERENCES Post(ID),
+    FOREIGN KEY (groupID)   REFERENCES _Group(ID)
 );
 
--- subclass class of Post
+-- subclass class of _Post
 CREATE TABLE PostMedia (
-    ID              INT        PRIMARY KEY,
-    filename        VARCHAR(),
+    ID              INT             PRIMARY KEY,
+    filename        VARCHAR(15)     NOT NULL,
 
-    FOREIGN KEY (ID) REFERENCES Post
+    FOREIGN KEY (ID) REFERENCES _Post(ID)
 );
 
--- subclass class of Post
+-- subclass class of _Post
 CREATE TABLE PostLink (
-    ID                 INT     PRIMARY KEY,
-    link               VARCHAR(2083),
+    ID      INT                PRIMARY KEY,
+    link    VARCHAR(2083)      NOT NULL,
 
-    FOREIGN KEY (ID) REFERENCES Post
+    FOREIGN KEY (ID) REFERENCES _Post(ID)
 );
 
 
@@ -131,12 +135,11 @@ CREATE TABLE PMMedia (
     senderID           INT,
     reciverID          INT,
     subID              INT,
-    filename           VARCHAR(),
+    filename           VARCHAR(15)    NOT NULL,
 
     PRIMARY KEY (senderID, reciverID, subID),
 
-    FOREIGN KEY (senderID)  REFERENCES User,
-    FOREIGN KEY (reciverID) REFERENCES User
+    FOREIGN KEY (senderID, reciverID, subID) REFERENCES PM(senderID, reciverID, subID)
 );
 
 -- subclass class of PM
@@ -144,12 +147,11 @@ CREATE TABLE PMLink (
     senderID           INT,
     reciverID          INT,
     subID              INT,
-    link               VARCHAR(2083),
+    link               VARCHAR(2083)    NOT NULL,
 
     PRIMARY KEY (senderID, reciverID, subID),
 
-    FOREIGN KEY (senderID)  REFERENCES User,
-    FOREIGN KEY (reciverID) REFERENCES User
+    FOREIGN KEY (senderID, reciverID, subID) REFERENCES PM(senderID, reciverID, subID)
 );
 
 
@@ -157,22 +159,22 @@ CREATE TABLE PMLink (
 CREATE TABLE CommentMedia (
     postID              INT,
     subID               INT,
-    filename            VARCHAR(),
+    filename            VARCHAR(15)     NOT NULL,
 
     PRIMARY KEY (postID, subID),
 
-    FOREIGN KEY (postID, subID) REFERENCES Comment
+    FOREIGN KEY (postID, subID) REFERENCES Comment(postID, subID)
 );
 
 -- subclass class of Comment
 CREATE TABLE CommentLink (
     postID              INT,
     subID               INT,
-    link                VARCHAR(2083),
+    link                VARCHAR(2083)   NOT NULL,
 
     PRIMARY KEY (postID, subID),
 
-    FOREIGN KEY (postID, subID) REFERENCES Comment
+    FOREIGN KEY (postID, subID) REFERENCES Comment(postID, subID)
 );
 
 
@@ -189,20 +191,20 @@ CREATE TABLE member (
 
     PRIMARY KEY (userID, groupID),
 
-    FOREIGN KEY (userID)  REFERENCES User,
-    FOREIGN KEY (groupID) REFERENCES Post
+    FOREIGN KEY (userID)  REFERENCES _User(ID),
+    FOREIGN KEY (groupID) REFERENCES _Post(ID)
 );
 
--- Association between User and Post
+-- Association between User and _Post
 CREATE TABLE reactsToPost (
     userID          INT,
     postID          INT,
-    type            INT,
+    type            INT     NOT NULL,
 
     PRIMARY KEY (userID, postID),
 
-    FOREIGN KEY (userID) REFERENCES User,
-    FOREIGN KEY (postID) REFERENCES Post
+    FOREIGN KEY (userID) REFERENCES _User(ID),
+    FOREIGN KEY (postID) REFERENCES _Post(ID)
 );
 
 
@@ -218,8 +220,8 @@ CREATE TABLE friend (
 
     PRIMARY KEY (user1ID, user2ID),
 
-    FOREIGN KEY (user1ID) REFERENCES User,
-    FOREIGN KEY (user2ID) REFERENCES User
+    FOREIGN KEY (user1ID) REFERENCES _User,
+    FOREIGN KEY (user2ID) REFERENCES _User
 );
 
 -- relation between 2 Users
@@ -229,15 +231,15 @@ CREATE TABLE requestFriend (
 
     PRIMARY KEY (user1ID, user2ID),
 
-    FOREIGN KEY (user1ID) REFERENCES User,
-    FOREIGN KEY (user2ID) REFERENCES User
+    FOREIGN KEY (user1ID) REFERENCES _User,
+    FOREIGN KEY (user2ID) REFERENCES _User
 );
 
 -- relation between a User of a Group and a role
 create TABLE haveRole (
     userID            INT,
     groupID           INT,
-    roleName          VARCHAR(25),
+    roleName          VARCHAR(50)       NOT NULL,
 
     PRIMARY KEY (userID, groupID),
 
