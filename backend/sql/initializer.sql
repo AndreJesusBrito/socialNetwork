@@ -100,7 +100,7 @@ CREATE TABLE ProfilePost (
     ID                      INT     PRIMARY KEY,
     profileID               INT     NOT NULL,
 
-    FOREIGN KEY (ID)        REFERENCES _Post(ID),
+    FOREIGN KEY (ID)        REFERENCES Post(ID),
     FOREIGN KEY (profileID) REFERENCES _User(ID)
 );
 
