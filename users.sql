@@ -215,3 +215,12 @@ insert into users values {
     '23/04/1971',
     'When I\'m not longer rapping, I want to open up an ice cream parlor and call myself Scoop Dogg\nI love making music and I\'m falling in love with making records, so it\'s like having two girlfriends. But I can handle it.'
 }
+
+insert into users values {
+    '420420421',
+    'Json Bourne',
+    '******',
+    'json_bourne@whoami.id',
+    '13/09/1970',
+    'Listen very carefully to what i\'m about to tell you, I remember, I remember everything. My name is david webb, and i was created to revolutionize the internet, and to fight XML'
+}
