@@ -2,7 +2,7 @@ const faker = require('faker');
 const fs = require('fs');
 
 
-//generate post 
+//generate post
 var name,txt,lastName,sr='',paragraph,h,m,s,ano,mes,dia,rd,rdPost;
 for(var i = 0; i < 8000;i++){
 	paragraph = faker.lorem.paragraph();
@@ -16,7 +16,7 @@ for(var i = 0; i < 8000;i++){
 	rdPost = Math.floor(Math.random()*1999);
 	txt = Math.round(Math.random()*1);
 	sr+=`insert into comment values(
-		\r\n\t\'${rdPost}\', 
+		\r\n\t\'${rdPost}\',
 		\r\n\t\'${i}\',
 		\r\n\t\'${txt}',
 		\r\n\t to_timestamp(\'${ano}/${mes}/${dia} ${h}:${m}:${s}\',\'YYYY-MM-DD HH24:MI:SS\'),

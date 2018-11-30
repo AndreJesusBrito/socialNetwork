@@ -3,26 +3,27 @@
 ----------------------------------------------------*/
 
 CREATE TABLE _User (
-    ID             INT                          PRIMARY KEY,
-    name           VARCHAR(50)     NOT NULL,
-    city           VARCHAR(50),
-    country        VARCHAR(50),
-    email          VARCHAR(50)     NOT NULL     UNIQUE,
-    password       VARCHAR(50)     NOT NULL,
-    birthday       DATE,
-    avatar         VARCHAR(150)                 UNIQUE, -- CHANGE ME!!!!!!!!!!!!!!!!!!!!!!!!!!!
-    bio            VARCHAR(300)
+    ID               INT                          PRIMARY KEY,
+    name             VARCHAR(50)     NOT NULL,
+    city             VARCHAR(100),
+    country          VARCHAR(50),
+    email            VARCHAR(254)    NOT NULL     UNIQUE,
+    password         VARCHAR(128)    NOT NULL,
+    birthday         DATE,
+    avatarFileName   VARCHAR(15)                  UNIQUE,
+    bio              VARCHAR(350)
 );
 
 CREATE TABLE _Group (
     ID             INT                          PRIMARY KEY,
     name           VARCHAR(50)     NOT NULL,
-    descrip        VARCHAR(200),
+    descrip        VARCHAR(350),
     visible        BOOLEAN         NOT NULL     DEFAULT true,
     closed         BOOLEAN         NOT NULL     DEFAULT false,
-    ownerID        INT             NOT NULL,
+    ownerID        INT,
 
     FOREIGN KEY (ownerID) REFERENCES _User(ID)
+      ON DELETE CASCADE
 );
 
 CREATE TABLE Post (
@@ -32,6 +33,7 @@ CREATE TABLE Post (
     authorID       INT              NOT NULL,
 
     FOREIGN KEY (authorID) REFERENCES _User(ID)
+      ON DELETE CASCADE
 );
 
 
@@ -49,8 +51,11 @@ CREATE TABLE Comment (
 
     PRIMARY KEY (postID, subID),
 
-    FOREIGN KEY (postID)   REFERENCES Post(ID),
+    FOREIGN KEY (postID)   REFERENCES Post(ID)
+      ON DELETE CASCADE,
+
     FOREIGN KEY (authorID) REFERENCES _User(ID)
+      ON DELETE CASCADE
 );
 
 -- suport class of Group
@@ -63,6 +68,7 @@ CREATE TABLE Role (
     PRIMARY KEY (groupID, name),
 
     FOREIGN KEY (groupID) REFERENCES _Group(ID)
+      ON DELETE CASCADE
 );
 
 -- suport class of two Users
@@ -75,8 +81,11 @@ CREATE TABLE PM (
 
     PRIMARY KEY (senderUserID, reciverUserID, subID),
 
-    FOREIGN KEY (senderUserID)  REFERENCES _User(ID),
+    FOREIGN KEY (senderUserID)  REFERENCES _User(ID)
+      ON DELETE CASCADE,
+
     FOREIGN KEY (reciverUserID) REFERENCES _User(ID)
+      ON DELETE CASCADE
 );
 
 
@@ -91,8 +100,11 @@ CREATE TABLE SharePost (
     ID                      INT     PRIMARY KEY,
     shareID                 INT     NOT NULL,
 
-    FOREIGN KEY (ID)        REFERENCES Post(ID),
+    FOREIGN KEY (ID)        REFERENCES Post(ID)
+      ON DELETE CASCADE,
+
     FOREIGN KEY (shareID)   REFERENCES Post(ID)
+      ON DELETE CASCADE
 );
 
 -- subclass class of Post
@@ -100,8 +112,11 @@ CREATE TABLE ProfilePost (
     ID                      INT     PRIMARY KEY,
     profileID               INT     NOT NULL,
 
-    FOREIGN KEY (ID)        REFERENCES Post(ID),
+    FOREIGN KEY (ID)        REFERENCES Post(ID)
+      ON DELETE CASCADE,
+
     FOREIGN KEY (profileID) REFERENCES _User(ID)
+      ON DELETE CASCADE
 );
 
 -- subclass class of Post
@@ -109,8 +124,11 @@ CREATE TABLE GroupPost (
     ID                      INT     PRIMARY KEY,
     groupID                 INT     NOT NULL,
 
-    FOREIGN KEY (ID)        REFERENCES Post(ID),
+    FOREIGN KEY (ID)        REFERENCES Post(ID)
+      ON DELETE CASCADE,
+
     FOREIGN KEY (groupID)   REFERENCES _Group(ID)
+      ON DELETE CASCADE
 );
 
 -- subclass class of Post
@@ -119,6 +137,7 @@ CREATE TABLE PostMedia (
     filename        VARCHAR(15)     NOT NULL,
 
     FOREIGN KEY (ID) REFERENCES Post(ID)
+      ON DELETE CASCADE
 );
 
 -- subclass class of Post
@@ -127,6 +146,7 @@ CREATE TABLE PostLink (
     link    VARCHAR(2083)      NOT NULL,
 
     FOREIGN KEY (ID) REFERENCES Post(ID)
+      ON DELETE CASCADE
 );
 
 
@@ -140,6 +160,7 @@ CREATE TABLE PMMedia (
     PRIMARY KEY (senderUserID, reciverUserID, subID),
 
     FOREIGN KEY (senderUserID, reciverUserID, subID) REFERENCES PM(senderUserID, reciverUserID, subID)
+      ON DELETE CASCADE
 );
 
 -- subclass class of PM
@@ -152,6 +173,7 @@ CREATE TABLE PMLink (
     PRIMARY KEY (senderUserID, reciverUserID, subID),
 
     FOREIGN KEY (senderUserID, reciverUserID, subID) REFERENCES PM(senderUserID, reciverUserID, subID)
+      ON DELETE CASCADE
 );
 
 
@@ -164,6 +186,7 @@ CREATE TABLE CommentMedia (
     PRIMARY KEY (postID, subID),
 
     FOREIGN KEY (postID, subID) REFERENCES Comment(postID, subID)
+      ON DELETE CASCADE
 );
 
 -- subclass class of Comment
@@ -175,6 +198,7 @@ CREATE TABLE CommentLink (
     PRIMARY KEY (postID, subID),
 
     FOREIGN KEY (postID, subID) REFERENCES Comment(postID, subID)
+      ON DELETE CASCADE
 );
 
 
@@ -191,8 +215,11 @@ CREATE TABLE member (
 
     PRIMARY KEY (userID, groupID),
 
-    FOREIGN KEY (userID)  REFERENCES _User(ID),
+    FOREIGN KEY (userID)  REFERENCES _User(ID)
+      ON DELETE CASCADE,
+
     FOREIGN KEY (groupID) REFERENCES Post(ID)
+      ON DELETE CASCADE
 );
 
 -- Association between User and Post
@@ -203,8 +230,11 @@ CREATE TABLE reactsToPost (
 
     PRIMARY KEY (userID, postID),
 
-    FOREIGN KEY (userID) REFERENCES _User(ID),
+    FOREIGN KEY (userID) REFERENCES _User(ID)
+      ON DELETE CASCADE,
+
     FOREIGN KEY (postID) REFERENCES Post(ID)
+      ON DELETE CASCADE
 );
 
 
@@ -220,8 +250,11 @@ CREATE TABLE friend (
 
     PRIMARY KEY (user1ID, user2ID),
 
-    FOREIGN KEY (user1ID) REFERENCES _User,
-    FOREIGN KEY (user2ID) REFERENCES _User
+    FOREIGN KEY (user1ID) REFERENCES _User(ID)
+      ON DELETE CASCADE,
+
+    FOREIGN KEY (user2ID) REFERENCES _User(ID)
+      ON DELETE CASCADE
 );
 
 -- relation between 2 Users
@@ -231,8 +264,11 @@ CREATE TABLE requestFriend (
 
     PRIMARY KEY (user1ID, user2ID),
 
-    FOREIGN KEY (user1ID) REFERENCES _User,
-    FOREIGN KEY (user2ID) REFERENCES _User
+    FOREIGN KEY (user1ID) REFERENCES _User(ID)
+      ON DELETE CASCADE,
+
+    FOREIGN KEY (user2ID) REFERENCES _User(ID)
+      ON DELETE CASCADE
 );
 
 -- relation between a User of a Group and a role
@@ -243,6 +279,10 @@ create TABLE haveRole (
 
     PRIMARY KEY (userID, groupID),
 
-    FOREIGN KEY (userID, groupID)    REFERENCES member,
-    FOREIGN KEY (groupID, roleName)  REFERENCES Role
+    FOREIGN KEY (userID, groupID)    REFERENCES member(userID, groupID)
+      ON DELETE CASCADE,
+
+    FOREIGN KEY (groupID, roleName)  REFERENCES Role(groupID, name)
+      ON UPDATE CASCADE
+      ON DELETE CASCADE
 );
