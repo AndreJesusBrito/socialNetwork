@@ -10,7 +10,7 @@ CREATE TABLE _User (
     email            VARCHAR(254)    NOT NULL     UNIQUE,
     password         VARCHAR(128)    NOT NULL,
     birthday         DATE,
-    avatarFileName   VARCHAR(15)                  UNIQUE,
+    avatarFileName   VARCHAR(150)                 UNIQUE,
     bio              VARCHAR(350)
 );
 

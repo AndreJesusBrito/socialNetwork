@@ -1,4 +1,4 @@
-insert into _User values(
+insert into _User values (
 	'0',
 	'JOYCE MCLEOD',
 	'Giza',
@@ -6,10 +6,11 @@ insert into _User values(
 	'JOYCEMCLEOD@hotmail.com',
 	'rjjaybse',
 	'13/11/1978',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/primozcigler/128.jpg',
-	'Ut voluptate molestias ut repellat eos atque et.');
+	NULL,
+	'Ut voluptate molestias ut repellat eos atque et.'
+);
 
-insert into _User values(
+insert into _User values (
 	'1',
 	'WILLIE HAYES',
 	'Shenyang',
@@ -17,10 +18,11 @@ insert into _User values(
 	'WILLIEHAYES@gmail.com',
 	'vtgyhieb',
 	'6/4/1971',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/naupintos/128.jpg',
-	'Accusamus eaque velit suscipit excepturi non.');
+	NULL,
+	'Accusamus eaque velit suscipit excepturi non.'
+);
 
-insert into _User values(
+insert into _User values (
 	'2',
 	'JESSIE YANG',
 	'Tokyo',
@@ -28,10 +30,11 @@ insert into _User values(
 	'JESSIEYANG@gmail.com',
 	'dhqxaoeb',
 	'7/9/1957',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/hoangloi/128.jpg',
-	'Laudantium est natus nostrum rerum optio reprehenderit delectus.');
+	NULL,
+	'Laudantium est natus nostrum rerum optio reprehenderit delectus.'
+);
 
-insert into _User values(
+insert into _User values (
 	'3',
 	'ZACHARY BARTLETT',
 	'Yokohama',
@@ -39,10 +42,11 @@ insert into _User values(
 	'ZACHARYBARTLETT@outlook.com',
 	'aytcioyh',
 	'15/10/1924',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/maximsorokin/128.jpg',
-	'Animi iure assumenda.');
+	NULL,
+	'Animi iure assumenda.'
+);
 
-insert into _User values(
+insert into _User values (
 	'4',
 	'DENNIS GARZA',
 	'Hangzhou',
@@ -50,10 +54,11 @@ insert into _User values(
 	'DENNISGARZA@gmail.com',
 	'fzuawrep',
 	'3/10/1943',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/sainraja/128.jpg',
-	'Ipsum laudantium aliquam voluptatem fugit molestiae sunt et est quod.');
+	NULL,
+	'Ipsum laudantium aliquam voluptatem fugit molestiae sunt et est quod.'
+);
 
-insert into _User values(
+insert into _User values (
 	'5',
 	'MATHEW HOUSTON',
 	'Cairo',
@@ -61,10 +66,11 @@ insert into _User values(
 	'MATHEWHOUSTON@hotmail.com',
 	'tlirlxii',
 	'20/6/1979',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/victorquinn/128.jpg',
-	'Quia magnam et similique.');
+	NULL,
+	'Quia magnam et similique.'
+);
 
-insert into _User values(
+insert into _User values (
 	'6',
 	'JARED GILMORE',
 	'Madrid',
@@ -72,10 +78,11 @@ insert into _User values(
 	'JAREDGILMORE@gmail.com',
 	'fzisgqxu',
 	'27/5/1996',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/geshan/128.jpg',
-	'Nobis quaerat dolore itaque ut eos nesciunt provident.');
+	NULL,
+	'Nobis quaerat dolore itaque ut eos nesciunt provident.'
+);
 
-insert into _User values(
+insert into _User values (
 	'7',
 	'KURT MALDONADO',
 	'Ho_Chi_Minh_City',
@@ -83,10 +90,11 @@ insert into _User values(
 	'KURTMALDONADO@gmail.com',
 	'juukmqlx',
 	'1/3/1947',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/jasonmarkjones/128.jpg',
-	'Ab sint aut quod est sint architecto.');
+	NULL,
+	'Ab sint aut quod est sint architecto.'
+);
 
-insert into _User values(
+insert into _User values (
 	'8',
 	'SHERRY WRIGHT',
 	'Karachi',
@@ -94,10 +102,11 @@ insert into _User values(
 	'SHERRYWRIGHT@outlook.com',
 	'ozlmoysq',
 	'15/1/1930',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/andrea211087/128.jpg',
-	'Id quia qui in totam quae error nemo et saepe.');
+	NULL,
+	'Id quia qui in totam quae error nemo et saepe.'
+);
 
-insert into _User values(
+insert into _User values (
 	'9',
 	'SERGIO CAIN',
 	'Casablanca',
@@ -105,10 +114,11 @@ insert into _User values(
 	'SERGIOCAIN@hotmail.com',
 	'uuliihxw',
 	'25/9/1944',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/webtanya/128.jpg',
-	'Quam accusamus quia voluptates dolorum veniam et.');
+	NULL,
+	'Quam accusamus quia voluptates dolorum veniam et.'
+);
 
-insert into _User values(
+insert into _User values (
 	'10',
 	'SUZANNE RODRIQUEZ',
 	'Hefei',
@@ -116,10 +126,11 @@ insert into _User values(
 	'SUZANNERODRIQUEZ@hotmail.com',
 	'gtxqnuyl',
 	'12/7/2009',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/vaughanmoffitt/128.jpg',
-	'Occaecati dignissimos vel sapiente dolores harum.');
+	NULL,
+	'Occaecati dignissimos vel sapiente dolores harum.'
+);
 
-insert into _User values(
+insert into _User values (
 	'11',
 	'RALPH BYRD',
 	'Chennai',
@@ -127,10 +138,11 @@ insert into _User values(
 	'RALPHBYRD@outlook.com',
 	'vvbtuewb',
 	'13/9/1968',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/yigitpinarbasi/128.jpg',
-	'Consequatur facilis quis ut sint velit ut mollitia velit.');
+	NULL,
+	'Consequatur facilis quis ut sint velit ut mollitia velit.'
+);
 
-insert into _User values(
+insert into _User values (
 	'12',
 	'OSCAR WOODARD',
 	'Los_Angeles',
@@ -138,10 +150,11 @@ insert into _User values(
 	'OSCARWOODARD@ualg.pt',
 	'uxalfxyu',
 	'22/11/1975',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/danro/128.jpg',
-	'Consequatur a et expedita est et voluptas aut.');
+	NULL,
+	'Consequatur a et expedita est et voluptas aut.'
+);
 
-insert into _User values(
+insert into _User values (
 	'13',
 	'ROLAND DOTSON',
 	'Madrid',
@@ -149,10 +162,11 @@ insert into _User values(
 	'ROLANDDOTSON@outlook.com',
 	'ytdnzaqi',
 	'15/7/1967',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/ah_lice/128.jpg',
-	'Et et voluptatem earum qui.');
+	NULL,
+	'Et et voluptatem earum qui.'
+);
 
-insert into _User values(
+insert into _User values (
 	'14',
 	'INEZ GIBBS',
 	'Xiamen',
@@ -160,10 +174,11 @@ insert into _User values(
 	'INEZGIBBS@gmail.com',
 	'yfghedva',
 	'3/5/1930',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/stefanotirloni/128.jpg',
-	'Natus dicta sit nostrum voluptatem adipisci exercitationem itaque velit.');
+	NULL,
+	'Natus dicta sit nostrum voluptatem adipisci exercitationem itaque velit.'
+);
 
-insert into _User values(
+insert into _User values (
 	'15',
 	'RONALD ATKINSON',
 	'Dar_es_Salaam',
@@ -171,10 +186,11 @@ insert into _User values(
 	'RONALDATKINSON@gmail.com',
 	'vphbvuww',
 	'21/10/1952',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/kiwiupover/128.jpg',
-	'Unde necessitatibus fuga.');
+	NULL,
+	'Unde necessitatibus fuga.'
+);
 
-insert into _User values(
+insert into _User values (
 	'16',
 	'LLOYD BERGER',
 	'Changsha',
@@ -182,10 +198,11 @@ insert into _User values(
 	'LLOYDBERGER@outlook.com',
 	'zgacnpzx',
 	'3/8/2002',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/johncafazza/128.jpg',
-	'Qui omnis repellat magnam repellat.');
+	NULL,
+	'Qui omnis repellat magnam repellat.'
+);
 
-insert into _User values(
+insert into _User values (
 	'17',
 	'ALBERTO MACK',
 	'Istanbul',
@@ -193,10 +210,11 @@ insert into _User values(
 	'ALBERTOMACK@ualg.pt',
 	'nmojlvhn',
 	'28/9/1944',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/cybind/128.jpg',
-	'At harum iste.');
+	NULL,
+	'At harum iste.'
+);
 
-insert into _User values(
+insert into _User values (
 	'18',
 	'MARK ALVAREZ',
 	'Dhaka',
@@ -204,10 +222,11 @@ insert into _User values(
 	'MARKALVAREZ@gmail.com',
 	'sqqsbpfr',
 	'6/5/1964',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/fuck_you_two/128.jpg',
-	'Voluptatem vero architecto ea velit corrupti qui et aut.');
+	NULL,
+	'Voluptatem vero architecto ea velit corrupti qui et aut.'
+);
 
-insert into _User values(
+insert into _User values (
 	'19',
 	'IVAN PADILLA',
 	'Mexico_City',
@@ -215,10 +234,11 @@ insert into _User values(
 	'IVANPADILLA@gmail.com',
 	'nbewekah',
 	'22/9/1941',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/amayvs/128.jpg',
-	'Non deserunt minima aut ut qui occaecati eius aspernatur.');
+	NULL,
+	'Non deserunt minima aut ut qui occaecati eius aspernatur.'
+);
 
-insert into _User values(
+insert into _User values (
 	'20',
 	'BRUCE ELLIOTT',
 	'Busan',
@@ -226,10 +246,11 @@ insert into _User values(
 	'BRUCEELLIOTT@hotmail.com',
 	'wmdvjiyu',
 	'16/9/1980',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/llun/128.jpg',
-	'Ad sint sint molestiae fugit temporibus iste.');
+	NULL,
+	'Ad sint sint molestiae fugit temporibus iste.'
+);
 
-insert into _User values(
+insert into _User values (
 	'21',
 	'PRISCILLA RAMSEY',
 	'Chengdu',
@@ -237,10 +258,11 @@ insert into _User values(
 	'PRISCILLARAMSEY@gmail.com',
 	'ewphyeeo',
 	'27/1/2012',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/anatolinicolae/128.jpg',
-	'Non ea quis dolor suscipit quod.');
+	NULL,
+	'Non ea quis dolor suscipit quod.'
+);
 
-insert into _User values(
+insert into _User values (
 	'22',
 	'WARREN BRITT',
 	'Saint_Petersburg',
@@ -248,10 +270,11 @@ insert into _User values(
 	'WARRENBRITT@outlook.com',
 	'nuwfczyr',
 	'20/7/1998',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/joaoedumedeiros/128.jpg',
-	'Placeat rerum adipisci similique vel voluptas et qui quo eos.');
+	NULL,
+	'Placeat rerum adipisci similique vel voluptas et qui quo eos.'
+);
 
-insert into _User values(
+insert into _User values (
 	'23',
 	'JIMMY GOULD',
 	'Shanghai',
@@ -259,10 +282,11 @@ insert into _User values(
 	'JIMMYGOULD@ualg.pt',
 	'yrwukska',
 	'3/9/1958',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/_yardenoon/128.jpg',
-	'Non velit inventore ut iste eos eligendi quia est tempore.');
+	NULL,
+	'Non velit inventore ut iste eos eligendi quia est tempore.'
+);
 
-insert into _User values(
+insert into _User values (
 	'24',
 	'ANGEL DIAZ',
 	'Saint_Petersburg',
@@ -270,10 +294,11 @@ insert into _User values(
 	'ANGELDIAZ@hotmail.com',
 	'miggpowb',
 	'24/4/2002',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/thierrykoblentz/128.jpg',
-	'Excepturi voluptas sed non rerum enim voluptas ipsum.');
+	NULL,
+	'Excepturi voluptas sed non rerum enim voluptas ipsum.'
+);
 
-insert into _User values(
+insert into _User values (
 	'25',
 	'MARION EMERSON',
 	'Santiago',
@@ -281,10 +306,11 @@ insert into _User values(
 	'MARIONEMERSON@hotmail.com',
 	'kmmycyzd',
 	'13/4/1986',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/svenlen/128.jpg',
-	'In sunt ea ducimus.');
+	NULL,
+	'In sunt ea ducimus.'
+);
 
-insert into _User values(
+insert into _User values (
 	'26',
 	'REGINA BLAIR',
 	'Busan',
@@ -292,10 +318,11 @@ insert into _User values(
 	'REGINABLAIR@gmail.com',
 	'ripbzvut',
 	'6/7/1926',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/rachelreveley/128.jpg',
-	'Voluptatibus est dolorum quia magni deleniti ut at dolor.');
+	NULL,
+	'Voluptatibus est dolorum quia magni deleniti ut at dolor.'
+);
 
-insert into _User values(
+insert into _User values (
 	'27',
 	'DARREN HARRIS',
 	'Ho_Chi_Minh_City',
@@ -303,10 +330,11 @@ insert into _User values(
 	'DARRENHARRIS@gmail.com',
 	'ztkzrzvq',
 	'11/11/1962',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/kushsolitary/128.jpg',
-	'Facere ipsa quam repellat itaque nemo tenetur sit nulla veritatis.');
+	NULL,
+	'Facere ipsa quam repellat itaque nemo tenetur sit nulla veritatis.'
+);
 
-insert into _User values(
+insert into _User values (
 	'28',
 	'HUGH LINDSEY',
 	'Changsha',
@@ -314,10 +342,11 @@ insert into _User values(
 	'HUGHLINDSEY@hotmail.com',
 	'hcsheiav',
 	'14/10/1949',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/karsh/128.jpg',
-	'Sunt consequatur molestiae sapiente iure architecto necessitatibus expedita omnis.');
+	NULL,
+	'Sunt consequatur molestiae sapiente iure architecto necessitatibus expedita omnis.'
+);
 
-insert into _User values(
+insert into _User values (
 	'29',
 	'LEO SARGENT',
 	'Nairobi',
@@ -325,10 +354,11 @@ insert into _User values(
 	'LEOSARGENT@ualg.pt',
 	'imiqigtl',
 	'13/8/1922',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/gofrasdesign/128.jpg',
-	'Excepturi iure ducimus labore est voluptatem et sint tenetur.');
+	NULL,
+	'Excepturi iure ducimus labore est voluptatem et sint tenetur.'
+);
 
-insert into _User values(
+insert into _User values (
 	'30',
 	'DON VAZQUEZ',
 	'Wenzhou',
@@ -336,10 +366,11 @@ insert into _User values(
 	'DONVAZQUEZ@hotmail.com',
 	'uzfqhslj',
 	'9/1/2011',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/sachingawas/128.jpg',
-	'Impedit corrupti sed et asperiores ut ea.');
+	NULL,
+	'Impedit corrupti sed et asperiores ut ea.'
+);
 
-insert into _User values(
+insert into _User values (
 	'31',
 	'PEDRO ADKINS',
 	'Lima',
@@ -347,10 +378,11 @@ insert into _User values(
 	'PEDROADKINS@outlook.com',
 	'jheberyv',
 	'9/4/1969',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/ssbb_me/128.jpg',
-	'Labore et quia consectetur nemo voluptate provident.');
+	NULL,
+	'Labore et quia consectetur nemo voluptate provident.'
+);
 
-insert into _User values(
+insert into _User values (
 	'32',
 	'TERRENCE BRIGHT',
 	'Moscow',
@@ -358,10 +390,11 @@ insert into _User values(
 	'TERRENCEBRIGHT@outlook.com',
 	'bmkpyagp',
 	'4/1/1990',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/tom_even/128.jpg',
-	'Ut mollitia aut.');
+	NULL,
+	'Ut mollitia aut.'
+);
 
-insert into _User values(
+insert into _User values (
 	'33',
 	'GERALDINE MACDONALD',
 	'Durban',
@@ -369,10 +402,11 @@ insert into _User values(
 	'GERALDINEMACDONALD@gmail.com',
 	'uahlydah',
 	'8/7/2013',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/souuf/128.jpg',
-	'Quod sequi eum nesciunt similique qui repudiandae.');
+	NULL,
+	'Quod sequi eum nesciunt similique qui repudiandae.'
+);
 
-insert into _User values(
+insert into _User values (
 	'34',
 	'BETTY SYKES',
 	'Kinshasa',
@@ -380,10 +414,11 @@ insert into _User values(
 	'BETTYSYKES@outlook.com',
 	'ryxndkpx',
 	'12/5/1966',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/dgclegg/128.jpg',
-	'Voluptatem hic nemo et sapiente eos odit.');
+	NULL,
+	'Voluptatem hic nemo et sapiente eos odit.'
+);
 
-insert into _User values(
+insert into _User values (
 	'35',
 	'MARGUERITE MCCORMICK',
 	'Faisalabad',
@@ -391,10 +426,11 @@ insert into _User values(
 	'MARGUERITEMCCORMICK@gmail.com',
 	'vnledqnd',
 	'11/6/1940',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/chacky14/128.jpg',
-	'Ut officiis neque minus quod id.');
+	NULL,
+	'Ut officiis neque minus quod id.'
+);
 
-insert into _User values(
+insert into _User values (
 	'36',
 	'TROY LANDRY',
 	'Changsha',
@@ -402,10 +438,11 @@ insert into _User values(
 	'TROYLANDRY@gmail.com',
 	'wgdlfthv',
 	'13/11/1956',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/picard102/128.jpg',
-	'Hic quidem quia.');
+	NULL,
+	'Hic quidem quia.'
+);
 
-insert into _User values(
+insert into _User values (
 	'37',
 	'BELINDA JOHNS',
 	'Yokohama',
@@ -413,10 +450,11 @@ insert into _User values(
 	'BELINDAJOHNS@ualg.pt',
 	'hamaqcqg',
 	'13/10/1979',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/smalonso/128.jpg',
-	'Similique animi consectetur sed.');
+	NULL,
+	'Similique animi consectetur sed.'
+);
 
-insert into _User values(
+insert into _User values (
 	'38',
 	'PAM HESS',
 	'Moscow',
@@ -424,10 +462,11 @@ insert into _User values(
 	'PAMHESS@hotmail.com',
 	'qqkdhovq',
 	'2/11/1998',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/nelshd/128.jpg',
-	'Esse quo ab quia possimus.');
+	NULL,
+	'Esse quo ab quia possimus.'
+);
 
-insert into _User values(
+insert into _User values (
 	'39',
 	'BESSIE LUNA',
 	'Buenos_Aires',
@@ -435,10 +474,11 @@ insert into _User values(
 	'BESSIELUNA@hotmail.com',
 	'ihgesaia',
 	'4/10/1996',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/digitalmaverick/128.jpg',
-	'Aliquam aut et repudiandae aspernatur.');
+	NULL,
+	'Aliquam aut et repudiandae aspernatur.'
+);
 
-insert into _User values(
+insert into _User values (
 	'40',
 	'HAROLD MORALES',
 	'Jeddah',
@@ -446,10 +486,11 @@ insert into _User values(
 	'HAROLDMORALES@outlook.com',
 	'zysoekag',
 	'5/2/1935',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/jasonmarkjones/128.jpg',
-	'Excepturi dolorem ipsam distinctio illum alias aliquid et velit.');
+	NULL,
+	'Excepturi dolorem ipsam distinctio illum alias aliquid et velit.'
+);
 
-insert into _User values(
+insert into _User values (
 	'41',
 	'BARRY SULLIVAN',
 	'Wenzhou',
@@ -457,10 +498,11 @@ insert into _User values(
 	'BARRYSULLIVAN@gmail.com',
 	'lgiqqjar',
 	'17/10/1998',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/Chakintosh/128.jpg',
-	'Aspernatur voluptatibus est aut.');
+	NULL,
+	'Aspernatur voluptatibus est aut.'
+);
 
-insert into _User values(
+insert into _User values (
 	'42',
 	'ANNA NIELSEN',
 	'Xi_an',
@@ -468,10 +510,11 @@ insert into _User values(
 	'ANNANIELSEN@gmail.com',
 	'csslociy',
 	'14/11/1953',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/weavermedia/128.jpg',
-	'Nulla tenetur nulla quo et rerum reprehenderit sit totam.');
+	NULL,
+	'Nulla tenetur nulla quo et rerum reprehenderit sit totam.'
+);
 
-insert into _User values(
+insert into _User values (
 	'43',
 	'ALICE SANDOVAL',
 	'Ningbo',
@@ -479,10 +522,11 @@ insert into _User values(
 	'ALICESANDOVAL@hotmail.com',
 	'zxacgspr',
 	'13/4/1977',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/nathalie_fs/128.jpg',
-	'Magni animi eveniet.');
+	NULL,
+	'Magni animi eveniet.'
+);
 
-insert into _User values(
+insert into _User values (
 	'44',
 	'DONNA PRICE',
 	'Rio_de_Janeiro',
@@ -490,10 +534,11 @@ insert into _User values(
 	'DONNAPRICE@ualg.pt',
 	'zbbzgsxy',
 	'26/5/2007',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/konus/128.jpg',
-	'Nulla quisquam deleniti ut quas quis odio.');
+	NULL,
+	'Nulla quisquam deleniti ut quas quis odio.'
+);
 
-insert into _User values(
+insert into _User values (
 	'45',
 	'CURTIS HOLMES',
 	'Durban',
@@ -501,10 +546,11 @@ insert into _User values(
 	'CURTISHOLMES@hotmail.com',
 	'naedyolv',
 	'7/10/1946',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/tanveerrao/128.jpg',
-	'Reprehenderit sapiente quod eum.');
+	NULL,
+	'Reprehenderit sapiente quod eum.'
+);
 
-insert into _User values(
+insert into _User values (
 	'46',
 	'TERRI BASS',
 	'Hanoi',
@@ -512,10 +558,11 @@ insert into _User values(
 	'TERRIBASS@gmail.com',
 	'hddspzea',
 	'27/3/1995',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/felipecsl/128.jpg',
-	'Atque cupiditate porro iure eos sit.');
+	NULL,
+	'Atque cupiditate porro iure eos sit.'
+);
 
-insert into _User values(
+insert into _User values (
 	'47',
 	'DARRYL ROCHA',
 	'Saint_Petersburg',
@@ -523,10 +570,11 @@ insert into _User values(
 	'DARRYLROCHA@hotmail.com',
 	'exghqjtn',
 	'7/3/1952',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/rdbannon/128.jpg',
-	'Ut natus velit fuga.');
+	NULL,
+	'Ut natus velit fuga.'
+);
 
-insert into _User values(
+insert into _User values (
 	'48',
 	'NATASHA FUENTES',
 	'Ho_Chi_Minh_City',
@@ -534,10 +582,11 @@ insert into _User values(
 	'NATASHAFUENTES@outlook.com',
 	'slqfheka',
 	'5/7/1957',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/guillemboti/128.jpg',
-	'Tempora voluptatibus vero ducimus.');
+	NULL,
+	'Tempora voluptatibus vero ducimus.'
+);
 
-insert into _User values(
+insert into _User values (
 	'49',
 	'GILBERT GOODWIN',
 	'Mumbai',
@@ -545,10 +594,11 @@ insert into _User values(
 	'GILBERTGOODWIN@ualg.pt',
 	'vjjjpdbg',
 	'12/1/1984',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/praveen_vijaya/128.jpg',
-	'Minus est ut voluptas blanditiis quo consequatur est et quia.');
+	NULL,
+	'Minus est ut voluptas blanditiis quo consequatur est et quia.'
+);
 
-insert into _User values(
+insert into _User values (
 	'50',
 	'JAY JUSTICE',
 	'London',
@@ -556,10 +606,11 @@ insert into _User values(
 	'JAYJUSTICE@ualg.pt',
 	'juowkswa',
 	'28/11/2015',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/g3d/128.jpg',
-	'Quis ea sint quos error excepturi officia.');
+	NULL,
+	'Quis ea sint quos error excepturi officia.'
+);
 
-insert into _User values(
+insert into _User values (
 	'51',
 	'GLEN SMALL',
 	'Saint_Petersburg',
@@ -567,10 +618,11 @@ insert into _User values(
 	'GLENSMALL@outlook.com',
 	'frkkzyti',
 	'16/5/2006',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/her_ruu/128.jpg',
-	'Optio corrupti voluptatum nihil tenetur aut impedit.');
+	NULL,
+	'Optio corrupti voluptatum nihil tenetur aut impedit.'
+);
 
-insert into _User values(
+insert into _User values (
 	'52',
 	'LINDA GATES',
 	'Tianjin',
@@ -578,10 +630,11 @@ insert into _User values(
 	'LINDAGATES@ualg.pt',
 	'dfesteri',
 	'8/1/1937',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/greenbes/128.jpg',
-	'Ut magnam reiciendis reprehenderit.');
+	NULL,
+	'Ut magnam reiciendis reprehenderit.'
+);
 
-insert into _User values(
+insert into _User values (
 	'53',
 	'KYLE BRADSHAW',
 	'Nanjing',
@@ -589,10 +642,11 @@ insert into _User values(
 	'KYLEBRADSHAW@outlook.com',
 	'fbutybkw',
 	'17/5/1983',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/karalek/128.jpg',
-	'Eos quidem dolore et dolorem quas omnis aut omnis aliquam.');
+	NULL,
+	'Eos quidem dolore et dolorem quas omnis aut omnis aliquam.'
+);
 
-insert into _User values(
+insert into _User values (
 	'54',
 	'CATHY CAREY',
 	'Jaipur',
@@ -600,10 +654,11 @@ insert into _User values(
 	'CATHYCAREY@ualg.pt',
 	'yazhimga',
 	'1/3/1923',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/gipsy_raf/128.jpg',
-	'Fugiat et voluptates architecto ipsa dolorum.');
+	NULL,
+	'Fugiat et voluptates architecto ipsa dolorum.'
+);
 
-insert into _User values(
+insert into _User values (
 	'55',
 	'FRANCISCO WYATT',
 	'Faisalabad',
@@ -611,10 +666,11 @@ insert into _User values(
 	'FRANCISCOWYATT@outlook.com',
 	'tdayfilu',
 	'11/3/1929',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/josemarques/128.jpg',
-	'Minus voluptatem ea quaerat voluptatem.');
+	NULL,
+	'Minus voluptatem ea quaerat voluptatem.'
+);
 
-insert into _User values(
+insert into _User values (
 	'56',
 	'STEVE RICH',
 	'Jakarta',
@@ -622,10 +678,11 @@ insert into _User values(
 	'STEVERICH@gmail.com',
 	'fqtqdtfv',
 	'9/8/1987',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/thiagovernetti/128.jpg',
-	'Nostrum eos qui recusandae quo.');
+	NULL,
+	'Nostrum eos qui recusandae quo.'
+);
 
-insert into _User values(
+insert into _User values (
 	'57',
 	'GLENDA STOUT',
 	'Surat',
@@ -633,10 +690,11 @@ insert into _User values(
 	'GLENDASTOUT@gmail.com',
 	'ekoidjms',
 	'2/10/1978',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/fran_mchamy/128.jpg',
-	'Cumque nihil qui.');
+	NULL,
+	'Cumque nihil qui.'
+);
 
-insert into _User values(
+insert into _User values (
 	'58',
 	'MABEL NOEL',
 	'Mexico_City',
@@ -644,10 +702,11 @@ insert into _User values(
 	'MABELNOEL@ualg.pt',
 	'ndzaroit',
 	'12/2/1999',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/pechkinator/128.jpg',
-	'Id consequuntur a sint ut iure earum illum animi ea.');
+	NULL,
+	'Id consequuntur a sint ut iure earum illum animi ea.'
+);
 
-insert into _User values(
+insert into _User values (
 	'59',
 	'ANA CASH',
 	'Dongguan',
@@ -655,10 +714,11 @@ insert into _User values(
 	'ANACASH@gmail.com',
 	'pwifljtl',
 	'26/5/1976',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/danvierich/128.jpg',
-	'Non optio occaecati voluptas dolores corrupti enim.');
+	NULL,
+	'Non optio occaecati voluptas dolores corrupti enim.'
+);
 
-insert into _User values(
+insert into _User values (
 	'60',
 	'BLANCHE WEBSTER',
 	'Hefei',
@@ -666,10 +726,11 @@ insert into _User values(
 	'BLANCHEWEBSTER@hotmail.com',
 	'bskayndi',
 	'28/6/2001',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/romanbulah/128.jpg',
-	'Laboriosam repellat expedita sit alias blanditiis omnis enim voluptatum.');
+	NULL,
+	'Laboriosam repellat expedita sit alias blanditiis omnis enim voluptatum.'
+);
 
-insert into _User values(
+insert into _User values (
 	'61',
 	'GORDON BENTLEY',
 	'Saint_Petersburg',
@@ -677,10 +738,11 @@ insert into _User values(
 	'GORDONBENTLEY@gmail.com',
 	'oxloupab',
 	'7/3/1932',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/sawalazar/128.jpg',
-	'Explicabo quo aut voluptatem similique.');
+	NULL,
+	'Explicabo quo aut voluptatem similique.'
+);
 
-insert into _User values(
+insert into _User values (
 	'62',
 	'MARY ARNOLD',
 	'Yokohama',
@@ -688,10 +750,11 @@ insert into _User values(
 	'MARYARNOLD@ualg.pt',
 	'qtizhcrt',
 	'19/2/1967',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/blakehawksworth/128.jpg',
-	'Ut in reprehenderit voluptatum pariatur quis deleniti molestias facilis voluptas.');
+	NULL,
+	'Ut in reprehenderit voluptatum pariatur quis deleniti molestias facilis voluptas.'
+);
 
-insert into _User values(
+insert into _User values (
 	'63',
 	'DUANE LINDSEY',
 	'Chennai',
@@ -699,10 +762,11 @@ insert into _User values(
 	'DUANELINDSEY@gmail.com',
 	'euudfxhg',
 	'14/11/1962',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/victorerixon/128.jpg',
-	'Nemo totam est natus veniam laborum.');
+	NULL,
+	'Nemo totam est natus veniam laborum.'
+);
 
-insert into _User values(
+insert into _User values (
 	'64',
 	'JUNE STEIN',
 	'Changsha',
@@ -710,10 +774,11 @@ insert into _User values(
 	'JUNESTEIN@gmail.com',
 	'qbepoiev',
 	'8/7/1947',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/pierre_nel/128.jpg',
-	'Quia tempore inventore voluptate ad autem voluptate iure vero necessitatibus.');
+	NULL,
+	'Quia tempore inventore voluptate ad autem voluptate iure vero necessitatibus.'
+);
 
-insert into _User values(
+insert into _User values (
 	'65',
 	'ALEXANDER BAIRD',
 	'Alexandria',
@@ -721,10 +786,11 @@ insert into _User values(
 	'ALEXANDERBAIRD@hotmail.com',
 	'pxgehthd',
 	'14/10/1966',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/goddardlewis/128.jpg',
-	'Velit et labore maiores ad praesentium qui velit.');
+	NULL,
+	'Velit et labore maiores ad praesentium qui velit.'
+);
 
-insert into _User values(
+insert into _User values (
 	'66',
 	'TARA RAMIREZ',
 	'Harbin',
@@ -732,10 +798,11 @@ insert into _User values(
 	'TARARAMIREZ@ualg.pt',
 	'eaqcweas',
 	'1/9/1978',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/sergeysafonov/128.jpg',
-	'Velit quia ut.');
+	NULL,
+	'Velit quia ut.'
+);
 
-insert into _User values(
+insert into _User values (
 	'67',
 	'MABEL BLACKWELL',
 	'Busan',
@@ -743,10 +810,11 @@ insert into _User values(
 	'MABELBLACKWELL@ualg.pt',
 	'tnvfduhr',
 	'6/1/1986',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/scottiedude/128.jpg',
-	'Commodi corrupti non et et saepe.');
+	NULL,
+	'Commodi corrupti non et et saepe.'
+);
 
-insert into _User values(
+insert into _User values (
 	'68',
 	'KEN OWEN',
 	'Giza',
@@ -754,10 +822,11 @@ insert into _User values(
 	'KENOWEN@gmail.com',
 	'ckvxqsoy',
 	'11/9/1963',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/low_res/128.jpg',
-	'Ex ipsam aliquam consequatur vel saepe deserunt alias.');
+	NULL,
+	'Ex ipsam aliquam consequatur vel saepe deserunt alias.'
+);
 
-insert into _User values(
+insert into _User values (
 	'69',
 	'ALISON CHAMBERS',
 	'Dhaka',
@@ -765,10 +834,11 @@ insert into _User values(
 	'ALISONCHAMBERS@hotmail.com',
 	'mosktjru',
 	'16/5/2014',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/ryanjohnson_me/128.jpg',
-	'Et ut vero quas.');
+	NULL,
+	'Et ut vero quas.'
+);
 
-insert into _User values(
+insert into _User values (
 	'70',
 	'JEFFERY BLANCHARD',
 	'Tokyo',
@@ -776,10 +846,11 @@ insert into _User values(
 	'JEFFERYBLANCHARD@gmail.com',
 	'hrekeklt',
 	'13/10/1932',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/YoungCutlass/128.jpg',
-	'Repudiandae qui a temporibus.');
+	NULL,
+	'Repudiandae qui a temporibus.'
+);
 
-insert into _User values(
+insert into _User values (
 	'71',
 	'JODI SUTTON',
 	'Yokohama',
@@ -787,10 +858,11 @@ insert into _User values(
 	'JODISUTTON@gmail.com',
 	'iuacurtv',
 	'9/8/1932',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/kijanmaharjan/128.jpg',
-	'Culpa fugiat hic totam dolorem debitis sed eligendi.');
+	NULL,
+	'Culpa fugiat hic totam dolorem debitis sed eligendi.'
+);
 
-insert into _User values(
+insert into _User values (
 	'72',
 	'RICKY HORTON',
 	'Mumbai',
@@ -798,10 +870,11 @@ insert into _User values(
 	'RICKYHORTON@hotmail.com',
 	'xexjilwm',
 	'15/3/1990',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/matthewkay_/128.jpg',
-	'Quia ut adipisci aut ab.');
+	NULL,
+	'Quia ut adipisci aut ab.'
+);
 
-insert into _User values(
+insert into _User values (
 	'73',
 	'KRISTEN FISCHER',
 	'Zhengzhou',
@@ -809,10 +882,11 @@ insert into _User values(
 	'KRISTENFISCHER@gmail.com',
 	'rpqcbhzd',
 	'25/11/1959',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/scottkclark/128.jpg',
-	'Veritatis pariatur sit est numquam laboriosam est.');
+	NULL,
+	'Veritatis pariatur sit est numquam laboriosam est.'
+);
 
-insert into _User values(
+insert into _User values (
 	'74',
 	'THEODORE LARSON',
 	'Santiago',
@@ -820,10 +894,11 @@ insert into _User values(
 	'THEODORELARSON@outlook.com',
 	'hodwuxth',
 	'6/11/2001',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/juamperro/128.jpg',
-	'Labore asperiores nemo corrupti reiciendis voluptas consequatur unde.');
+	NULL,
+	'Labore asperiores nemo corrupti reiciendis voluptas consequatur unde.'
+);
 
-insert into _User values(
+insert into _User values (
 	'75',
 	'THERESA COOPER',
 	'Kinshasa',
@@ -831,10 +906,11 @@ insert into _User values(
 	'THERESACOOPER@ualg.pt',
 	'nmjzrsmi',
 	'2/6/1971',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/daniloc/128.jpg',
-	'Qui occaecati repellendus laborum necessitatibus consectetur nihil eius consequatur.');
+	NULL,
+	'Qui occaecati repellendus laborum necessitatibus consectetur nihil eius consequatur.'
+);
 
-insert into _User values(
+insert into _User values (
 	'76',
 	'ARLENE JOSEPH',
 	'Shenzhen',
@@ -842,10 +918,11 @@ insert into _User values(
 	'ARLENEJOSEPH@ualg.pt',
 	'mplqgnyr',
 	'18/5/1935',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/ademilter/128.jpg',
-	'Distinctio est aliquid.');
+	NULL,
+	'Distinctio est aliquid.'
+);
 
-insert into _User values(
+insert into _User values (
 	'77',
 	'EDWIN SUTTON',
 	'Hefei',
@@ -853,10 +930,11 @@ insert into _User values(
 	'EDWINSUTTON@gmail.com',
 	'qjlwkhws',
 	'19/9/1961',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/vovkasolovev/128.jpg',
-	'Quod aliquam vel qui.');
+	NULL,
+	'Quod aliquam vel qui.'
+);
 
-insert into _User values(
+insert into _User values (
 	'78',
 	'CHRISTIAN REED',
 	'Cairo',
@@ -864,10 +942,11 @@ insert into _User values(
 	'CHRISTIANREED@outlook.com',
 	'gcdfcgbx',
 	'22/2/1965',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/frankiefreesbie/128.jpg',
-	'Velit sunt distinctio vero reiciendis ipsa alias expedita adipisci.');
+	NULL,
+	'Velit sunt distinctio vero reiciendis ipsa alias expedita adipisci.'
+);
 
-insert into _User values(
+insert into _User values (
 	'79',
 	'LESLIE FLORES',
 	'Ahmedabad',
@@ -875,10 +954,11 @@ insert into _User values(
 	'LESLIEFLORES@gmail.com',
 	'nqdyzfql',
 	'19/7/1929',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/iqonicd/128.jpg',
-	'Est dolor temporibus et nesciunt molestias ab.');
+	NULL,
+	'Est dolor temporibus et nesciunt molestias ab.'
+);
 
-insert into _User values(
+insert into _User values (
 	'80',
 	'YOLANDA HAYDEN',
 	'Madrid',
@@ -886,10 +966,11 @@ insert into _User values(
 	'YOLANDAHAYDEN@hotmail.com',
 	'vflmzgub',
 	'2/5/1984',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/martip07/128.jpg',
-	'Vitae alias aut quaerat saepe iste ut debitis harum.');
+	NULL,
+	'Vitae alias aut quaerat saepe iste ut debitis harum.'
+);
 
-insert into _User values(
+insert into _User values (
 	'81',
 	'ALFREDO PARK',
 	'Suzhou',
@@ -897,10 +978,11 @@ insert into _User values(
 	'ALFREDOPARK@ualg.pt',
 	'iwrrrupi',
 	'14/1/2000',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/popey/128.jpg',
-	'Aliquid totam sit occaecati repudiandae culpa.');
+	NULL,
+	'Aliquid totam sit occaecati repudiandae culpa.'
+);
 
-insert into _User values(
+insert into _User values (
 	'82',
 	'EDDIE WEBER',
 	'Cape_Town',
@@ -908,10 +990,11 @@ insert into _User values(
 	'EDDIEWEBER@ualg.pt',
 	'pjhsoskx',
 	'27/6/1977',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/maxlinderman/128.jpg',
-	'Voluptatem eum maxime soluta aut et voluptatem qui possimus consequatur.');
+	NULL,
+	'Voluptatem eum maxime soluta aut et voluptatem qui possimus consequatur.'
+);
 
-insert into _User values(
+insert into _User values (
 	'83',
 	'REGINA NEWTON',
 	'Beijing',
@@ -919,10 +1002,11 @@ insert into _User values(
 	'REGINANEWTON@hotmail.com',
 	'qmxkvfwn',
 	'10/9/1939',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/sergeysafonov/128.jpg',
-	'Omnis iusto nesciunt ullam nesciunt ad repellat nostrum.');
+	NULL,
+	'Omnis iusto nesciunt ullam nesciunt ad repellat nostrum.'
+);
 
-insert into _User values(
+insert into _User values (
 	'84',
 	'MEGAN PACHECO',
 	'Ankara',
@@ -930,10 +1014,11 @@ insert into _User values(
 	'MEGANPACHECO@hotmail.com',
 	'qvouyscp',
 	'27/1/1985',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/panghal0/128.jpg',
-	'In veritatis cum repellat illo aut deserunt.');
+	NULL,
+	'In veritatis cum repellat illo aut deserunt.'
+);
 
-insert into _User values(
+insert into _User values (
 	'85',
 	'TINA MULLINS',
 	'Shenzhen',
@@ -941,10 +1026,11 @@ insert into _User values(
 	'TINAMULLINS@outlook.com',
 	'ojuomhnd',
 	'15/1/1927',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/scott_riley/128.jpg',
-	'Vero recusandae officiis quo saepe laudantium qui et officiis quia.');
+	NULL,
+	'Vero recusandae officiis quo saepe laudantium qui et officiis quia.'
+);
 
-insert into _User values(
+insert into _User values (
 	'86',
 	'ASHLEY HOLMES',
 	'Guangzhou',
@@ -952,10 +1038,11 @@ insert into _User values(
 	'ASHLEYHOLMES@hotmail.com',
 	'uhuxgypt',
 	'28/8/1993',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/malykhinv/128.jpg',
-	'Nesciunt dolor commodi.');
+	NULL,
+	'Nesciunt dolor commodi.'
+);
 
-insert into _User values(
+insert into _User values (
 	'87',
 	'MAUREEN FOLEY',
 	'Hyderabad',
@@ -963,10 +1050,11 @@ insert into _User values(
 	'MAUREENFOLEY@hotmail.com',
 	'yebuqnxh',
 	'1/8/2003',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/timmillwood/128.jpg',
-	'Distinctio et voluptas veniam recusandae.');
+	NULL,
+	'Distinctio et voluptas veniam recusandae.'
+);
 
-insert into _User values(
+insert into _User values (
 	'88',
 	'KELLY CALDWELL',
 	'Santiago',
@@ -974,10 +1062,11 @@ insert into _User values(
 	'KELLYCALDWELL@outlook.com',
 	'ancbfuax',
 	'18/6/1944',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/foczzi/128.jpg',
-	'Sint eum repudiandae reiciendis similique et sed consectetur quas.');
+	NULL,
+	'Sint eum repudiandae reiciendis similique et sed consectetur quas.'
+);
 
-insert into _User values(
+insert into _User values (
 	'89',
 	'NINA HORNE',
 	'Foshan',
@@ -985,10 +1074,11 @@ insert into _User values(
 	'NINAHORNE@gmail.com',
 	'qrvteohf',
 	'15/11/1972',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/sawalazar/128.jpg',
-	'Saepe molestiae ut ab voluptatem velit.');
+	NULL,
+	'Saepe molestiae ut ab voluptatem velit.'
+);
 
-insert into _User values(
+insert into _User values (
 	'90',
 	'HUGH ABBOTT',
 	'Durban',
@@ -996,10 +1086,11 @@ insert into _User values(
 	'HUGHABBOTT@outlook.com',
 	'hexqawbd',
 	'14/5/1963',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/abdullindenis/128.jpg',
-	'Qui dolorem neque porro velit minus quia et commodi aliquid.');
+	NULL,
+	'Qui dolorem neque porro velit minus quia et commodi aliquid.'
+);
 
-insert into _User values(
+insert into _User values (
 	'91',
 	'GARY BLACKBURN',
 	'Mumbai',
@@ -1007,10 +1098,11 @@ insert into _User values(
 	'GARYBLACKBURN@ualg.pt',
 	'hbaxxnuv',
 	'27/1/1973',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/bartjo/128.jpg',
-	'Ut rerum ea beatae nam.');
+	NULL,
+	'Ut rerum ea beatae nam.'
+);
 
-insert into _User values(
+insert into _User values (
 	'92',
 	'DANIEL LARA',
 	'Ankara',
@@ -1018,10 +1110,11 @@ insert into _User values(
 	'DANIELLARA@hotmail.com',
 	'sdczralz',
 	'27/10/1994',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/richwild/128.jpg',
-	'Dolorum voluptatum accusantium quos qui.');
+	NULL,
+	'Dolorum voluptatum accusantium quos qui.'
+);
 
-insert into _User values(
+insert into _User values (
 	'93',
 	'HAROLD SINGLETON',
 	'Surat',
@@ -1029,10 +1122,11 @@ insert into _User values(
 	'HAROLDSINGLETON@hotmail.com',
 	'uwcrbcwh',
 	'20/11/1923',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/michzen/128.jpg',
-	'Vel error molestias sint.');
+	NULL,
+	'Vel error molestias sint.'
+);
 
-insert into _User values(
+insert into _User values (
 	'94',
 	'ARTHUR ROSE',
 	'Changsha',
@@ -1040,10 +1134,11 @@ insert into _User values(
 	'ARTHURROSE@outlook.com',
 	'mpvumpvn',
 	'9/4/1964',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/traneblow/128.jpg',
-	'Sint enim totam eos quia vitae aliquid asperiores.');
+	NULL,
+	'Sint enim totam eos quia vitae aliquid asperiores.'
+);
 
-insert into _User values(
+insert into _User values (
 	'95',
 	'HECTOR DUNN',
 	'Karachi',
@@ -1051,10 +1146,11 @@ insert into _User values(
 	'HECTORDUNN@hotmail.com',
 	'hhehykys',
 	'20/7/1934',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/martinansty/128.jpg',
-	'Nobis minima beatae est nobis dolorem placeat non provident iste.');
+	NULL,
+	'Nobis minima beatae est nobis dolorem placeat non provident iste.'
+);
 
-insert into _User values(
+insert into _User values (
 	'96',
 	'CONNIE MCGOWAN',
 	'Dongguan',
@@ -1062,10 +1158,11 @@ insert into _User values(
 	'CONNIEMCGOWAN@hotmail.com',
 	'iaqrcdwr',
 	'12/8/1937',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/jagan123/128.jpg',
-	'Voluptatum iusto culpa itaque quia neque voluptates nam.');
+	NULL,
+	'Voluptatum iusto culpa itaque quia neque voluptates nam.'
+);
 
-insert into _User values(
+insert into _User values (
 	'97',
 	'VICTORIA MARSHALL',
 	'Cape_Town',
@@ -1073,10 +1170,11 @@ insert into _User values(
 	'VICTORIAMARSHALL@ualg.pt',
 	'iwcuyfcg',
 	'3/4/1960',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/supervova/128.jpg',
-	'Non accusantium sit ad est et perspiciatis fugiat consequatur quos.');
+	NULL,
+	'Non accusantium sit ad est et perspiciatis fugiat consequatur quos.'
+);
 
-insert into _User values(
+insert into _User values (
 	'98',
 	'LORI PATE',
 	'Cape_Town',
@@ -1084,10 +1182,11 @@ insert into _User values(
 	'LORIPATE@outlook.com',
 	'ihxjravd',
 	'22/6/2015',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/joshmedeski/128.jpg',
-	'Ut blanditiis sunt itaque est ipsa expedita eveniet corporis assumenda.');
+	NULL,
+	'Ut blanditiis sunt itaque est ipsa expedita eveniet corporis assumenda.'
+);
 
-insert into _User values(
+insert into _User values (
 	'99',
 	'ALFRED RIVERS',
 	'Tianjin',
@@ -1095,10 +1194,11 @@ insert into _User values(
 	'ALFREDRIVERS@ualg.pt',
 	'sjvqddla',
 	'14/3/1921',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/terrorpixel/128.jpg',
-	'Itaque sunt amet.');
+	NULL,
+	'Itaque sunt amet.'
+);
 
-insert into _User values(
+insert into _User values (
 	'100',
 	'NINA LINDSAY',
 	'Shantou',
@@ -1106,10 +1206,11 @@ insert into _User values(
 	'NINALINDSAY@hotmail.com',
 	'ayqqjfcp',
 	'1/4/1971',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/mds/128.jpg',
-	'Quis laboriosam reiciendis odio culpa beatae qui.');
+	NULL,
+	'Quis laboriosam reiciendis odio culpa beatae qui.'
+);
 
-insert into _User values(
+insert into _User values (
 	'101',
 	'JACK CARROLL',
 	'Rio_de_Janeiro',
@@ -1117,10 +1218,11 @@ insert into _User values(
 	'JACKCARROLL@ualg.pt',
 	'wjbkheev',
 	'28/5/1922',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/mohanrohith/128.jpg',
-	'Autem rerum voluptatem perferendis ut occaecati.');
+	NULL,
+	'Autem rerum voluptatem perferendis ut occaecati.'
+);
 
-insert into _User values(
+insert into _User values (
 	'102',
 	'FRANK PICKETT',
 	'New_Taipei_City',
@@ -1128,10 +1230,11 @@ insert into _User values(
 	'FRANKPICKETT@hotmail.com',
 	'mbqsvnrt',
 	'14/1/1973',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/ahmetsulek/128.jpg',
-	'Aut vel rerum omnis magnam.');
+	NULL,
+	'Aut vel rerum omnis magnam.'
+);
 
-insert into _User values(
+insert into _User values (
 	'103',
 	'ALEX SHEPARD',
 	'Tehran',
@@ -1139,10 +1242,11 @@ insert into _User values(
 	'ALEXSHEPARD@hotmail.com',
 	'mopfisbm',
 	'6/6/1965',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/baumannzone/128.jpg',
-	'Amet dolores maxime.');
+	NULL,
+	'Amet dolores maxime.'
+);
 
-insert into _User values(
+insert into _User values (
 	'104',
 	'CONSTANCE BARRERA',
 	'Jakarta',
@@ -1150,10 +1254,11 @@ insert into _User values(
 	'CONSTANCEBARRERA@gmail.com',
 	'ahojapuj',
 	'12/6/1945',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/davidhemphill/128.jpg',
-	'Sequi et voluptatum aliquid sapiente rerum itaque reprehenderit odit.');
+	NULL,
+	'Sequi et voluptatum aliquid sapiente rerum itaque reprehenderit odit.'
+);
 
-insert into _User values(
+insert into _User values (
 	'105',
 	'DEAN SOTO',
 	'Buenos_Aires',
@@ -1161,10 +1266,11 @@ insert into _User values(
 	'DEANSOTO@hotmail.com',
 	'bpscozxw',
 	'3/1/1991',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/stephcoue/128.jpg',
-	'Quia id alias.');
+	NULL,
+	'Quia id alias.'
+);
 
-insert into _User values(
+insert into _User values (
 	'106',
 	'CHARLOTTE OLIVER',
 	'Alexandria',
@@ -1172,10 +1278,11 @@ insert into _User values(
 	'CHARLOTTEOLIVER@ualg.pt',
 	'deechfwx',
 	'13/7/1995',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/to_soham/128.jpg',
-	'Rerum beatae quis.');
+	NULL,
+	'Rerum beatae quis.'
+);
 
-insert into _User values(
+insert into _User values (
 	'107',
 	'ERIN SYKES',
 	'Johannesburg',
@@ -1183,10 +1290,11 @@ insert into _User values(
 	'ERINSYKES@outlook.com',
 	'dkansolp',
 	'27/11/2009',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/privetwagner/128.jpg',
-	'Sed eveniet beatae qui cumque est minima.');
+	NULL,
+	'Sed eveniet beatae qui cumque est minima.'
+);
 
-insert into _User values(
+insert into _User values (
 	'108',
 	'PATRICIA MYERS',
 	'Nairobi',
@@ -1194,21 +1302,23 @@ insert into _User values(
 	'PATRICIAMYERS@outlook.com',
 	'yougtpkx',
 	'8/3/2016',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/mattlat/128.jpg',
-	'Mollitia blanditiis nihil.');
+	NULL,
+	'Mollitia blanditiis nihil.'
+);
 
-insert into _User values(
+insert into _User values (
 	'109',
 	'JILL COFFEY',
-	'SãoPaulo',
+	'Sï¿½oPaulo',
 	'Brazil',
 	'JILLCOFFEY@gmail.com',
 	'pawxaydi',
 	'7/4/2001',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/fjaguero/128.jpg',
-	'A omnis ea velit nostrum aut architecto sed et.');
+	NULL,
+	'A omnis ea velit nostrum aut architecto sed et.'
+);
 
-insert into _User values(
+insert into _User values (
 	'110',
 	'PERRY PATTON',
 	'Yokohama',
@@ -1216,10 +1326,11 @@ insert into _User values(
 	'PERRYPATTON@outlook.com',
 	'lfpbutdi',
 	'7/8/1999',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/jamiebrittain/128.jpg',
-	'Facilis corrupti et.');
+	NULL,
+	'Facilis corrupti et.'
+);
 
-insert into _User values(
+insert into _User values (
 	'111',
 	'LEONA JOHNS',
 	'Casablanca',
@@ -1227,10 +1338,11 @@ insert into _User values(
 	'LEONAJOHNS@ualg.pt',
 	'bozrdjuv',
 	'18/11/1986',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/vivekprvr/128.jpg',
-	'Consequuntur fugiat molestias quod est et saepe.');
+	NULL,
+	'Consequuntur fugiat molestias quod est et saepe.'
+);
 
-insert into _User values(
+insert into _User values (
 	'112',
 	'JAY CLEMENTS',
 	'Tokyo',
@@ -1238,10 +1350,11 @@ insert into _User values(
 	'JAYCLEMENTS@outlook.com',
 	'pxcshjqe',
 	'2/9/1923',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/d00maz/128.jpg',
-	'Suscipit impedit ut recusandae repellendus sed.');
+	NULL,
+	'Suscipit impedit ut recusandae repellendus sed.'
+);
 
-insert into _User values(
+insert into _User values (
 	'113',
 	'WALLACE CONRAD',
 	'Tokyo',
@@ -1249,10 +1362,11 @@ insert into _User values(
 	'WALLACECONRAD@hotmail.com',
 	'zzlpuycd',
 	'18/6/1928',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/gkaam/128.jpg',
-	'Commodi esse earum.');
+	NULL,
+	'Commodi esse earum.'
+);
 
-insert into _User values(
+insert into _User values (
 	'114',
 	'WALTER WISE',
 	'Chennai',
@@ -1260,10 +1374,11 @@ insert into _User values(
 	'WALTERWISE@outlook.com',
 	'hnamrprm',
 	'4/4/1937',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/YoungCutlass/128.jpg',
-	'Rem rerum accusantium.');
+	NULL,
+	'Rem rerum accusantium.'
+);
 
-insert into _User values(
+insert into _User values (
 	'115',
 	'SONYA WITT',
 	'Xi_an',
@@ -1271,10 +1386,11 @@ insert into _User values(
 	'SONYAWITT@gmail.com',
 	'idzjuopc',
 	'15/8/1978',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/ChrisFarina78/128.jpg',
-	'Eligendi ducimus minus et nemo et sunt in.');
+	NULL,
+	'Eligendi ducimus minus et nemo et sunt in.'
+);
 
-insert into _User values(
+insert into _User values (
 	'116',
 	'EDWIN HARRIS',
 	'Hyderabad',
@@ -1282,10 +1398,11 @@ insert into _User values(
 	'EDWINHARRIS@hotmail.com',
 	'cqzlwhez',
 	'12/2/1940',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/chrisslowik/128.jpg',
-	'Qui voluptatem sapiente dolorem et sed dolorem.');
+	NULL,
+	'Qui voluptatem sapiente dolorem et sed dolorem.'
+);
 
-insert into _User values(
+insert into _User values (
 	'117',
 	'CHRISTIAN BATTLE',
 	'Casablanca',
@@ -1293,10 +1410,11 @@ insert into _User values(
 	'CHRISTIANBATTLE@ualg.pt',
 	'lqpmbfkq',
 	'9/7/1934',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/linux29/128.jpg',
-	'Quisquam rerum necessitatibus sapiente corporis facere enim.');
+	NULL,
+	'Quisquam rerum necessitatibus sapiente corporis facere enim.'
+);
 
-insert into _User values(
+insert into _User values (
 	'118',
 	'EDDIE ZAMORA',
 	'Dhaka',
@@ -1304,10 +1422,11 @@ insert into _User values(
 	'EDDIEZAMORA@gmail.com',
 	'lqyfuora',
 	'16/9/2007',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/jeremiaha/128.jpg',
-	'Labore eum repudiandae doloremque.');
+	NULL,
+	'Labore eum repudiandae doloremque.'
+);
 
-insert into _User values(
+insert into _User values (
 	'119',
 	'ERIC DIAZ',
 	'Chengdu',
@@ -1315,10 +1434,11 @@ insert into _User values(
 	'ERICDIAZ@gmail.com',
 	'oxacxepx',
 	'16/4/2013',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/elisabethkjaer/128.jpg',
-	'Architecto quo et autem voluptate maxime saepe.');
+	NULL,
+	'Architecto quo et autem voluptate maxime saepe.'
+);
 
-insert into _User values(
+insert into _User values (
 	'120',
 	'EDWIN EDWARDS',
 	'Durban',
@@ -1326,10 +1446,11 @@ insert into _User values(
 	'EDWINEDWARDS@gmail.com',
 	'euefejvh',
 	'2/9/1979',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/andresenfredrik/128.jpg',
-	'Omnis consequatur autem.');
+	NULL,
+	'Omnis consequatur autem.'
+);
 
-insert into _User values(
+insert into _User values (
 	'121',
 	'PAM BENDER',
 	'Pune',
@@ -1337,10 +1458,11 @@ insert into _User values(
 	'PAMBENDER@hotmail.com',
 	'tobzefkc',
 	'22/7/1958',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/sindresorhus/128.jpg',
-	'Voluptas iusto doloremque expedita autem distinctio explicabo fugiat aspernatur.');
+	NULL,
+	'Voluptas iusto doloremque expedita autem distinctio explicabo fugiat aspernatur.'
+);
 
-insert into _User values(
+insert into _User values (
 	'122',
 	'GUY ONEIL',
 	'Xiamen',
@@ -1348,10 +1470,11 @@ insert into _User values(
 	'GUYONEIL@gmail.com',
 	'agtvdpuw',
 	'16/4/2016',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/malykhinv/128.jpg',
-	'In nobis suscipit magnam non accusamus itaque.');
+	NULL,
+	'In nobis suscipit magnam non accusamus itaque.'
+);
 
-insert into _User values(
+insert into _User values (
 	'123',
 	'LORETTA WATKINS',
 	'Surat',
@@ -1359,10 +1482,11 @@ insert into _User values(
 	'LORETTAWATKINS@hotmail.com',
 	'bfdretca',
 	'7/3/1953',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/irae/128.jpg',
-	'Aspernatur corrupti veniam qui reiciendis.');
+	NULL,
+	'Aspernatur corrupti veniam qui reiciendis.'
+);
 
-insert into _User values(
+insert into _User values (
 	'124',
 	'AGNES MIRANDA',
 	'Alexandria',
@@ -1370,10 +1494,11 @@ insert into _User values(
 	'AGNESMIRANDA@hotmail.com',
 	'ocmijfpv',
 	'12/6/1960',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/ddggccaa/128.jpg',
-	'Omnis reiciendis quo.');
+	NULL,
+	'Omnis reiciendis quo.'
+);
 
-insert into _User values(
+insert into _User values (
 	'125',
 	'RHONDA FARLEY',
 	'Ahmedabad',
@@ -1381,10 +1506,11 @@ insert into _User values(
 	'RHONDAFARLEY@hotmail.com',
 	'yspkhifu',
 	'27/5/1953',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/ky/128.jpg',
-	'Deserunt qui qui ad illo.');
+	NULL,
+	'Deserunt qui qui ad illo.'
+);
 
-insert into _User values(
+insert into _User values (
 	'126',
 	'HANNAH BOOTH',
 	'Madrid',
@@ -1392,10 +1518,11 @@ insert into _User values(
 	'HANNAHBOOTH@outlook.com',
 	'gxqlhejj',
 	'15/4/1971',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/kushsolitary/128.jpg',
-	'Facere ipsa quam repellat itaque nemo tenetur sit nulla veritatis.');
+	NULL,
+	'Facere ipsa quam repellat itaque nemo tenetur sit nulla veritatis.'
+);
 
-insert into _User values(
+insert into _User values (
 	'127',
 	'WILLIE MYERS',
 	'Jaipur',
@@ -1403,10 +1530,11 @@ insert into _User values(
 	'WILLIEMYERS@gmail.com',
 	'ionwfoyv',
 	'14/10/1924',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/kurafire/128.jpg',
-	'Debitis et voluptatem ad voluptatem dignissimos at.');
+	NULL,
+	'Debitis et voluptatem ad voluptatem dignissimos at.'
+);
 
-insert into _User values(
+insert into _User values (
 	'128',
 	'ROSA WALKER',
 	'Dhaka',
@@ -1414,10 +1542,11 @@ insert into _User values(
 	'ROSAWALKER@ualg.pt',
 	'ejgfvzzo',
 	'14/3/2005',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/hai_ninh_nguyen/128.jpg',
-	'Sint sed itaque alias.');
+	NULL,
+	'Sint sed itaque alias.'
+);
 
-insert into _User values(
+insert into _User values (
 	'129',
 	'RUSSELL STRICKLAND',
 	'Ankara',
@@ -1425,10 +1554,11 @@ insert into _User values(
 	'RUSSELLSTRICKLAND@gmail.com',
 	'kjbhxsew',
 	'9/8/1989',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/alek_djuric/128.jpg',
-	'Quod fugiat molestiae earum repellat vitae corrupti maxime.');
+	NULL,
+	'Quod fugiat molestiae earum repellat vitae corrupti maxime.'
+);
 
-insert into _User values(
+insert into _User values (
 	'130',
 	'BETH AUSTIN',
 	'Xiamen',
@@ -1436,10 +1566,11 @@ insert into _User values(
 	'BETHAUSTIN@ualg.pt',
 	'fugkpwag',
 	'14/5/1957',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/barputro/128.jpg',
-	'Consequuntur tempora officia quod enim deserunt dolorem ut voluptatem voluptas.');
+	NULL,
+	'Consequuntur tempora officia quod enim deserunt dolorem ut voluptatem voluptas.'
+);
 
-insert into _User values(
+insert into _User values (
 	'131',
 	'TOMMY FISHER',
 	'Addis_Ababa',
@@ -1447,10 +1578,11 @@ insert into _User values(
 	'TOMMYFISHER@ualg.pt',
 	'fpwcpkda',
 	'15/5/1956',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/phillapier/128.jpg',
-	'Corrupti placeat nostrum.');
+	NULL,
+	'Corrupti placeat nostrum.'
+);
 
-insert into _User values(
+insert into _User values (
 	'132',
 	'MARSHALL ESTRADA',
 	'Alexandria',
@@ -1458,10 +1590,11 @@ insert into _User values(
 	'MARSHALLESTRADA@outlook.com',
 	'vngscqaw',
 	'16/10/1957',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/herkulano/128.jpg',
-	'Dicta illum et.');
+	NULL,
+	'Dicta illum et.'
+);
 
-insert into _User values(
+insert into _User values (
 	'133',
 	'WARREN LAWSON',
 	'Lima',
@@ -1469,10 +1602,11 @@ insert into _User values(
 	'WARRENLAWSON@gmail.com',
 	'wbupuggw',
 	'22/7/2013',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/jay_wilburn/128.jpg',
-	'Vel et et delectus rerum facilis.');
+	NULL,
+	'Vel et et delectus rerum facilis.'
+);
 
-insert into _User values(
+insert into _User values (
 	'134',
 	'RUSSELL CLEMONS',
 	'Cairo',
@@ -1480,10 +1614,11 @@ insert into _User values(
 	'RUSSELLCLEMONS@outlook.com',
 	'almpcysb',
 	'3/7/1941',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/samscouto/128.jpg',
-	'Numquam labore atque.');
+	NULL,
+	'Numquam labore atque.'
+);
 
-insert into _User values(
+insert into _User values (
 	'135',
 	'IRMA LAWSON',
 	'Cairo',
@@ -1491,10 +1626,11 @@ insert into _User values(
 	'IRMALAWSON@ualg.pt',
 	'jqvqaidc',
 	'18/8/1938',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/the_winslet/128.jpg',
-	'Velit architecto dolores saepe adipisci.');
+	NULL,
+	'Velit architecto dolores saepe adipisci.'
+);
 
-insert into _User values(
+insert into _User values (
 	'136',
 	'ERIC BERRY',
 	'Jaipur',
@@ -1502,10 +1638,11 @@ insert into _User values(
 	'ERICBERRY@hotmail.com',
 	'frpvuqey',
 	'17/6/1924',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/stushona/128.jpg',
-	'Consequatur officia nihil totam quas.');
+	NULL,
+	'Consequatur officia nihil totam quas.'
+);
 
-insert into _User values(
+insert into _User values (
 	'137',
 	'ANTHONY GLENN',
 	'Yangon',
@@ -1513,10 +1650,11 @@ insert into _User values(
 	'ANTHONYGLENN@outlook.com',
 	'gpisxrql',
 	'20/3/1948',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/kolage/128.jpg',
-	'Voluptatibus provident dolores dolores dolorum officia sit temporibus laborum.');
+	NULL,
+	'Voluptatibus provident dolores dolores dolorum officia sit temporibus laborum.'
+);
 
-insert into _User values(
+insert into _User values (
 	'138',
 	'LINDSEY CARVER',
 	'Addis_Ababa',
@@ -1524,10 +1662,11 @@ insert into _User values(
 	'LINDSEYCARVER@ualg.pt',
 	'awdukzdv',
 	'14/7/1956',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/damenleeturks/128.jpg',
-	'Inventore quia est.');
+	NULL,
+	'Inventore quia est.'
+);
 
-insert into _User values(
+insert into _User values (
 	'139',
 	'MARCIA MENDEZ',
 	'Berlin',
@@ -1535,10 +1674,11 @@ insert into _User values(
 	'MARCIAMENDEZ@ualg.pt',
 	'xulueyhl',
 	'9/7/1945',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/carbontwelve/128.jpg',
-	'Quo eius voluptatem ea accusantium nisi occaecati perferendis voluptas.');
+	NULL,
+	'Quo eius voluptatem ea accusantium nisi occaecati perferendis voluptas.'
+);
 
-insert into _User values(
+insert into _User values (
 	'140',
 	'MATTHEW HOUSTON',
 	'Alexandria',
@@ -1546,10 +1686,11 @@ insert into _User values(
 	'MATTHEWHOUSTON@outlook.com',
 	'iqkgxeqj',
 	'23/11/1980',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/jerrybai1907/128.jpg',
-	'Beatae ducimus et fugiat magnam praesentium recusandae sint.');
+	NULL,
+	'Beatae ducimus et fugiat magnam praesentium recusandae sint.'
+);
 
-insert into _User values(
+insert into _User values (
 	'141',
 	'FELIX WALL',
 	'Ho_Chi_Minh_City',
@@ -1557,10 +1698,11 @@ insert into _User values(
 	'FELIXWALL@hotmail.com',
 	'oprajpwg',
 	'16/9/1997',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/m_kalibry/128.jpg',
-	'Iure consequatur alias unde et sunt illum dignissimos.');
+	NULL,
+	'Iure consequatur alias unde et sunt illum dignissimos.'
+);
 
-insert into _User values(
+insert into _User values (
 	'142',
 	'YOLANDA KNIGHT',
 	'Zhengzhou',
@@ -1568,10 +1710,11 @@ insert into _User values(
 	'YOLANDAKNIGHT@ualg.pt',
 	'ovruussu',
 	'14/7/1998',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/kojourin/128.jpg',
-	'Beatae repellendus ab porro et sunt deserunt at.');
+	NULL,
+	'Beatae repellendus ab porro et sunt deserunt at.'
+);
 
-insert into _User values(
+insert into _User values (
 	'143',
 	'JUDITH HARDIN',
 	'Berlin',
@@ -1579,10 +1722,11 @@ insert into _User values(
 	'JUDITHHARDIN@gmail.com',
 	'zyigkyii',
 	'2/2/1994',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/al_li/128.jpg',
-	'Natus maxime suscipit impedit dolorem impedit.');
+	NULL,
+	'Natus maxime suscipit impedit dolorem impedit.'
+);
 
-insert into _User values(
+insert into _User values (
 	'144',
 	'KAYLA MORSE',
 	'Chennai',
@@ -1590,10 +1734,11 @@ insert into _User values(
 	'KAYLAMORSE@outlook.com',
 	'cddylhcx',
 	'12/5/1993',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/soffes/128.jpg',
-	'Voluptatem incidunt eveniet ut iusto quos fugit et temporibus.');
+	NULL,
+	'Voluptatem incidunt eveniet ut iusto quos fugit et temporibus.'
+);
 
-insert into _User values(
+insert into _User values (
 	'145',
 	'RUBEN HATFIELD',
 	'Yokohama',
@@ -1601,10 +1746,11 @@ insert into _User values(
 	'RUBENHATFIELD@hotmail.com',
 	'vbvdgdkc',
 	'20/7/1975',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/abovefunction/128.jpg',
-	'Dolore voluptatem dolorum.');
+	NULL,
+	'Dolore voluptatem dolorum.'
+);
 
-insert into _User values(
+insert into _User values (
 	'146',
 	'ALFREDO DAVIDSON',
 	'Seoul',
@@ -1612,10 +1758,11 @@ insert into _User values(
 	'ALFREDODAVIDSON@ualg.pt',
 	'lpdtofki',
 	'10/4/1985',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/thibaut_re/128.jpg',
-	'Asperiores commodi illum cum.');
+	NULL,
+	'Asperiores commodi illum cum.'
+);
 
-insert into _User values(
+insert into _User values (
 	'147',
 	'ANNETTE TYSON',
 	'Jakarta',
@@ -1623,10 +1770,11 @@ insert into _User values(
 	'ANNETTETYSON@outlook.com',
 	'ifepxhfp',
 	'28/5/1982',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/chris_frees/128.jpg',
-	'Ullam ullam architecto earum atque maxime veritatis corrupti aut ut.');
+	NULL,
+	'Ullam ullam architecto earum atque maxime veritatis corrupti aut ut.'
+);
 
-insert into _User values(
+insert into _User values (
 	'148',
 	'ANTHONY MCKINNEY',
 	'Jaipur',
@@ -1634,10 +1782,11 @@ insert into _User values(
 	'ANTHONYMCKINNEY@ualg.pt',
 	'rucfjkur',
 	'7/11/1921',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/depaulawagner/128.jpg',
-	'In sint explicabo.');
+	NULL,
+	'In sint explicabo.'
+);
 
-insert into _User values(
+insert into _User values (
 	'149',
 	'PAULINE VALENTINE',
 	'Chennai',
@@ -1645,10 +1794,11 @@ insert into _User values(
 	'PAULINEVALENTINE@hotmail.com',
 	'ksmtjhax',
 	'10/1/1928',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/santi_urso/128.jpg',
-	'Hic ut aliquam.');
+	NULL,
+	'Hic ut aliquam.'
+);
 
-insert into _User values(
+insert into _User values (
 	'150',
 	'JOAN JOHNSON',
 	'Alexandria',
@@ -1656,10 +1806,11 @@ insert into _User values(
 	'JOANJOHNSON@gmail.com',
 	'lvxynprc',
 	'16/7/1956',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/turkutuuli/128.jpg',
-	'Nulla omnis neque ea.');
+	NULL,
+	'Nulla omnis neque ea.'
+);
 
-insert into _User values(
+insert into _User values (
 	'151',
 	'ANDY BUSH',
 	'Zhongshan',
@@ -1667,10 +1818,11 @@ insert into _User values(
 	'ANDYBUSH@ualg.pt',
 	'pdhbsxlq',
 	'20/8/1960',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/nicolai_larsen/128.jpg',
-	'Quis minima aperiam.');
+	NULL,
+	'Quis minima aperiam.'
+);
 
-insert into _User values(
+insert into _User values (
 	'152',
 	'RON WATERS',
 	'Jeddah',
@@ -1678,10 +1830,11 @@ insert into _User values(
 	'RONWATERS@hotmail.com',
 	'dpmezuvr',
 	'16/4/1975',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/jonsgotwood/128.jpg',
-	'Optio ut dolorem id itaque atque.');
+	NULL,
+	'Optio ut dolorem id itaque atque.'
+);
 
-insert into _User values(
+insert into _User values (
 	'153',
 	'KENT VALENCIA',
 	'Tianjin',
@@ -1689,10 +1842,11 @@ insert into _User values(
 	'KENTVALENCIA@gmail.com',
 	'vedjjpkm',
 	'13/1/1982',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/bobbytwoshoes/128.jpg',
-	'Minima architecto nesciunt qui.');
+	NULL,
+	'Minima architecto nesciunt qui.'
+);
 
-insert into _User values(
+insert into _User values (
 	'154',
 	'ALLAN WEST',
 	'Bangkok',
@@ -1700,10 +1854,11 @@ insert into _User values(
 	'ALLANWEST@hotmail.com',
 	'pxkqwyaj',
 	'3/11/1979',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/karalek/128.jpg',
-	'Quibusdam voluptates nihil et voluptatem assumenda temporibus praesentium ut sunt.');
+	NULL,
+	'Quibusdam voluptates nihil et voluptatem assumenda temporibus praesentium ut sunt.'
+);
 
-insert into _User values(
+insert into _User values (
 	'155',
 	'RICK RIGGS',
 	'Ahmedabad',
@@ -1711,10 +1866,11 @@ insert into _User values(
 	'RICKRIGGS@gmail.com',
 	'fgfawyvo',
 	'10/10/1987',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/sasha_shestakov/128.jpg',
-	'Autem est tempore omnis molestias sed voluptatibus quis.');
+	NULL,
+	'Autem est tempore omnis molestias sed voluptatibus quis.'
+);
 
-insert into _User values(
+insert into _User values (
 	'156',
 	'LARRY LLOYD',
 	'Zhongshan',
@@ -1722,10 +1878,11 @@ insert into _User values(
 	'LARRYLLOYD@outlook.com',
 	'wbdpnysb',
 	'11/8/1992',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/_scottburgess/128.jpg',
-	'Quia excepturi dolor.');
+	NULL,
+	'Quia excepturi dolor.'
+);
 
-insert into _User values(
+insert into _User values (
 	'157',
 	'DIANA VANCE',
 	'Shenyang',
@@ -1733,10 +1890,11 @@ insert into _User values(
 	'DIANAVANCE@ualg.pt',
 	'ujyrvsym',
 	'17/3/1977',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/jedbridges/128.jpg',
-	'Dolore corporis laboriosam soluta optio mollitia qui consectetur.');
+	NULL,
+	'Dolore corporis laboriosam soluta optio mollitia qui consectetur.'
+);
 
-insert into _User values(
+insert into _User values (
 	'158',
 	'DAVE CUNNINGHAM',
 	'Buenos_Aires',
@@ -1744,10 +1902,11 @@ insert into _User values(
 	'DAVECUNNINGHAM@outlook.com',
 	'nobvqnha',
 	'6/5/1951',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/anjhero/128.jpg',
-	'Qui quasi et nemo.');
+	NULL,
+	'Qui quasi et nemo.'
+);
 
-insert into _User values(
+insert into _User values (
 	'159',
 	'ALFRED SHANNON',
 	'Los_Angeles',
@@ -1755,10 +1914,11 @@ insert into _User values(
 	'ALFREDSHANNON@gmail.com',
 	'cxeaoojk',
 	'28/9/2012',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/madebybrenton/128.jpg',
-	'Qui rerum quaerat natus hic sequi temporibus vitae quia molestias.');
+	NULL,
+	'Qui rerum quaerat natus hic sequi temporibus vitae quia molestias.'
+);
 
-insert into _User values(
+insert into _User values (
 	'160',
 	'WAYNE BRIGHT',
 	'Tehran',
@@ -1766,10 +1926,11 @@ insert into _User values(
 	'WAYNEBRIGHT@hotmail.com',
 	'rquarylh',
 	'20/6/2016',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/hiemil/128.jpg',
-	'Itaque et reiciendis dolores quisquam numquam reprehenderit sequi iusto.');
+	NULL,
+	'Itaque et reiciendis dolores quisquam numquam reprehenderit sequi iusto.'
+);
 
-insert into _User values(
+insert into _User values (
 	'161',
 	'MIGUEL MEJIA',
 	'Delhi',
@@ -1777,10 +1938,11 @@ insert into _User values(
 	'MIGUELMEJIA@gmail.com',
 	'bmiilnev',
 	'18/3/1960',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/markjenkins/128.jpg',
-	'Accusamus libero natus molestias id non rem temporibus.');
+	NULL,
+	'Accusamus libero natus molestias id non rem temporibus.'
+);
 
-insert into _User values(
+insert into _User values (
 	'162',
 	'CHESTER FLYNN',
 	'Rio_de_Janeiro',
@@ -1788,10 +1950,11 @@ insert into _User values(
 	'CHESTERFLYNN@outlook.com',
 	'pdttihhe',
 	'9/4/1973',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/lepetitogre/128.jpg',
-	'Eligendi et excepturi et vel eos voluptates recusandae.');
+	NULL,
+	'Eligendi et excepturi et vel eos voluptates recusandae.'
+);
 
-insert into _User values(
+insert into _User values (
 	'163',
 	'ALFREDO RICHMOND',
 	'Shenyang',
@@ -1799,10 +1962,11 @@ insert into _User values(
 	'ALFREDORICHMOND@hotmail.com',
 	'jqwxdmlh',
 	'10/1/1959',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/ruehldesign/128.jpg',
-	'Sed soluta dignissimos accusantium voluptatum itaque doloremque doloribus culpa.');
+	NULL,
+	'Sed soluta dignissimos accusantium voluptatum itaque doloremque doloribus culpa.'
+);
 
-insert into _User values(
+insert into _User values (
 	'164',
 	'KRISTEN PEARSON',
 	'Pyongyang',
@@ -1810,10 +1974,11 @@ insert into _User values(
 	'KRISTENPEARSON@hotmail.com',
 	'qiebdrvc',
 	'3/8/1930',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/leonfedotov/128.jpg',
-	'Aspernatur corrupti officia quia iste consequatur assumenda.');
+	NULL,
+	'Aspernatur corrupti officia quia iste consequatur assumenda.'
+);
 
-insert into _User values(
+insert into _User values (
 	'165',
 	'AMY WEBER',
 	'Buenos_Aires',
@@ -1821,10 +1986,11 @@ insert into _User values(
 	'AMYWEBER@outlook.com',
 	'nqimnmik',
 	'9/4/1981',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/hugocornejo/128.jpg',
-	'Velit placeat temporibus qui at perferendis quaerat.');
+	NULL,
+	'Velit placeat temporibus qui at perferendis quaerat.'
+);
 
-insert into _User values(
+insert into _User values (
 	'166',
 	'DARRYL MURPHY',
 	'Faisalabad',
@@ -1832,10 +1998,11 @@ insert into _User values(
 	'DARRYLMURPHY@outlook.com',
 	'ksvkhspy',
 	'3/1/2000',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/d_nny_m_cher/128.jpg',
-	'Provident eius et iure consectetur vel.');
+	NULL,
+	'Provident eius et iure consectetur vel.'
+);
 
-insert into _User values(
+insert into _User values (
 	'167',
 	'GERALD ROTH',
 	'NewYork',
@@ -1843,10 +2010,11 @@ insert into _User values(
 	'GERALDROTH@hotmail.com',
 	'yifhfiob',
 	'17/3/1948',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/xilantra/128.jpg',
-	'Quos cupiditate occaecati pariatur dicta.');
+	NULL,
+	'Quos cupiditate occaecati pariatur dicta.'
+);
 
-insert into _User values(
+insert into _User values (
 	'168',
 	'CHARLES LEBLANC',
 	'Wuhan',
@@ -1854,10 +2022,11 @@ insert into _User values(
 	'CHARLESLEBLANC@hotmail.com',
 	'jrvjmhyl',
 	'14/6/1997',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/rickdt/128.jpg',
-	'Et est soluta maxime cumque placeat quo.');
+	NULL,
+	'Et est soluta maxime cumque placeat quo.'
+);
 
-insert into _User values(
+insert into _User values (
 	'169',
 	'SAM TYSON',
 	'Durban',
@@ -1865,10 +2034,11 @@ insert into _User values(
 	'SAMTYSON@gmail.com',
 	'nqyoyyzt',
 	'28/8/1932',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/koridhandy/128.jpg',
-	'Deleniti quis aut in enim excepturi odio et omnis.');
+	NULL,
+	'Deleniti quis aut in enim excepturi odio et omnis.'
+);
 
-insert into _User values(
+insert into _User values (
 	'170',
 	'STACY LANDRY',
 	'Nairobi',
@@ -1876,10 +2046,11 @@ insert into _User values(
 	'STACYLANDRY@hotmail.com',
 	'mhsgrcxn',
 	'2/8/1994',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/claudioguglieri/128.jpg',
-	'Error voluptatem deleniti autem iste aut praesentium.');
+	NULL,
+	'Error voluptatem deleniti autem iste aut praesentium.'
+);
 
-insert into _User values(
+insert into _User values (
 	'171',
 	'THOMAS ESTRADA',
 	'Rome',
@@ -1887,10 +2058,11 @@ insert into _User values(
 	'THOMASESTRADA@ualg.pt',
 	'ktoydmxt',
 	'23/4/1972',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/croakx/128.jpg',
-	'Aperiam animi sint libero cupiditate.');
+	NULL,
+	'Aperiam animi sint libero cupiditate.'
+);
 
-insert into _User values(
+insert into _User values (
 	'172',
 	'KELLY BUTLER',
 	'Hefei',
@@ -1898,10 +2070,11 @@ insert into _User values(
 	'KELLYBUTLER@gmail.com',
 	'jvjuoubv',
 	'20/9/1974',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/tur8le/128.jpg',
-	'Suscipit qui cum dolore temporibus.');
+	NULL,
+	'Suscipit qui cum dolore temporibus.'
+);
 
-insert into _User values(
+insert into _User values (
 	'173',
 	'VALERIE GLENN',
 	'Chengdu',
@@ -1909,10 +2082,11 @@ insert into _User values(
 	'VALERIEGLENN@gmail.com',
 	'thcumimz',
 	'22/2/2004',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/dingyi/128.jpg',
-	'Et eum sint beatae beatae vitae quaerat.');
+	NULL,
+	'Et eum sint beatae beatae vitae quaerat.'
+);
 
-insert into _User values(
+insert into _User values (
 	'174',
 	'DEANNA SANDOVAL',
 	'Karachi',
@@ -1920,10 +2094,11 @@ insert into _User values(
 	'DEANNASANDOVAL@outlook.com',
 	'flfjjeji',
 	'7/4/1950',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/lu4sh1i/128.jpg',
-	'Et eos nobis minima qui autem dolor.');
+	NULL,
+	'Et eos nobis minima qui autem dolor.'
+);
 
-insert into _User values(
+insert into _User values (
 	'175',
 	'ALFRED BLANKENSHIP',
 	'Dar_es_Salaam',
@@ -1931,10 +2106,11 @@ insert into _User values(
 	'ALFREDBLANKENSHIP@ualg.pt',
 	'wnfdavvl',
 	'13/8/1931',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/idiot/128.jpg',
-	'Voluptatem molestiae omnis distinctio aliquid velit ut.');
+	NULL,
+	'Voluptatem molestiae omnis distinctio aliquid velit ut.'
+);
 
-insert into _User values(
+insert into _User values (
 	'176',
 	'RAYMOND LANG',
 	'Karachi',
@@ -1942,10 +2118,11 @@ insert into _User values(
 	'RAYMONDLANG@outlook.com',
 	'vviinard',
 	'9/6/1998',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/homka/128.jpg',
-	'Reprehenderit eos placeat molestiae sit et sequi consequatur sed qui.');
+	NULL,
+	'Reprehenderit eos placeat molestiae sit et sequi consequatur sed qui.'
+);
 
-insert into _User values(
+insert into _User values (
 	'177',
 	'JAY COOPER',
 	'Baghdad',
@@ -1953,10 +2130,11 @@ insert into _User values(
 	'JAYCOOPER@outlook.com',
 	'exjkhaan',
 	'20/1/1939',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/HenryHoffman/128.jpg',
-	'Expedita rem numquam aliquid fugit esse saepe necessitatibus.');
+	NULL,
+	'Expedita rem numquam aliquid fugit esse saepe necessitatibus.'
+);
 
-insert into _User values(
+insert into _User values (
 	'178',
 	'MICHELE CHRISTENSEN',
 	'Alexandria',
@@ -1964,10 +2142,11 @@ insert into _User values(
 	'MICHELECHRISTENSEN@hotmail.com',
 	'zcheqjfk',
 	'2/11/2001',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/algunsanabria/128.jpg',
-	'Dolorum dolorem neque quam qui rerum omnis incidunt esse officiis.');
+	NULL,
+	'Dolorum dolorem neque quam qui rerum omnis incidunt esse officiis.'
+);
 
-insert into _User values(
+insert into _User values (
 	'179',
 	'EVERETT MITCHELL',
 	'Addis_Ababa',
@@ -1975,10 +2154,11 @@ insert into _User values(
 	'EVERETTMITCHELL@hotmail.com',
 	'dpylvphg',
 	'16/8/1953',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/marcobarbosa/128.jpg',
-	'Ut porro sunt error voluptas magni.');
+	NULL,
+	'Ut porro sunt error voluptas magni.'
+);
 
-insert into _User values(
+insert into _User values (
 	'180',
 	'DIANE KNOWLES',
 	'Shenzhen',
@@ -1986,10 +2166,11 @@ insert into _User values(
 	'DIANEKNOWLES@gmail.com',
 	'vdwjdntv',
 	'9/7/1925',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/vanchesz/128.jpg',
-	'Maxime quia ut pariatur et ut.');
+	NULL,
+	'Maxime quia ut pariatur et ut.'
+);
 
-insert into _User values(
+insert into _User values (
 	'181',
 	'MARIO FREEMAN',
 	'Dar_es_Salaam',
@@ -1997,10 +2178,11 @@ insert into _User values(
 	'MARIOFREEMAN@outlook.com',
 	'cktjmozt',
 	'10/7/1987',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/rickyyean/128.jpg',
-	'Facilis est et veritatis ut dolores culpa nostrum.');
+	NULL,
+	'Facilis est et veritatis ut dolores culpa nostrum.'
+);
 
-insert into _User values(
+insert into _User values (
 	'182',
 	'ALBERTO SHEPARD',
 	'Shenzhen',
@@ -2008,10 +2190,11 @@ insert into _User values(
 	'ALBERTOSHEPARD@outlook.com',
 	'shfvvbfu',
 	'10/6/1979',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/clubb3rry/128.jpg',
-	'Corrupti a ratione ut maiores officiis.');
+	NULL,
+	'Corrupti a ratione ut maiores officiis.'
+);
 
-insert into _User values(
+insert into _User values (
 	'183',
 	'TAMMY POTTER',
 	'Guangzhou',
@@ -2019,10 +2202,11 @@ insert into _User values(
 	'TAMMYPOTTER@hotmail.com',
 	'eycxjkhc',
 	'13/2/1963',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/bistrianiosip/128.jpg',
-	'Est optio totam provident.');
+	NULL,
+	'Est optio totam provident.'
+);
 
-insert into _User values(
+insert into _User values (
 	'184',
 	'LARRY PATEL',
 	'Harbin',
@@ -2030,10 +2214,11 @@ insert into _User values(
 	'LARRYPATEL@hotmail.com',
 	'zhofumbo',
 	'27/2/2003',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/alsobrooks/128.jpg',
-	'Et eius recusandae facere id perspiciatis enim.');
+	NULL,
+	'Et eius recusandae facere id perspiciatis enim.'
+);
 
-insert into _User values(
+insert into _User values (
 	'185',
 	'HUGH HORN',
 	'Chengdu',
@@ -2041,10 +2226,11 @@ insert into _User values(
 	'HUGHHORN@gmail.com',
 	'byboddpd',
 	'21/9/1975',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/klimmka/128.jpg',
-	'Sunt quasi sed est sed delectus fugit laborum deserunt recusandae.');
+	NULL,
+	'Sunt quasi sed est sed delectus fugit laborum deserunt recusandae.'
+);
 
-insert into _User values(
+insert into _User values (
 	'186',
 	'ALEX VELAZQUEZ',
 	'Kinshasa',
@@ -2052,10 +2238,11 @@ insert into _User values(
 	'ALEXVELAZQUEZ@gmail.com',
 	'vuyrezyw',
 	'3/10/2002',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/turkutuuli/128.jpg',
-	'Odio qui excepturi blanditiis ea qui accusantium.');
+	NULL,
+	'Odio qui excepturi blanditiis ea qui accusantium.'
+);
 
-insert into _User values(
+insert into _User values (
 	'187',
 	'TAMMY WYATT',
 	'Alexandria',
@@ -2063,10 +2250,11 @@ insert into _User values(
 	'TAMMYWYATT@gmail.com',
 	'ruaomcni',
 	'19/1/1959',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/thedamianhdez/128.jpg',
-	'Expedita sit sunt corrupti et.');
+	NULL,
+	'Expedita sit sunt corrupti et.'
+);
 
-insert into _User values(
+insert into _User values (
 	'188',
 	'RUTH DYER',
 	'Dongguan',
@@ -2074,10 +2262,11 @@ insert into _User values(
 	'RUTHDYER@outlook.com',
 	'lxhshfuy',
 	'10/2/1943',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/diesellaws/128.jpg',
-	'Saepe et magni velit in necessitatibus velit officia dolorum exercitationem.');
+	NULL,
+	'Saepe et magni velit in necessitatibus velit officia dolorum exercitationem.'
+);
 
-insert into _User values(
+insert into _User values (
 	'189',
 	'CYNTHIA MCCULLOUGH',
 	'Shantou',
@@ -2085,10 +2274,11 @@ insert into _User values(
 	'CYNTHIAMCCULLOUGH@hotmail.com',
 	'cidnfucq',
 	'21/6/1998',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/ccinojasso1/128.jpg',
-	'Numquam alias eveniet perspiciatis mollitia ut eum aliquid maxime magnam.');
+	NULL,
+	'Numquam alias eveniet perspiciatis mollitia ut eum aliquid maxime magnam.'
+);
 
-insert into _User values(
+insert into _User values (
 	'190',
 	'ARMANDO KING',
 	'Yangon',
@@ -2096,10 +2286,11 @@ insert into _User values(
 	'ARMANDOKING@outlook.com',
 	'vsjxugke',
 	'20/3/1958',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/dawidwu/128.jpg',
-	'Mollitia expedita non est voluptas suscipit.');
+	NULL,
+	'Mollitia expedita non est voluptas suscipit.'
+);
 
-insert into _User values(
+insert into _User values (
 	'191',
 	'EVELYN HALEY',
 	'Buenos_Aires',
@@ -2107,10 +2298,11 @@ insert into _User values(
 	'EVELYNHALEY@gmail.com',
 	'ngddfpde',
 	'11/8/1937',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/webtanya/128.jpg',
-	'Sequi natus fugit quos quo tempora quia enim.');
+	NULL,
+	'Sequi natus fugit quos quo tempora quia enim.'
+);
 
-insert into _User values(
+insert into _User values (
 	'192',
 	'CLYDE GUTHRIE',
 	'NewYork',
@@ -2118,10 +2310,11 @@ insert into _User values(
 	'CLYDEGUTHRIE@gmail.com',
 	'kguuiyjd',
 	'23/7/2016',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/kumarrajan12123/128.jpg',
-	'Ut odit nihil qui.');
+	NULL,
+	'Ut odit nihil qui.'
+);
 
-insert into _User values(
+insert into _User values (
 	'193',
 	'MARIO GILL',
 	'Chennai',
@@ -2129,10 +2322,11 @@ insert into _User values(
 	'MARIOGILL@ualg.pt',
 	'komyutve',
 	'7/5/1999',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/sandywoodruff/128.jpg',
-	'Consequatur optio omnis aperiam et corrupti in sed.');
+	NULL,
+	'Consequatur optio omnis aperiam et corrupti in sed.'
+);
 
-insert into _User values(
+insert into _User values (
 	'194',
 	'TERRY AGUILAR',
 	'Jeddah',
@@ -2140,10 +2334,11 @@ insert into _User values(
 	'TERRYAGUILAR@gmail.com',
 	'yjfojtce',
 	'8/2/1964',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/ipavelek/128.jpg',
-	'Esse nesciunt nemo at assumenda non.');
+	NULL,
+	'Esse nesciunt nemo at assumenda non.'
+);
 
-insert into _User values(
+insert into _User values (
 	'195',
 	'BERNICE COTE',
 	'Cape_Town',
@@ -2151,10 +2346,11 @@ insert into _User values(
 	'BERNICECOTE@ualg.pt',
 	'panbiexn',
 	'3/3/1991',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/nckjrvs/128.jpg',
-	'Doloremque sequi rem quas non.');
+	NULL,
+	'Doloremque sequi rem quas non.'
+);
 
-insert into _User values(
+insert into _User values (
 	'196',
 	'WILLIE ALSTON',
 	'Durban',
@@ -2162,10 +2358,11 @@ insert into _User values(
 	'WILLIEALSTON@outlook.com',
 	'vkhojnwr',
 	'18/3/1941',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/teylorfeliz/128.jpg',
-	'Inventore ut vero consequuntur voluptatibus id cum delectus.');
+	NULL,
+	'Inventore ut vero consequuntur voluptatibus id cum delectus.'
+);
 
-insert into _User values(
+insert into _User values (
 	'197',
 	'BILLY TALLEY',
 	'Delhi',
@@ -2173,10 +2370,11 @@ insert into _User values(
 	'BILLYTALLEY@gmail.com',
 	'dxwxnfrs',
 	'26/1/1938',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/cloudstudio/128.jpg',
-	'Accusantium reprehenderit dolorem dicta perferendis laboriosam.');
+	NULL,
+	'Accusantium reprehenderit dolorem dicta perferendis laboriosam.'
+);
 
-insert into _User values(
+insert into _User values (
 	'198',
 	'JARED BRIGGS',
 	'Ahmedabad',
@@ -2184,10 +2382,11 @@ insert into _User values(
 	'JAREDBRIGGS@outlook.com',
 	'jekmcnse',
 	'18/11/1940',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/sachacorazzi/128.jpg',
-	'Nulla officia est maxime sit natus et qui.');
+	NULL,
+	'Nulla officia est maxime sit natus et qui.'
+);
 
-insert into _User values(
+insert into _User values (
 	'199',
 	'CHARLIE PRICE',
 	'Lahore',
@@ -2195,10 +2394,11 @@ insert into _User values(
 	'CHARLIEPRICE@gmail.com',
 	'kzszchhp',
 	'15/5/1998',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/mahdif/128.jpg',
-	'Doloribus labore ut quia aut pariatur minus blanditiis.');
+	NULL,
+	'Doloribus labore ut quia aut pariatur minus blanditiis.'
+);
 
-insert into _User values(
+insert into _User values (
 	'200',
 	'LONNIE FRENCH',
 	'Bogota',
@@ -2206,10 +2406,11 @@ insert into _User values(
 	'LONNIEFRENCH@gmail.com',
 	'gbsnefoi',
 	'18/10/1996',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/vocino/128.jpg',
-	'Est dolore delectus quia accusamus qui qui et.');
+	NULL,
+	'Est dolore delectus quia accusamus qui qui et.'
+);
 
-insert into _User values(
+insert into _User values (
 	'201',
 	'JOSE ROY',
 	'Surat',
@@ -2217,10 +2418,11 @@ insert into _User values(
 	'JOSEROY@outlook.com',
 	'ebqwrkzh',
 	'15/8/1940',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/hota_v/128.jpg',
-	'Blanditiis perferendis nihil laborum rerum.');
+	NULL,
+	'Blanditiis perferendis nihil laborum rerum.'
+);
 
-insert into _User values(
+insert into _User values (
 	'202',
 	'STEVEN BURGESS',
 	'Ankara',
@@ -2228,10 +2430,11 @@ insert into _User values(
 	'STEVENBURGESS@ualg.pt',
 	'wvawuyta',
 	'17/5/1983',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/jjshaw14/128.jpg',
-	'Nihil perferendis assumenda.');
+	NULL,
+	'Nihil perferendis assumenda.'
+);
 
-insert into _User values(
+insert into _User values (
 	'203',
 	'CASSANDRA HODGES',
 	'London',
@@ -2239,10 +2442,11 @@ insert into _User values(
 	'CASSANDRAHODGES@outlook.com',
 	'zgzjmkdm',
 	'19/3/1955',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/lebinoclard/128.jpg',
-	'Consequatur omnis est molestiae facere.');
+	NULL,
+	'Consequatur omnis est molestiae facere.'
+);
 
-insert into _User values(
+insert into _User values (
 	'204',
 	'RAFAEL WILLIAM',
 	'Cape_Town',
@@ -2250,10 +2454,11 @@ insert into _User values(
 	'RAFAELWILLIAM@outlook.com',
 	'zktfuqod',
 	'8/6/1938',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/justinrob/128.jpg',
-	'Est iusto doloribus ea reprehenderit maiores illo voluptas voluptatem.');
+	NULL,
+	'Est iusto doloribus ea reprehenderit maiores illo voluptas voluptatem.'
+);
 
-insert into _User values(
+insert into _User values (
 	'205',
 	'BRUCE STEVENS',
 	'Singapore',
@@ -2261,10 +2466,11 @@ insert into _User values(
 	'BRUCESTEVENS@hotmail.com',
 	'quowccxy',
 	'28/9/1960',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/renbyrd/128.jpg',
-	'Itaque et et.');
+	NULL,
+	'Itaque et et.'
+);
 
-insert into _User values(
+insert into _User values (
 	'206',
 	'DENNIS RANDOLPH',
 	'Saint_Petersburg',
@@ -2272,10 +2478,11 @@ insert into _User values(
 	'DENNISRANDOLPH@gmail.com',
 	'wfskzffi',
 	'22/8/1951',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/sawalazar/128.jpg',
-	'Similique voluptate aperiam eum illo tempore et inventore aut id.');
+	NULL,
+	'Similique voluptate aperiam eum illo tempore et inventore aut id.'
+);
 
-insert into _User values(
+insert into _User values (
 	'207',
 	'WILLARD NEWMAN',
 	'Jakarta',
@@ -2283,10 +2490,11 @@ insert into _User values(
 	'WILLARDNEWMAN@hotmail.com',
 	'webwwgqm',
 	'2/9/2015',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/bennyjien/128.jpg',
-	'Illo accusamus et omnis laudantium delectus enim.');
+	NULL,
+	'Illo accusamus et omnis laudantium delectus enim.'
+);
 
-insert into _User values(
+insert into _User values (
 	'208',
 	'KRISTI HOFFMAN',
 	'Zhengzhou',
@@ -2294,10 +2502,11 @@ insert into _User values(
 	'KRISTIHOFFMAN@gmail.com',
 	'gsojakck',
 	'21/2/1929',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/vivekprvr/128.jpg',
-	'Placeat odit dolore.');
+	NULL,
+	'Placeat odit dolore.'
+);
 
-insert into _User values(
+insert into _User values (
 	'209',
 	'KYLE LAWRENCE',
 	'Jakarta',
@@ -2305,10 +2514,11 @@ insert into _User values(
 	'KYLELAWRENCE@hotmail.com',
 	'hjjzmzsa',
 	'9/7/1960',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/jackiesaik/128.jpg',
-	'Repellendus voluptate est eos.');
+	NULL,
+	'Repellendus voluptate est eos.'
+);
 
-insert into _User values(
+insert into _User values (
 	'210',
 	'KELLY NIELSEN',
 	'Rome',
@@ -2316,10 +2526,11 @@ insert into _User values(
 	'KELLYNIELSEN@outlook.com',
 	'mzajzvod',
 	'28/9/1968',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/hai_ninh_nguyen/128.jpg',
-	'Eius labore quo sunt dolor et facere est.');
+	NULL,
+	'Eius labore quo sunt dolor et facere est.'
+);
 
-insert into _User values(
+insert into _User values (
 	'211',
 	'RONNIE MCMAHON',
 	'Wuhan',
@@ -2327,21 +2538,23 @@ insert into _User values(
 	'RONNIEMCMAHON@outlook.com',
 	'enbuvczz',
 	'5/3/1980',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/gmourier/128.jpg',
-	'Ea iste sint enim est dolor modi dignissimos et quo.');
+	NULL,
+	'Ea iste sint enim est dolor modi dignissimos et quo.'
+);
 
-insert into _User values(
+insert into _User values (
 	'212',
 	'KURT WADE',
-	'SãoPaulo',
+	'Sï¿½oPaulo',
 	'Brazil',
 	'KURTWADE@hotmail.com',
 	'vnxzrgwj',
 	'5/5/1989',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/al_li/128.jpg',
-	'Voluptas cum ut autem occaecati.');
+	NULL,
+	'Voluptas cum ut autem occaecati.'
+);
 
-insert into _User values(
+insert into _User values (
 	'213',
 	'DARYL SILVA',
 	'New_Taipei_City',
@@ -2349,10 +2562,11 @@ insert into _User values(
 	'DARYLSILVA@outlook.com',
 	'euwxfdil',
 	'14/5/1927',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/ganserene/128.jpg',
-	'Cupiditate error unde quia nihil voluptas fuga aut atque.');
+	NULL,
+	'Cupiditate error unde quia nihil voluptas fuga aut atque.'
+);
 
-insert into _User values(
+insert into _User values (
 	'214',
 	'EDUARDO ROSALES',
 	'Tehran',
@@ -2360,10 +2574,11 @@ insert into _User values(
 	'EDUARDOROSALES@gmail.com',
 	'qsavnniw',
 	'9/5/2010',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/ZacharyZorbas/128.jpg',
-	'Fuga omnis quibusdam iure nam ut quae quisquam perspiciatis autem.');
+	NULL,
+	'Fuga omnis quibusdam iure nam ut quae quisquam perspiciatis autem.'
+);
 
-insert into _User values(
+insert into _User values (
 	'215',
 	'MIRIAM DEJESUS',
 	'Seoul',
@@ -2371,10 +2586,11 @@ insert into _User values(
 	'MIRIAMDEJESUS@gmail.com',
 	'ieqywbji',
 	'3/6/1921',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/haligaliharun/128.jpg',
-	'Voluptatem laborum error consequatur quia non asperiores dignissimos magni.');
+	NULL,
+	'Voluptatem laborum error consequatur quia non asperiores dignissimos magni.'
+);
 
-insert into _User values(
+insert into _User values (
 	'216',
 	'JAN BRADSHAW',
 	'Chengdu',
@@ -2382,10 +2598,11 @@ insert into _User values(
 	'JANBRADSHAW@outlook.com',
 	'acwgshto',
 	'20/2/1977',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/notbadart/128.jpg',
-	'Ut modi ratione perferendis temporibus.');
+	NULL,
+	'Ut modi ratione perferendis temporibus.'
+);
 
-insert into _User values(
+insert into _User values (
 	'217',
 	'CECIL JENNINGS',
 	'Alexandria',
@@ -2393,10 +2610,11 @@ insert into _User values(
 	'CECILJENNINGS@hotmail.com',
 	'nhygqqmf',
 	'6/4/2008',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/foczzi/128.jpg',
-	'Ducimus est cumque aspernatur velit.');
+	NULL,
+	'Ducimus est cumque aspernatur velit.'
+);
 
-insert into _User values(
+insert into _User values (
 	'218',
 	'JEROME ATKINSON',
 	'Berlin',
@@ -2404,10 +2622,11 @@ insert into _User values(
 	'JEROMEATKINSON@gmail.com',
 	'bqiwdogi',
 	'3/9/1944',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/maikelk/128.jpg',
-	'Aspernatur porro adipisci voluptas.');
+	NULL,
+	'Aspernatur porro adipisci voluptas.'
+);
 
-insert into _User values(
+insert into _User values (
 	'219',
 	'JAY DICKERSON',
 	'Dongguan',
@@ -2415,10 +2634,11 @@ insert into _User values(
 	'JAYDICKERSON@ualg.pt',
 	'oypfmaze',
 	'11/2/1937',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/a1chapone/128.jpg',
-	'Quo dolor illum sunt eveniet ullam laborum amet ipsum.');
+	NULL,
+	'Quo dolor illum sunt eveniet ullam laborum amet ipsum.'
+);
 
-insert into _User values(
+insert into _User values (
 	'220',
 	'WILMA HOLMES',
 	'Hefei',
@@ -2426,10 +2646,11 @@ insert into _User values(
 	'WILMAHOLMES@outlook.com',
 	'zcmzlecn',
 	'15/7/1928',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/linux29/128.jpg',
-	'Suscipit dolore eos repudiandae consequatur nesciunt quod omnis.');
+	NULL,
+	'Suscipit dolore eos repudiandae consequatur nesciunt quod omnis.'
+);
 
-insert into _User values(
+insert into _User values (
 	'221',
 	'RAY ROWE',
 	'Nairobi',
@@ -2437,10 +2658,11 @@ insert into _User values(
 	'RAYROWE@gmail.com',
 	'jweufaoh',
 	'11/4/2000',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/mdsisto/128.jpg',
-	'Eligendi placeat et magni consequuntur nisi aut.');
+	NULL,
+	'Eligendi placeat et magni consequuntur nisi aut.'
+);
 
-insert into _User values(
+insert into _User values (
 	'222',
 	'PENNY WELCH',
 	'Lima',
@@ -2448,10 +2670,11 @@ insert into _User values(
 	'PENNYWELCH@outlook.com',
 	'qvbkliiq',
 	'27/4/1972',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/omnizya/128.jpg',
-	'Eos autem alias tempore adipisci.');
+	NULL,
+	'Eos autem alias tempore adipisci.'
+);
 
-insert into _User values(
+insert into _User values (
 	'223',
 	'CHARLIE LOPEZ',
 	'Shantou',
@@ -2459,10 +2682,11 @@ insert into _User values(
 	'CHARLIELOPEZ@gmail.com',
 	'xibtetvl',
 	'5/11/1938',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/teylorfeliz/128.jpg',
-	'Saepe voluptatem consequuntur optio assumenda totam.');
+	NULL,
+	'Saepe voluptatem consequuntur optio assumenda totam.'
+);
 
-insert into _User values(
+insert into _User values (
 	'224',
 	'ELLA MCKAY',
 	'Giza',
@@ -2470,10 +2694,11 @@ insert into _User values(
 	'ELLAMCKAY@hotmail.com',
 	'wibubwxp',
 	'23/11/1922',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/besbujupi/128.jpg',
-	'Ut atque ipsum voluptatum consectetur sit placeat reiciendis rerum eligendi.');
+	NULL,
+	'Ut atque ipsum voluptatum consectetur sit placeat reiciendis rerum eligendi.'
+);
 
-insert into _User values(
+insert into _User values (
 	'225',
 	'MARTIN HARDING',
 	'Lahore',
@@ -2481,10 +2706,11 @@ insert into _User values(
 	'MARTINHARDING@hotmail.com',
 	'pzbbgilh',
 	'12/3/1934',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/aleinadsays/128.jpg',
-	'Atque tempore dolor quisquam occaecati tenetur.');
+	NULL,
+	'Atque tempore dolor quisquam occaecati tenetur.'
+);
 
-insert into _User values(
+insert into _User values (
 	'226',
 	'MARILYN LARSEN',
 	'Rome',
@@ -2492,10 +2718,11 @@ insert into _User values(
 	'MARILYNLARSEN@hotmail.com',
 	'jvkhcycn',
 	'23/1/1976',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/irae/128.jpg',
-	'Nesciunt et et rerum ipsam aspernatur odio molestias.');
+	NULL,
+	'Nesciunt et et rerum ipsam aspernatur odio molestias.'
+);
 
-insert into _User values(
+insert into _User values (
 	'227',
 	'DORA JONES',
 	'Lahore',
@@ -2503,10 +2730,11 @@ insert into _User values(
 	'DORAJONES@gmail.com',
 	'uddxklwy',
 	'22/3/1954',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/derekebradley/128.jpg',
-	'Porro nemo dolores accusantium consequuntur sequi enim.');
+	NULL,
+	'Porro nemo dolores accusantium consequuntur sequi enim.'
+);
 
-insert into _User values(
+insert into _User values (
 	'228',
 	'CLAUDIA CASTRO',
 	'Kabul',
@@ -2514,10 +2742,11 @@ insert into _User values(
 	'CLAUDIACASTRO@outlook.com',
 	'wasoesxl',
 	'1/1/1991',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/gauchomatt/128.jpg',
-	'Excepturi debitis incidunt repellendus atque et quia enim fugit qui.');
+	NULL,
+	'Excepturi debitis incidunt repellendus atque et quia enim fugit qui.'
+);
 
-insert into _User values(
+insert into _User values (
 	'229',
 	'CLIFFORD SANDOVAL',
 	'Cape_Town',
@@ -2525,10 +2754,11 @@ insert into _User values(
 	'CLIFFORDSANDOVAL@gmail.com',
 	'ebyjevjz',
 	'24/2/1932',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/sergeyalmone/128.jpg',
-	'Reprehenderit laboriosam dolorum assumenda impedit accusamus earum iusto.');
+	NULL,
+	'Reprehenderit laboriosam dolorum assumenda impedit accusamus earum iusto.'
+);
 
-insert into _User values(
+insert into _User values (
 	'230',
 	'SAMUEL STEPHENS',
 	'Jeddah',
@@ -2536,10 +2766,11 @@ insert into _User values(
 	'SAMUELSTEPHENS@gmail.com',
 	'dzygprco',
 	'24/4/1936',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/sergeyalmone/128.jpg',
-	'Praesentium maiores a eos corporis eaque et nisi et.');
+	NULL,
+	'Praesentium maiores a eos corporis eaque et nisi et.'
+);
 
-insert into _User values(
+insert into _User values (
 	'231',
 	'CARLOS ROBLES',
 	'Santiago',
@@ -2547,10 +2778,11 @@ insert into _User values(
 	'CARLOSROBLES@ualg.pt',
 	'unfopagi',
 	'5/4/2001',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/jnmnrd/128.jpg',
-	'Qui suscipit molestias illum accusamus eius cum facere et aut.');
+	NULL,
+	'Qui suscipit molestias illum accusamus eius cum facere et aut.'
+);
 
-insert into _User values(
+insert into _User values (
 	'232',
 	'JORGE ADAMS',
 	'Kolkata',
@@ -2558,10 +2790,11 @@ insert into _User values(
 	'JORGEADAMS@gmail.com',
 	'xktqxtvz',
 	'15/5/2008',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/twittypork/128.jpg',
-	'Autem dolorum harum consectetur officiis dolore.');
+	NULL,
+	'Autem dolorum harum consectetur officiis dolore.'
+);
 
-insert into _User values(
+insert into _User values (
 	'233',
 	'MELINDA ORTIZ',
 	'Seoul',
@@ -2569,10 +2802,11 @@ insert into _User values(
 	'MELINDAORTIZ@ualg.pt',
 	'unadhfyi',
 	'5/11/1929',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/joeymurdah/128.jpg',
-	'Quia officiis voluptatem.');
+	NULL,
+	'Quia officiis voluptatem.'
+);
 
-insert into _User values(
+insert into _User values (
 	'234',
 	'NORMA BRUCE',
 	'Tianjin',
@@ -2580,10 +2814,11 @@ insert into _User values(
 	'NORMABRUCE@gmail.com',
 	'ilglyovi',
 	'10/3/1986',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/jefffis/128.jpg',
-	'Distinctio voluptate eius consequatur sed.');
+	NULL,
+	'Distinctio voluptate eius consequatur sed.'
+);
 
-insert into _User values(
+insert into _User values (
 	'235',
 	'KENNETH BEARD',
 	'Madrid',
@@ -2591,10 +2826,11 @@ insert into _User values(
 	'KENNETHBEARD@ualg.pt',
 	'tektcpth',
 	'3/6/1930',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/peter576/128.jpg',
-	'Officia at et ratione quae.');
+	NULL,
+	'Officia at et ratione quae.'
+);
 
-insert into _User values(
+insert into _User values (
 	'236',
 	'MAURICE MORENO',
 	'Wenzhou',
@@ -2602,10 +2838,11 @@ insert into _User values(
 	'MAURICEMORENO@outlook.com',
 	'fcwctxyt',
 	'24/3/1933',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/ffbel/128.jpg',
-	'Adipisci hic quod iusto ex veniam in possimus dolorum.');
+	NULL,
+	'Adipisci hic quod iusto ex veniam in possimus dolorum.'
+);
 
-insert into _User values(
+insert into _User values (
 	'237',
 	'HOWARD WARE',
 	'Zhongshan',
@@ -2613,10 +2850,11 @@ insert into _User values(
 	'HOWARDWARE@hotmail.com',
 	'luvfvjhg',
 	'10/8/1988',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/raphaelnikson/128.jpg',
-	'Sit eos dolores.');
+	NULL,
+	'Sit eos dolores.'
+);
 
-insert into _User values(
+insert into _User values (
 	'238',
 	'ANNIE WILKINSON',
 	'Busan',
@@ -2624,10 +2862,11 @@ insert into _User values(
 	'ANNIEWILKINSON@hotmail.com',
 	'nqqxdofw',
 	'11/5/1938',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/m_kalibry/128.jpg',
-	'Deserunt natus amet eos corrupti voluptatem totam sit.');
+	NULL,
+	'Deserunt natus amet eos corrupti voluptatem totam sit.'
+);
 
-insert into _User values(
+insert into _User values (
 	'239',
 	'JOHNNIE EWING',
 	'Guangzhou',
@@ -2635,10 +2874,11 @@ insert into _User values(
 	'JOHNNIEEWING@outlook.com',
 	'scbrplft',
 	'13/2/1937',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/loganjlambert/128.jpg',
-	'Ut doloremque delectus et.');
+	NULL,
+	'Ut doloremque delectus et.'
+);
 
-insert into _User values(
+insert into _User values (
 	'240',
 	'KATHRYN EVANS',
 	'Johannesburg',
@@ -2646,10 +2886,11 @@ insert into _User values(
 	'KATHRYNEVANS@hotmail.com',
 	'uncndryb',
 	'16/8/1984',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/curiousonaut/128.jpg',
-	'Sapiente magnam illum sunt quidem maiores.');
+	NULL,
+	'Sapiente magnam illum sunt quidem maiores.'
+);
 
-insert into _User values(
+insert into _User values (
 	'241',
 	'RONALD SCHMIDT',
 	'Moscow',
@@ -2657,10 +2898,11 @@ insert into _User values(
 	'RONALDSCHMIDT@ualg.pt',
 	'dkwizjly',
 	'13/7/2011',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/oskarlevinson/128.jpg',
-	'Et vel optio.');
+	NULL,
+	'Et vel optio.'
+);
 
-insert into _User values(
+insert into _User values (
 	'242',
 	'GORDON GILLIAM',
 	'Tehran',
@@ -2668,10 +2910,11 @@ insert into _User values(
 	'GORDONGILLIAM@ualg.pt',
 	'acgbjyye',
 	'2/6/1953',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/kaysix_dizzy/128.jpg',
-	'Dolore omnis distinctio.');
+	NULL,
+	'Dolore omnis distinctio.'
+);
 
-insert into _User values(
+insert into _User values (
 	'243',
 	'STEVEN MONTOYA',
 	'Karachi',
@@ -2679,10 +2922,11 @@ insert into _User values(
 	'STEVENMONTOYA@hotmail.com',
 	'vgvhvihc',
 	'5/5/1930',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/muridrahhal/128.jpg',
-	'Ipsam dignissimos nostrum rerum a non iure.');
+	NULL,
+	'Ipsam dignissimos nostrum rerum a non iure.'
+);
 
-insert into _User values(
+insert into _User values (
 	'244',
 	'LLOYD GUERRA',
 	'Mexico_City',
@@ -2690,10 +2934,11 @@ insert into _User values(
 	'LLOYDGUERRA@ualg.pt',
 	'oylwdadw',
 	'15/4/1941',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/bertboerland/128.jpg',
-	'Rem non earum debitis tempora iste.');
+	NULL,
+	'Rem non earum debitis tempora iste.'
+);
 
-insert into _User values(
+insert into _User values (
 	'245',
 	'CASEY FARRELL',
 	'Johannesburg',
@@ -2701,10 +2946,11 @@ insert into _User values(
 	'CASEYFARRELL@gmail.com',
 	'dmatwpgc',
 	'17/1/2016',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/djsherman/128.jpg',
-	'At nesciunt quas.');
+	NULL,
+	'At nesciunt quas.'
+);
 
-insert into _User values(
+insert into _User values (
 	'246',
 	'MATTHEW WHITAKER',
 	'HonKong',
@@ -2712,10 +2958,11 @@ insert into _User values(
 	'MATTHEWWHITAKER@hotmail.com',
 	'snbznfdl',
 	'13/9/2013',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/markretzloff/128.jpg',
-	'Consectetur aliquid quasi esse eius quos est eligendi.');
+	NULL,
+	'Consectetur aliquid quasi esse eius quos est eligendi.'
+);
 
-insert into _User values(
+insert into _User values (
 	'247',
 	'MOLLY COHEN',
 	'HonKong',
@@ -2723,10 +2970,11 @@ insert into _User values(
 	'MOLLYCOHEN@outlook.com',
 	'uxhwoyoo',
 	'22/11/1942',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/gavr1l0/128.jpg',
-	'Ipsum non omnis sed rerum.');
+	NULL,
+	'Ipsum non omnis sed rerum.'
+);
 
-insert into _User values(
+insert into _User values (
 	'248',
 	'ALBERTO BOONE',
 	'Singapore',
@@ -2734,10 +2982,11 @@ insert into _User values(
 	'ALBERTOBOONE@hotmail.com',
 	'kmlafgif',
 	'3/6/1992',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/linkibol/128.jpg',
-	'Nulla doloremque consequatur exercitationem.');
+	NULL,
+	'Nulla doloremque consequatur exercitationem.'
+);
 
-insert into _User values(
+insert into _User values (
 	'249',
 	'BOB WYATT',
 	'Dongguan',
@@ -2745,10 +2994,11 @@ insert into _User values(
 	'BOBWYATT@gmail.com',
 	'rjywfxqc',
 	'12/6/1920',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/gojeanyn/128.jpg',
-	'Quia inventore rerum iusto odio alias dolorem repellat adipisci.');
+	NULL,
+	'Quia inventore rerum iusto odio alias dolorem repellat adipisci.'
+);
 
-insert into _User values(
+insert into _User values (
 	'250',
 	'SERGIO DODSON',
 	'Changsha',
@@ -2756,10 +3006,11 @@ insert into _User values(
 	'SERGIODODSON@ualg.pt',
 	'nagmtmpq',
 	'24/3/1935',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/borantula/128.jpg',
-	'Quaerat quod minima.');
+	NULL,
+	'Quaerat quod minima.'
+);
 
-insert into _User values(
+insert into _User values (
 	'251',
 	'ALLEN CARDENAS',
 	'Hyderabad',
@@ -2767,10 +3018,11 @@ insert into _User values(
 	'ALLENCARDENAS@outlook.com',
 	'ylvpxpba',
 	'10/4/1945',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/finchjke/128.jpg',
-	'Omnis non voluptas.');
+	NULL,
+	'Omnis non voluptas.'
+);
 
-insert into _User values(
+insert into _User values (
 	'252',
 	'ARTHUR MALDONADO',
 	'Guangzhou',
@@ -2778,10 +3030,11 @@ insert into _User values(
 	'ARTHURMALDONADO@outlook.com',
 	'mgmlmzsy',
 	'21/8/1964',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/swooshycueb/128.jpg',
-	'Voluptatem maiores corrupti perferendis placeat vitae repellendus modi porro eaque.');
+	NULL,
+	'Voluptatem maiores corrupti perferendis placeat vitae repellendus modi porro eaque.'
+);
 
-insert into _User values(
+insert into _User values (
 	'253',
 	'JANET RAYMOND',
 	'Nanjing',
@@ -2789,10 +3042,11 @@ insert into _User values(
 	'JANETRAYMOND@outlook.com',
 	'vgqpqyfg',
 	'4/6/1962',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/opnsrce/128.jpg',
-	'Et ex qui corporis eius qui qui deleniti exercitationem aperiam.');
+	NULL,
+	'Et ex qui corporis eius qui qui deleniti exercitationem aperiam.'
+);
 
-insert into _User values(
+insert into _User values (
 	'254',
 	'EDUARDO BUTLER',
 	'Ho_Chi_Minh_City',
@@ -2800,10 +3054,11 @@ insert into _User values(
 	'EDUARDOBUTLER@hotmail.com',
 	'dhjewqgm',
 	'5/6/1920',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/uxalex/128.jpg',
-	'Dolore voluptatem veritatis ut aut.');
+	NULL,
+	'Dolore voluptatem veritatis ut aut.'
+);
 
-insert into _User values(
+insert into _User values (
 	'255',
 	'VIOLA HALL',
 	'Delhi',
@@ -2811,10 +3066,11 @@ insert into _User values(
 	'VIOLAHALL@gmail.com',
 	'munzodws',
 	'28/1/1924',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/toddrew/128.jpg',
-	'Rem explicabo cumque.');
+	NULL,
+	'Rem explicabo cumque.'
+);
 
-insert into _User values(
+insert into _User values (
 	'256',
 	'RICARDO BAXTER',
 	'Kabul',
@@ -2822,10 +3078,11 @@ insert into _User values(
 	'RICARDOBAXTER@ualg.pt',
 	'hguipywj',
 	'8/6/1932',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/reideiredale/128.jpg',
-	'Rerum cupiditate in exercitationem provident modi porro.');
+	NULL,
+	'Rerum cupiditate in exercitationem provident modi porro.'
+);
 
-insert into _User values(
+insert into _User values (
 	'257',
 	'JOHN WARREN',
 	'Hanoi',
@@ -2833,10 +3090,11 @@ insert into _User values(
 	'JOHNWARREN@ualg.pt',
 	'kjbfnrwj',
 	'21/3/1986',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/keyuri85/128.jpg',
-	'Deleniti saepe est.');
+	NULL,
+	'Deleniti saepe est.'
+);
 
-insert into _User values(
+insert into _User values (
 	'258',
 	'KIRK HESS',
 	'Riyadh',
@@ -2844,10 +3102,11 @@ insert into _User values(
 	'KIRKHESS@ualg.pt',
 	'lfttlowg',
 	'9/11/1992',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/tjrus/128.jpg',
-	'Sit eligendi vero sunt.');
+	NULL,
+	'Sit eligendi vero sunt.'
+);
 
-insert into _User values(
+insert into _User values (
 	'259',
 	'BRIAN BERG',
 	'Chennai',
@@ -2855,10 +3114,11 @@ insert into _User values(
 	'BRIANBERG@gmail.com',
 	'nwirmvqw',
 	'14/9/1965',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/iduuck/128.jpg',
-	'Pariatur consequatur vitae quod totam omnis.');
+	NULL,
+	'Pariatur consequatur vitae quod totam omnis.'
+);
 
-insert into _User values(
+insert into _User values (
 	'260',
 	'LLOYD STRONG',
 	'Busan',
@@ -2866,10 +3126,11 @@ insert into _User values(
 	'LLOYDSTRONG@hotmail.com',
 	'yzucrfur',
 	'5/7/1955',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/ismail_biltagi/128.jpg',
-	'Inventore praesentium qui eaque.');
+	NULL,
+	'Inventore praesentium qui eaque.'
+);
 
-insert into _User values(
+insert into _User values (
 	'261',
 	'JEANNETTE MCCOY',
 	'Berlin',
@@ -2877,10 +3138,11 @@ insert into _User values(
 	'JEANNETTEMCCOY@outlook.com',
 	'agodmzgf',
 	'27/6/1926',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/keyuri85/128.jpg',
-	'Minus error eum placeat quidem maxime est doloremque deserunt laborum.');
+	NULL,
+	'Minus error eum placeat quidem maxime est doloremque deserunt laborum.'
+);
 
-insert into _User values(
+insert into _User values (
 	'262',
 	'HERMAN FLETCHER',
 	'Yangon',
@@ -2888,10 +3150,11 @@ insert into _User values(
 	'HERMANFLETCHER@ualg.pt',
 	'qwfdnwfx',
 	'24/6/1993',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/_ragzor/128.jpg',
-	'Dolor a eum sint numquam cupiditate quod quas sequi libero.');
+	NULL,
+	'Dolor a eum sint numquam cupiditate quod quas sequi libero.'
+);
 
-insert into _User values(
+insert into _User values (
 	'263',
 	'CURTIS MATTHEWS',
 	'Ningbo',
@@ -2899,10 +3162,11 @@ insert into _User values(
 	'CURTISMATTHEWS@outlook.com',
 	'heanhrwr',
 	'25/9/1984',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/rohixx/128.jpg',
-	'Quia reprehenderit dolores neque iste amet magni dolor sit.');
+	NULL,
+	'Quia reprehenderit dolores neque iste amet magni dolor sit.'
+);
 
-insert into _User values(
+insert into _User values (
 	'264',
 	'KEVIN CUMMINGS',
 	'Busan',
@@ -2910,10 +3174,11 @@ insert into _User values(
 	'KEVINCUMMINGS@hotmail.com',
 	'dqlguwim',
 	'27/3/1982',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/kianoshp/128.jpg',
-	'Recusandae libero aut est.');
+	NULL,
+	'Recusandae libero aut est.'
+);
 
-insert into _User values(
+insert into _User values (
 	'265',
 	'CLAYTON PRATT',
 	'New_Taipei_City',
@@ -2921,10 +3186,11 @@ insert into _User values(
 	'CLAYTONPRATT@hotmail.com',
 	'bvubwsnz',
 	'14/4/1948',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/kalmerrautam/128.jpg',
-	'Qui soluta vel et rem rem ipsa quod.');
+	NULL,
+	'Qui soluta vel et rem rem ipsa quod.'
+);
 
-insert into _User values(
+insert into _User values (
 	'266',
 	'TIMOTHY WATSON',
 	'Yangon',
@@ -2932,10 +3198,11 @@ insert into _User values(
 	'TIMOTHYWATSON@gmail.com',
 	'eysjjjfu',
 	'1/3/1930',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/derekcramer/128.jpg',
-	'Asperiores perspiciatis omnis harum.');
+	NULL,
+	'Asperiores perspiciatis omnis harum.'
+);
 
-insert into _User values(
+insert into _User values (
 	'267',
 	'RICARDO SCOTT',
 	'Beijing',
@@ -2943,10 +3210,11 @@ insert into _User values(
 	'RICARDOSCOTT@outlook.com',
 	'gaaczvzs',
 	'19/2/1965',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/toddrew/128.jpg',
-	'Rem et vel quia necessitatibus nulla velit.');
+	NULL,
+	'Rem et vel quia necessitatibus nulla velit.'
+);
 
-insert into _User values(
+insert into _User values (
 	'268',
 	'JAVIER TOWNSEND',
 	'Saint_Petersburg',
@@ -2954,10 +3222,11 @@ insert into _User values(
 	'JAVIERTOWNSEND@gmail.com',
 	'kudkacfi',
 	'23/3/1931',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/sovesove/128.jpg',
-	'Iste sit sint nihil voluptates.');
+	NULL,
+	'Iste sit sint nihil voluptates.'
+);
 
-insert into _User values(
+insert into _User values (
 	'269',
 	'TERRY MCCONNELL',
 	'Chennai',
@@ -2965,10 +3234,11 @@ insert into _User values(
 	'TERRYMCCONNELL@outlook.com',
 	'uaoknrae',
 	'16/3/1957',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/raquelwilson/128.jpg',
-	'Adipisci enim quisquam facere nisi quaerat qui at aut.');
+	NULL,
+	'Adipisci enim quisquam facere nisi quaerat qui at aut.'
+);
 
-insert into _User values(
+insert into _User values (
 	'270',
 	'TERRY SNYDER',
 	'Hefei',
@@ -2976,10 +3246,11 @@ insert into _User values(
 	'TERRYSNYDER@outlook.com',
 	'rvnewaeg',
 	'14/6/1959',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/ahmetsulek/128.jpg',
-	'Dolorem cumque fugit sit suscipit odit laborum necessitatibus autem.');
+	NULL,
+	'Dolorem cumque fugit sit suscipit odit laborum necessitatibus autem.'
+);
 
-insert into _User values(
+insert into _User values (
 	'271',
 	'WHITNEY KOCH',
 	'Beijing',
@@ -2987,10 +3258,11 @@ insert into _User values(
 	'WHITNEYKOCH@hotmail.com',
 	'aoroklqm',
 	'26/7/1959',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/alevizio/128.jpg',
-	'Aut sint dolorem veritatis facilis non ullam labore.');
+	NULL,
+	'Aut sint dolorem veritatis facilis non ullam labore.'
+);
 
-insert into _User values(
+insert into _User values (
 	'272',
 	'KYLE DEJESUS',
 	'Yokohama',
@@ -2998,10 +3270,11 @@ insert into _User values(
 	'KYLEDEJESUS@hotmail.com',
 	'cwxhobpt',
 	'6/9/1976',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/_ragzor/128.jpg',
-	'Praesentium fugiat sit assumenda et quo non.');
+	NULL,
+	'Praesentium fugiat sit assumenda et quo non.'
+);
 
-insert into _User values(
+insert into _User values (
 	'273',
 	'WAYNE STARK',
 	'Rome',
@@ -3009,10 +3282,11 @@ insert into _User values(
 	'WAYNESTARK@hotmail.com',
 	'jrzrmncs',
 	'2/11/1930',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/michzen/128.jpg',
-	'Nihil repudiandae vel porro fugit.');
+	NULL,
+	'Nihil repudiandae vel porro fugit.'
+);
 
-insert into _User values(
+insert into _User values (
 	'274',
 	'TIFFANY HOLMES',
 	'Chongqing',
@@ -3020,10 +3294,11 @@ insert into _User values(
 	'TIFFANYHOLMES@ualg.pt',
 	'pipbptbv',
 	'19/8/1994',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/bermonpainter/128.jpg',
-	'Nihil sunt repellat corporis.');
+	NULL,
+	'Nihil sunt repellat corporis.'
+);
 
-insert into _User values(
+insert into _User values (
 	'275',
 	'YVETTE ATKINS',
 	'Ekurhuleni',
@@ -3031,10 +3306,11 @@ insert into _User values(
 	'YVETTEATKINS@outlook.com',
 	'yklgtxis',
 	'24/8/1933',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/coreyweb/128.jpg',
-	'Blanditiis amet labore ut sint rem.');
+	NULL,
+	'Blanditiis amet labore ut sint rem.'
+);
 
-insert into _User values(
+insert into _User values (
 	'276',
 	'THEODORE WHITAKER',
 	'Moscow',
@@ -3042,10 +3318,11 @@ insert into _User values(
 	'THEODOREWHITAKER@gmail.com',
 	'yrtrsblf',
 	'15/1/1926',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/bboy1895/128.jpg',
-	'Aut nulla consequatur dolores eveniet.');
+	NULL,
+	'Aut nulla consequatur dolores eveniet.'
+);
 
-insert into _User values(
+insert into _User values (
 	'277',
 	'IVAN CALDWELL',
 	'Guangzhou',
@@ -3053,10 +3330,11 @@ insert into _User values(
 	'IVANCALDWELL@gmail.com',
 	'fjicyjar',
 	'4/8/1996',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/samuelkraft/128.jpg',
-	'Officiis et et aperiam laborum est delectus.');
+	NULL,
+	'Officiis et et aperiam laborum est delectus.'
+);
 
-insert into _User values(
+insert into _User values (
 	'278',
 	'MAE WAGNER',
 	'Zhengzhou',
@@ -3064,10 +3342,11 @@ insert into _User values(
 	'MAEWAGNER@ualg.pt',
 	'lwkfcppl',
 	'22/8/1971',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/konus/128.jpg',
-	'Vel sed earum sit voluptatum enim eligendi.');
+	NULL,
+	'Vel sed earum sit voluptatum enim eligendi.'
+);
 
-insert into _User values(
+insert into _User values (
 	'279',
 	'RICARDO VILLARREAL',
 	'Cape_Town',
@@ -3075,10 +3354,11 @@ insert into _User values(
 	'RICARDOVILLARREAL@outlook.com',
 	'bmqdorke',
 	'23/7/1999',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/sunlandictwin/128.jpg',
-	'Est aut nemo.');
+	NULL,
+	'Est aut nemo.'
+);
 
-insert into _User values(
+insert into _User values (
 	'280',
 	'NATALIE MICHAEL',
 	'Dar_es_Salaam',
@@ -3086,10 +3366,11 @@ insert into _User values(
 	'NATALIEMICHAEL@outlook.com',
 	'zhpaqduf',
 	'15/3/1939',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/to_soham/128.jpg',
-	'Sit nihil voluptas molestiae dolores cupiditate.');
+	NULL,
+	'Sit nihil voluptas molestiae dolores cupiditate.'
+);
 
-insert into _User values(
+insert into _User values (
 	'281',
 	'LYNN LAWRENCE',
 	'Xi_an',
@@ -3097,10 +3378,11 @@ insert into _User values(
 	'LYNNLAWRENCE@hotmail.com',
 	'vovkutzc',
 	'11/11/1972',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/chanpory/128.jpg',
-	'Excepturi eaque qui veritatis aliquid dolorum vitae similique illum in.');
+	NULL,
+	'Excepturi eaque qui veritatis aliquid dolorum vitae similique illum in.'
+);
 
-insert into _User values(
+insert into _User values (
 	'282',
 	'DORIS WARREN',
 	'London',
@@ -3108,10 +3390,11 @@ insert into _User values(
 	'DORISWARREN@outlook.com',
 	'xxuvqspc',
 	'17/1/1999',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/alessandroribe/128.jpg',
-	'Iusto eos dolor.');
+	NULL,
+	'Iusto eos dolor.'
+);
 
-insert into _User values(
+insert into _User values (
 	'283',
 	'DWAYNE PAYNE',
 	'Shanghai',
@@ -3119,21 +3402,23 @@ insert into _User values(
 	'DWAYNEPAYNE@outlook.com',
 	'eynrwugo',
 	'27/11/1977',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/waghner/128.jpg',
-	'Ut eum illo temporibus quia.');
+	NULL,
+	'Ut eum illo temporibus quia.'
+);
 
-insert into _User values(
+insert into _User values (
 	'284',
 	'PENNY ROBINSON',
-	'SãoPaulo',
+	'Sï¿½oPaulo',
 	'Brazil',
 	'PENNYROBINSON@gmail.com',
 	'sjsctzmm',
 	'4/11/1956',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/nicolai_larsen/128.jpg',
-	'Magnam ab qui ut reprehenderit est.');
+	NULL,
+	'Magnam ab qui ut reprehenderit est.'
+);
 
-insert into _User values(
+insert into _User values (
 	'285',
 	'BOBBY JARVIS',
 	'Harbin',
@@ -3141,10 +3426,11 @@ insert into _User values(
 	'BOBBYJARVIS@outlook.com',
 	'crgalxai',
 	'15/9/1997',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/spacewood_/128.jpg',
-	'Nam unde quasi voluptas voluptatum cumque voluptas.');
+	NULL,
+	'Nam unde quasi voluptas voluptatum cumque voluptas.'
+);
 
-insert into _User values(
+insert into _User values (
 	'286',
 	'PETER SUAREZ',
 	'Jakarta',
@@ -3152,10 +3438,11 @@ insert into _User values(
 	'PETERSUAREZ@ualg.pt',
 	'iowghvdh',
 	'4/8/1989',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/marlinjayakody/128.jpg',
-	'Illum ut voluptatem et enim qui voluptatem et facilis.');
+	NULL,
+	'Illum ut voluptatem et enim qui voluptatem et facilis.'
+);
 
-insert into _User values(
+insert into _User values (
 	'287',
 	'THERESA MOON',
 	'Mumbai',
@@ -3163,10 +3450,11 @@ insert into _User values(
 	'THERESAMOON@outlook.com',
 	'aqqnwerq',
 	'2/10/1974',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/edobene/128.jpg',
-	'Nisi nisi asperiores minima dolores modi tempore velit nobis quae.');
+	NULL,
+	'Nisi nisi asperiores minima dolores modi tempore velit nobis quae.'
+);
 
-insert into _User values(
+insert into _User values (
 	'288',
 	'COLLEEN ALVAREZ',
 	'Ahmedabad',
@@ -3174,10 +3462,11 @@ insert into _User values(
 	'COLLEENALVAREZ@outlook.com',
 	'qbchggzl',
 	'9/1/1938',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/nastya_mane/128.jpg',
-	'Numquam voluptatibus libero velit laudantium nihil quasi perferendis necessitatibus.');
+	NULL,
+	'Numquam voluptatibus libero velit laudantium nihil quasi perferendis necessitatibus.'
+);
 
-insert into _User values(
+insert into _User values (
 	'289',
 	'EVERETT PATTON',
 	'Giza',
@@ -3185,21 +3474,23 @@ insert into _User values(
 	'EVERETTPATTON@ualg.pt',
 	'rreplnsq',
 	'18/2/2009',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/r_garcia/128.jpg',
-	'Illo perferendis autem id vel aut commodi.');
+	NULL,
+	'Illo perferendis autem id vel aut commodi.'
+);
 
-insert into _User values(
+insert into _User values (
 	'290',
 	'MARGARET HESS',
-	'SãoPaulo',
+	'Sï¿½oPaulo',
 	'Brazil',
 	'MARGARETHESS@outlook.com',
 	'haacwwfu',
 	'7/3/1974',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/scrapdnb/128.jpg',
-	'Velit iure laudantium sed sed nisi.');
+	NULL,
+	'Velit iure laudantium sed sed nisi.'
+);
 
-insert into _User values(
+insert into _User values (
 	'291',
 	'MIRIAM SWEET',
 	'Pyongyang',
@@ -3207,10 +3498,11 @@ insert into _User values(
 	'MIRIAMSWEET@ualg.pt',
 	'jdvxmway',
 	'24/10/1959',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/Elt_n/128.jpg',
-	'Voluptas quae rerum architecto.');
+	NULL,
+	'Voluptas quae rerum architecto.'
+);
 
-insert into _User values(
+insert into _User values (
 	'292',
 	'SEAN HAMMOND',
 	'Hanoi',
@@ -3218,10 +3510,11 @@ insert into _User values(
 	'SEANHAMMOND@hotmail.com',
 	'qaduinox',
 	'9/9/1968',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/opnsrce/128.jpg',
-	'Enim rem omnis commodi amet commodi distinctio molestias.');
+	NULL,
+	'Enim rem omnis commodi amet commodi distinctio molestias.'
+);
 
-insert into _User values(
+insert into _User values (
 	'293',
 	'DONNA HENSON',
 	'Xiamen',
@@ -3229,10 +3522,11 @@ insert into _User values(
 	'DONNAHENSON@outlook.com',
 	'kfslgazm',
 	'4/3/1952',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/arashmanteghi/128.jpg',
-	'Nostrum placeat numquam et facilis reprehenderit qui.');
+	NULL,
+	'Nostrum placeat numquam et facilis reprehenderit qui.'
+);
 
-insert into _User values(
+insert into _User values (
 	'294',
 	'MARSHALL CANNON',
 	'Giza',
@@ -3240,10 +3534,11 @@ insert into _User values(
 	'MARSHALLCANNON@outlook.com',
 	'urpwamlh',
 	'24/5/1942',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/davecraige/128.jpg',
-	'Est assumenda qui explicabo et ullam illo dolor.');
+	NULL,
+	'Est assumenda qui explicabo et ullam illo dolor.'
+);
 
-insert into _User values(
+insert into _User values (
 	'295',
 	'SUE GLENN',
 	'Surat',
@@ -3251,10 +3546,11 @@ insert into _User values(
 	'SUEGLENN@outlook.com',
 	'engwuymv',
 	'17/2/1952',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/jasonmarkjones/128.jpg',
-	'Debitis delectus magnam explicabo molestiae suscipit.');
+	NULL,
+	'Debitis delectus magnam explicabo molestiae suscipit.'
+);
 
-insert into _User values(
+insert into _User values (
 	'296',
 	'LILLIAN CROSBY',
 	'Yangon',
@@ -3262,10 +3558,11 @@ insert into _User values(
 	'LILLIANCROSBY@ualg.pt',
 	'nccemgox',
 	'15/8/1984',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/bertboerland/128.jpg',
-	'Ab non minima repellendus.');
+	NULL,
+	'Ab non minima repellendus.'
+);
 
-insert into _User values(
+insert into _User values (
 	'297',
 	'BRANDON RODGERS',
 	'HonKong',
@@ -3273,10 +3570,11 @@ insert into _User values(
 	'BRANDONRODGERS@hotmail.com',
 	'jxiatity',
 	'6/1/2013',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/nckjrvs/128.jpg',
-	'Eum consequatur illo.');
+	NULL,
+	'Eum consequatur illo.'
+);
 
-insert into _User values(
+insert into _User values (
 	'298',
 	'ERNEST ARMSTRONG',
 	'Seoul',
@@ -3284,10 +3582,11 @@ insert into _User values(
 	'ERNESTARMSTRONG@ualg.pt',
 	'cjqfwmbl',
 	'7/8/1983',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/bermonpainter/128.jpg',
-	'Nihil sunt repellat corporis.');
+	NULL,
+	'Nihil sunt repellat corporis.'
+);
 
-insert into _User values(
+insert into _User values (
 	'299',
 	'TYRONE BEST',
 	'Shantou',
@@ -3295,10 +3594,11 @@ insert into _User values(
 	'TYRONEBEST@ualg.pt',
 	'hzglhxvv',
 	'24/9/1937',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/strikewan/128.jpg',
-	'Doloribus sunt ut pariatur.');
+	NULL,
+	'Doloribus sunt ut pariatur.'
+);
 
-insert into _User values(
+insert into _User values (
 	'300',
 	'MITCHELL DURHAM',
 	'Madrid',
@@ -3306,10 +3606,11 @@ insert into _User values(
 	'MITCHELLDURHAM@ualg.pt',
 	'mpkhpzsl',
 	'6/11/1953',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/zackeeler/128.jpg',
-	'Et quas magni repudiandae quo impedit minus et reprehenderit.');
+	NULL,
+	'Et quas magni repudiandae quo impedit minus et reprehenderit.'
+);
 
-insert into _User values(
+insert into _User values (
 	'301',
 	'ERIN MARTIN',
 	'Surat',
@@ -3317,10 +3618,11 @@ insert into _User values(
 	'ERINMARTIN@hotmail.com',
 	'vrfjewgc',
 	'7/6/2017',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/gojeanyn/128.jpg',
-	'Quasi nihil omnis aut nemo est assumenda quo.');
+	NULL,
+	'Quasi nihil omnis aut nemo est assumenda quo.'
+);
 
-insert into _User values(
+insert into _User values (
 	'302',
 	'GEORGE MCKEE',
 	'Singapore',
@@ -3328,10 +3630,11 @@ insert into _User values(
 	'GEORGEMCKEE@hotmail.com',
 	'ygjpvubr',
 	'3/8/2003',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/baumann_alex/128.jpg',
-	'Ipsa provident doloremque aut aut quo facere explicabo eius eligendi.');
+	NULL,
+	'Ipsa provident doloremque aut aut quo facere explicabo eius eligendi.'
+);
 
-insert into _User values(
+insert into _User values (
 	'303',
 	'ROY MAYER',
 	'Santiago',
@@ -3339,10 +3642,11 @@ insert into _User values(
 	'ROYMAYER@outlook.com',
 	'zjdfotpl',
 	'22/5/1975',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/cbracco/128.jpg',
-	'Rem distinctio quo ullam dolor sed veniam et et et.');
+	NULL,
+	'Rem distinctio quo ullam dolor sed veniam et et et.'
+);
 
-insert into _User values(
+insert into _User values (
 	'304',
 	'LARRY SULLIVAN',
 	'Beijing',
@@ -3350,10 +3654,11 @@ insert into _User values(
 	'LARRYSULLIVAN@outlook.com',
 	'colzdbib',
 	'18/1/1971',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/mslarkina/128.jpg',
-	'Vel nam quasi voluptatibus aliquam.');
+	NULL,
+	'Vel nam quasi voluptatibus aliquam.'
+);
 
-insert into _User values(
+insert into _User values (
 	'305',
 	'JAN LEON',
 	'Saint_Petersburg',
@@ -3361,10 +3666,11 @@ insert into _User values(
 	'JANLEON@hotmail.com',
 	'ceeahqux',
 	'26/5/1939',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/normanbox/128.jpg',
-	'Cupiditate amet dicta ab nulla perspiciatis.');
+	NULL,
+	'Cupiditate amet dicta ab nulla perspiciatis.'
+);
 
-insert into _User values(
+insert into _User values (
 	'306',
 	'JONATHAN STEPHENSON',
 	'Tehran',
@@ -3372,10 +3678,11 @@ insert into _User values(
 	'JONATHANSTEPHENSON@ualg.pt',
 	'obdootpf',
 	'5/5/1953',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/vj_demien/128.jpg',
-	'Aut distinctio maiores aperiam ducimus porro.');
+	NULL,
+	'Aut distinctio maiores aperiam ducimus porro.'
+);
 
-insert into _User values(
+insert into _User values (
 	'307',
 	'BERNARD MCCALL',
 	'Rome',
@@ -3383,10 +3690,11 @@ insert into _User values(
 	'BERNARDMCCALL@hotmail.com',
 	'xgmcmsko',
 	'15/11/1983',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/noufalibrahim/128.jpg',
-	'Nihil eos suscipit natus doloremque natus ducimus et debitis.');
+	NULL,
+	'Nihil eos suscipit natus doloremque natus ducimus et debitis.'
+);
 
-insert into _User values(
+insert into _User values (
 	'308',
 	'BRANDY VEGA',
 	'Shenzhen',
@@ -3394,10 +3702,11 @@ insert into _User values(
 	'BRANDYVEGA@ualg.pt',
 	'xhazdsjs',
 	'26/2/1976',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/anjhero/128.jpg',
-	'Vero sed odio provident provident.');
+	NULL,
+	'Vero sed odio provident provident.'
+);
 
-insert into _User values(
+insert into _User values (
 	'309',
 	'CALVIN CALLAHAN',
 	'Changsha',
@@ -3405,10 +3714,11 @@ insert into _User values(
 	'CALVINCALLAHAN@ualg.pt',
 	'iwiejwwo',
 	'10/8/1930',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/diesellaws/128.jpg',
-	'Itaque cupiditate ducimus assumenda nemo.');
+	NULL,
+	'Itaque cupiditate ducimus assumenda nemo.'
+);
 
-insert into _User values(
+insert into _User values (
 	'310',
 	'ZACHARY FRANCO',
 	'Harbin',
@@ -3416,10 +3726,11 @@ insert into _User values(
 	'ZACHARYFRANCO@outlook.com',
 	'yiysnlzd',
 	'8/7/1986',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/shojberg/128.jpg',
-	'Nobis praesentium ut.');
+	NULL,
+	'Nobis praesentium ut.'
+);
 
-insert into _User values(
+insert into _User values (
 	'311',
 	'JANICE LITTLE',
 	'Bangkok',
@@ -3427,10 +3738,11 @@ insert into _User values(
 	'JANICELITTLE@ualg.pt',
 	'hfjzbmlc',
 	'5/4/1961',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/imammuht/128.jpg',
-	'Possimus repudiandae quas sit repellendus dolor ea totam.');
+	NULL,
+	'Possimus repudiandae quas sit repellendus dolor ea totam.'
+);
 
-insert into _User values(
+insert into _User values (
 	'312',
 	'CODY CASE',
 	'Berlin',
@@ -3438,10 +3750,11 @@ insert into _User values(
 	'CODYCASE@ualg.pt',
 	'xpxlvnrd',
 	'14/2/1974',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/geobikas/128.jpg',
-	'Voluptates corporis est quod illo hic qui optio ea.');
+	NULL,
+	'Voluptates corporis est quod illo hic qui optio ea.'
+);
 
-insert into _User values(
+insert into _User values (
 	'313',
 	'STEPHEN ALLEN',
 	'Bangkok',
@@ -3449,10 +3762,11 @@ insert into _User values(
 	'STEPHENALLEN@hotmail.com',
 	'pswewhgh',
 	'18/11/1949',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/panchajanyag/128.jpg',
-	'Quos aperiam ratione maxime sapiente natus tempore ducimus voluptate.');
+	NULL,
+	'Quos aperiam ratione maxime sapiente natus tempore ducimus voluptate.'
+);
 
-insert into _User values(
+insert into _User values (
 	'314',
 	'GWENDOLYN PRINCE',
 	'Lahore',
@@ -3460,10 +3774,11 @@ insert into _User values(
 	'GWENDOLYNPRINCE@ualg.pt',
 	'gworfwhn',
 	'7/2/1929',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/ChrisFarina78/128.jpg',
-	'Unde magnam occaecati unde nam esse aut.');
+	NULL,
+	'Unde magnam occaecati unde nam esse aut.'
+);
 
-insert into _User values(
+insert into _User values (
 	'315',
 	'HATTIE WILKINSON',
 	'Giza',
@@ -3471,10 +3786,11 @@ insert into _User values(
 	'HATTIEWILKINSON@outlook.com',
 	'cefrnjlj',
 	'11/2/1956',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/dorphern/128.jpg',
-	'Blanditiis earum dolor quis non ipsa et rem odio delectus.');
+	NULL,
+	'Blanditiis earum dolor quis non ipsa et rem odio delectus.'
+);
 
-insert into _User values(
+insert into _User values (
 	'316',
 	'MITCHELL CHERRY',
 	'Zhongshan',
@@ -3482,10 +3798,11 @@ insert into _User values(
 	'MITCHELLCHERRY@hotmail.com',
 	'qhbbiguj',
 	'1/8/2017',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/shalt0ni/128.jpg',
-	'Beatae enim iure eaque id qui et ea consequuntur doloremque.');
+	NULL,
+	'Beatae enim iure eaque id qui et ea consequuntur doloremque.'
+);
 
-insert into _User values(
+insert into _User values (
 	'317',
 	'MYRTLE WASHINGTON',
 	'Suzhou',
@@ -3493,10 +3810,11 @@ insert into _User values(
 	'MYRTLEWASHINGTON@ualg.pt',
 	'zgeyioyh',
 	'9/4/1930',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/ma_tiax/128.jpg',
-	'Quia perspiciatis quaerat dolore rerum rerum sint.');
+	NULL,
+	'Quia perspiciatis quaerat dolore rerum rerum sint.'
+);
 
-insert into _User values(
+insert into _User values (
 	'318',
 	'RAY PHELPS',
 	'Alexandria',
@@ -3504,10 +3822,11 @@ insert into _User values(
 	'RAYPHELPS@outlook.com',
 	'xmcadmnk',
 	'14/11/1933',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/elbuscainfo/128.jpg',
-	'Asperiores ut qui molestiae atque molestiae quia at ut.');
+	NULL,
+	'Asperiores ut qui molestiae atque molestiae quia at ut.'
+);
 
-insert into _User values(
+insert into _User values (
 	'319',
 	'TERRY LONG',
 	'Zhengzhou',
@@ -3515,10 +3834,11 @@ insert into _User values(
 	'TERRYLONG@ualg.pt',
 	'bencgoio',
 	'17/9/1946',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/nicoleglynn/128.jpg',
-	'Consequatur ea dolores voluptatibus optio.');
+	NULL,
+	'Consequatur ea dolores voluptatibus optio.'
+);
 
-insert into _User values(
+insert into _User values (
 	'320',
 	'CAROLYN CONWAY',
 	'Hyderabad',
@@ -3526,10 +3846,11 @@ insert into _User values(
 	'CAROLYNCONWAY@hotmail.com',
 	'ekocanen',
 	'12/5/1980',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/dorphern/128.jpg',
-	'Et ut autem impedit voluptate eum earum velit provident minus.');
+	NULL,
+	'Et ut autem impedit voluptate eum earum velit provident minus.'
+);
 
-insert into _User values(
+insert into _User values (
 	'321',
 	'ROSE BYERS',
 	'Rome',
@@ -3537,10 +3858,11 @@ insert into _User values(
 	'ROSEBYERS@ualg.pt',
 	'qneebsyk',
 	'7/8/1929',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/erwanhesry/128.jpg',
-	'Numquam vero mollitia inventore.');
+	NULL,
+	'Numquam vero mollitia inventore.'
+);
 
-insert into _User values(
+insert into _User values (
 	'322',
 	'CHESTER CHRISTENSEN',
 	'Surat',
@@ -3548,10 +3870,11 @@ insert into _User values(
 	'CHESTERCHRISTENSEN@hotmail.com',
 	'mvzopxly',
 	'28/4/1936',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/gizmeedevil1991/128.jpg',
-	'Vel dolor nihil non consequatur earum enim maiores nobis ullam.');
+	NULL,
+	'Vel dolor nihil non consequatur earum enim maiores nobis ullam.'
+);
 
-insert into _User values(
+insert into _User values (
 	'323',
 	'VANESSA NICHOLS',
 	'Casablanca',
@@ -3559,10 +3882,11 @@ insert into _User values(
 	'VANESSANICHOLS@hotmail.com',
 	'vgzyhboc',
 	'28/11/1950',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/marklamb/128.jpg',
-	'Dolor dolore dolores.');
+	NULL,
+	'Dolor dolore dolores.'
+);
 
-insert into _User values(
+insert into _User values (
 	'324',
 	'CHRISTY WARREN',
 	'Kinshasa',
@@ -3570,10 +3894,11 @@ insert into _User values(
 	'CHRISTYWARREN@ualg.pt',
 	'zqnzwyht',
 	'21/3/1925',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/gregrwilkinson/128.jpg',
-	'Velit et quia ut dolorem.');
+	NULL,
+	'Velit et quia ut dolorem.'
+);
 
-insert into _User values(
+insert into _User values (
 	'325',
 	'TINA HOFFMAN',
 	'Riyadh',
@@ -3581,10 +3906,11 @@ insert into _User values(
 	'TINAHOFFMAN@outlook.com',
 	'fhuidcwo',
 	'6/1/2002',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/craighenneberry/128.jpg',
-	'Recusandae voluptas sunt omnis.');
+	NULL,
+	'Recusandae voluptas sunt omnis.'
+);
 
-insert into _User values(
+insert into _User values (
 	'326',
 	'ROGER CERVANTES',
 	'Ningbo',
@@ -3592,10 +3918,11 @@ insert into _User values(
 	'ROGERCERVANTES@outlook.com',
 	'kpiaxigv',
 	'15/11/2014',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/sovesove/128.jpg',
-	'Molestias voluptatem fugiat natus expedita consequuntur ipsum quae ab.');
+	NULL,
+	'Molestias voluptatem fugiat natus expedita consequuntur ipsum quae ab.'
+);
 
-insert into _User values(
+insert into _User values (
 	'327',
 	'PAULA SEXTON',
 	'Cairo',
@@ -3603,10 +3930,11 @@ insert into _User values(
 	'PAULASEXTON@ualg.pt',
 	'rdlzhzdv',
 	'12/11/1961',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/heycamtaylor/128.jpg',
-	'Similique fugit consequuntur omnis eos alias ipsum dolores consequuntur.');
+	NULL,
+	'Similique fugit consequuntur omnis eos alias ipsum dolores consequuntur.'
+);
 
-insert into _User values(
+insert into _User values (
 	'328',
 	'VIOLET BISHOP',
 	'Hefei',
@@ -3614,10 +3942,11 @@ insert into _User values(
 	'VIOLETBISHOP@gmail.com',
 	'cnpgwhuj',
 	'23/2/1929',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/cdharrison/128.jpg',
-	'Laborum voluptas totam dignissimos.');
+	NULL,
+	'Laborum voluptas totam dignissimos.'
+);
 
-insert into _User values(
+insert into _User values (
 	'329',
 	'CLAUDE TRAVIS',
 	'Chongqing',
@@ -3625,10 +3954,11 @@ insert into _User values(
 	'CLAUDETRAVIS@outlook.com',
 	'jcrbisrv',
 	'21/6/1972',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/dpmachado/128.jpg',
-	'Soluta facilis et reprehenderit ad aut.');
+	NULL,
+	'Soluta facilis et reprehenderit ad aut.'
+);
 
-insert into _User values(
+insert into _User values (
 	'330',
 	'MARCUS LAWRENCE',
 	'Ahmedabad',
@@ -3636,10 +3966,11 @@ insert into _User values(
 	'MARCUSLAWRENCE@outlook.com',
 	'bhllopod',
 	'7/10/1975',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/nicollerich/128.jpg',
-	'Eum molestiae aut aut occaecati.');
+	NULL,
+	'Eum molestiae aut aut occaecati.'
+);
 
-insert into _User values(
+insert into _User values (
 	'331',
 	'KATRINA RHODES',
 	'Shenzhen',
@@ -3647,10 +3978,11 @@ insert into _User values(
 	'KATRINARHODES@outlook.com',
 	'rndyocak',
 	'26/2/2008',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/trubeatto/128.jpg',
-	'Asperiores consectetur ea debitis.');
+	NULL,
+	'Asperiores consectetur ea debitis.'
+);
 
-insert into _User values(
+insert into _User values (
 	'332',
 	'KARLA CASTILLO',
 	'Chongqing',
@@ -3658,10 +3990,11 @@ insert into _User values(
 	'KARLACASTILLO@outlook.com',
 	'edfinlru',
 	'24/3/2011',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/gregsqueeb/128.jpg',
-	'Optio voluptatibus ex ea.');
+	NULL,
+	'Optio voluptatibus ex ea.'
+);
 
-insert into _User values(
+insert into _User values (
 	'333',
 	'LYNDA AGUILAR',
 	'Mexico_City',
@@ -3669,10 +4002,11 @@ insert into _User values(
 	'LYNDAAGUILAR@hotmail.com',
 	'yhpuhuuy',
 	'7/3/1943',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/jasonmarkjones/128.jpg',
-	'Debitis delectus magnam explicabo molestiae suscipit.');
+	NULL,
+	'Debitis delectus magnam explicabo molestiae suscipit.'
+);
 
-insert into _User values(
+insert into _User values (
 	'334',
 	'FANNIE MARTINEZ',
 	'Giza',
@@ -3680,10 +4014,11 @@ insert into _User values(
 	'FANNIEMARTINEZ@outlook.com',
 	'ufldpfkm',
 	'18/5/1957',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/kudretkeskin/128.jpg',
-	'Qui sed molestias accusamus facilis blanditiis.');
+	NULL,
+	'Qui sed molestias accusamus facilis blanditiis.'
+);
 
-insert into _User values(
+insert into _User values (
 	'335',
 	'LONNIE DICKERSON',
 	'Dhaka',
@@ -3691,10 +4026,11 @@ insert into _User values(
 	'LONNIEDICKERSON@hotmail.com',
 	'yjxowqlo',
 	'23/10/1997',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/d_kobelyatsky/128.jpg',
-	'Voluptas non maiores nulla architecto minima corporis dolorem omnis sed.');
+	NULL,
+	'Voluptas non maiores nulla architecto minima corporis dolorem omnis sed.'
+);
 
-insert into _User values(
+insert into _User values (
 	'336',
 	'MIGUEL WALSH',
 	'Tianjin',
@@ -3702,10 +4038,11 @@ insert into _User values(
 	'MIGUELWALSH@gmail.com',
 	'qjyqoqab',
 	'9/4/1927',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/cdavis565/128.jpg',
-	'Repudiandae aut nam et illum sunt ut est sunt.');
+	NULL,
+	'Repudiandae aut nam et illum sunt ut est sunt.'
+);
 
-insert into _User values(
+insert into _User values (
 	'337',
 	'EILEEN ALFORD',
 	'Alexandria',
@@ -3713,10 +4050,11 @@ insert into _User values(
 	'EILEENALFORD@gmail.com',
 	'mayeetae',
 	'11/1/1984',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/iqonicd/128.jpg',
-	'Corporis qui ex.');
+	NULL,
+	'Corporis qui ex.'
+);
 
-insert into _User values(
+insert into _User values (
 	'338',
 	'IVAN VAUGHN',
 	'Ahmedabad',
@@ -3724,10 +4062,11 @@ insert into _User values(
 	'IVANVAUGHN@gmail.com',
 	'adlvxsia',
 	'16/4/1955',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/newbrushes/128.jpg',
-	'Ut quae excepturi in.');
+	NULL,
+	'Ut quae excepturi in.'
+);
 
-insert into _User values(
+insert into _User values (
 	'339',
 	'RONNIE JOYNER',
 	'Hanoi',
@@ -3735,10 +4074,11 @@ insert into _User values(
 	'RONNIEJOYNER@hotmail.com',
 	'mntnktum',
 	'10/6/1925',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/necodymiconer/128.jpg',
-	'Qui inventore nobis earum id deserunt quia.');
+	NULL,
+	'Qui inventore nobis earum id deserunt quia.'
+);
 
-insert into _User values(
+insert into _User values (
 	'340',
 	'STELLA POOLE',
 	'Tehran',
@@ -3746,10 +4086,11 @@ insert into _User values(
 	'STELLAPOOLE@ualg.pt',
 	'flaljrwq',
 	'23/4/2017',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/BryanHorsey/128.jpg',
-	'Quidem omnis at nostrum libero aut dicta culpa.');
+	NULL,
+	'Quidem omnis at nostrum libero aut dicta culpa.'
+);
 
-insert into _User values(
+insert into _User values (
 	'341',
 	'LYDIA ABBOTT',
 	'Kabul',
@@ -3757,10 +4098,11 @@ insert into _User values(
 	'LYDIAABBOTT@outlook.com',
 	'shxfmmbz',
 	'3/4/1956',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/rob_thomas10/128.jpg',
-	'Enim nostrum cum totam vitae.');
+	NULL,
+	'Enim nostrum cum totam vitae.'
+);
 
-insert into _User values(
+insert into _User values (
 	'342',
 	'RICHARD WHITE',
 	'Changsha',
@@ -3768,10 +4110,11 @@ insert into _User values(
 	'RICHARDWHITE@gmail.com',
 	'wpsqhzxi',
 	'19/2/1963',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/vlajki/128.jpg',
-	'Ducimus quo veritatis aliquam tempora ipsa earum sapiente quasi.');
+	NULL,
+	'Ducimus quo veritatis aliquam tempora ipsa earum sapiente quasi.'
+);
 
-insert into _User values(
+insert into _User values (
 	'343',
 	'LYNDA WINTERS',
 	'Busan',
@@ -3779,10 +4122,11 @@ insert into _User values(
 	'LYNDAWINTERS@ualg.pt',
 	'jqvtymkg',
 	'4/3/1992',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/sharvin/128.jpg',
-	'Placeat perferendis in ut consectetur debitis sapiente est voluptas.');
+	NULL,
+	'Placeat perferendis in ut consectetur debitis sapiente est voluptas.'
+);
 
-insert into _User values(
+insert into _User values (
 	'344',
 	'ELIZABETH STUART',
 	'Bogota',
@@ -3790,10 +4134,11 @@ insert into _User values(
 	'ELIZABETHSTUART@hotmail.com',
 	'weyzlflu',
 	'26/2/1962',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/alexivanichkin/128.jpg',
-	'Nulla aperiam qui accusamus similique eos aspernatur quos alias quisquam.');
+	NULL,
+	'Nulla aperiam qui accusamus similique eos aspernatur quos alias quisquam.'
+);
 
-insert into _User values(
+insert into _User values (
 	'345',
 	'DARREN HIGGINS',
 	'Jeddah',
@@ -3801,10 +4146,11 @@ insert into _User values(
 	'DARRENHIGGINS@gmail.com',
 	'spaanrlw',
 	'23/11/2000',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/commadelimited/128.jpg',
-	'Impedit quia occaecati dolores voluptatem aut.');
+	NULL,
+	'Impedit quia occaecati dolores voluptatem aut.'
+);
 
-insert into _User values(
+insert into _User values (
 	'346',
 	'TOM ATKINS',
 	'Yangon',
@@ -3812,10 +4158,11 @@ insert into _User values(
 	'TOMATKINS@hotmail.com',
 	'wmzyxjue',
 	'17/1/1990',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/marosholly/128.jpg',
-	'Ducimus fugit alias.');
+	NULL,
+	'Ducimus fugit alias.'
+);
 
-insert into _User values(
+insert into _User values (
 	'347',
 	'ANTHONY SOLIS',
 	'Shantou',
@@ -3823,10 +4170,11 @@ insert into _User values(
 	'ANTHONYSOLIS@ualg.pt',
 	'lozoildu',
 	'26/6/1974',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/salvafc/128.jpg',
-	'Distinctio quae nulla distinctio incidunt quod soluta dolorum.');
+	NULL,
+	'Distinctio quae nulla distinctio incidunt quod soluta dolorum.'
+);
 
-insert into _User values(
+insert into _User values (
 	'348',
 	'SETH MARSH',
 	'Yokohama',
@@ -3834,10 +4182,11 @@ insert into _User values(
 	'SETHMARSH@gmail.com',
 	'rwfcevgg',
 	'14/7/1979',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/marakasina/128.jpg',
-	'Non explicabo veniam eligendi nostrum.');
+	NULL,
+	'Non explicabo veniam eligendi nostrum.'
+);
 
-insert into _User values(
+insert into _User values (
 	'349',
 	'JUANITA KELLY',
 	'Faisalabad',
@@ -3845,10 +4194,11 @@ insert into _User values(
 	'JUANITAKELLY@ualg.pt',
 	'qosgeykx',
 	'17/4/1976',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/malykhinv/128.jpg',
-	'Nesciunt dolor commodi.');
+	NULL,
+	'Nesciunt dolor commodi.'
+);
 
-insert into _User values(
+insert into _User values (
 	'350',
 	'MORRIS DONOVAN',
 	'Cairo',
@@ -3856,10 +4206,11 @@ insert into _User values(
 	'MORRISDONOVAN@gmail.com',
 	'lfkbejaw',
 	'9/2/1967',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/aleinadsays/128.jpg',
-	'Odit magnam accusantium exercitationem quisquam accusamus id velit sed maiores.');
+	NULL,
+	'Odit magnam accusantium exercitationem quisquam accusamus id velit sed maiores.'
+);
 
-insert into _User values(
+insert into _User values (
 	'351',
 	'ANDY ROSARIO',
 	'Jeddah',
@@ -3867,10 +4218,11 @@ insert into _User values(
 	'ANDYROSARIO@hotmail.com',
 	'npzaqznj',
 	'16/11/1931',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/shaneIxD/128.jpg',
-	'Placeat modi cumque voluptatem consequuntur natus tempora.');
+	NULL,
+	'Placeat modi cumque voluptatem consequuntur natus tempora.'
+);
 
-insert into _User values(
+insert into _User values (
 	'352',
 	'JASON WHITNEY',
 	'New_Taipei_City',
@@ -3878,10 +4230,11 @@ insert into _User values(
 	'JASONWHITNEY@gmail.com',
 	'troqgfxu',
 	'19/6/1996',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/ecommerceil/128.jpg',
-	'Vel unde impedit aliquid.');
+	NULL,
+	'Vel unde impedit aliquid.'
+);
 
-insert into _User values(
+insert into _User values (
 	'353',
 	'STEVE FRAZIER',
 	'Buenos_Aires',
@@ -3889,10 +4242,11 @@ insert into _User values(
 	'STEVEFRAZIER@gmail.com',
 	'drepapyj',
 	'8/5/1981',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/caseycavanagh/128.jpg',
-	'Quis enim ut sed similique nemo.');
+	NULL,
+	'Quis enim ut sed similique nemo.'
+);
 
-insert into _User values(
+insert into _User values (
 	'354',
 	'TROY CAMPOS',
 	'HonKong',
@@ -3900,10 +4254,11 @@ insert into _User values(
 	'TROYCAMPOS@ualg.pt',
 	'nrjdkucj',
 	'21/8/1969',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/superoutman/128.jpg',
-	'Id dolore corrupti illum vero aut placeat ea autem.');
+	NULL,
+	'Id dolore corrupti illum vero aut placeat ea autem.'
+);
 
-insert into _User values(
+insert into _User values (
 	'355',
 	'MELODY PETERSON',
 	'Chennai',
@@ -3911,10 +4266,11 @@ insert into _User values(
 	'MELODYPETERSON@gmail.com',
 	'yjfalfxe',
 	'25/8/1967',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/longlivemyword/128.jpg',
-	'Qui voluptatem ut est nesciunt quo.');
+	NULL,
+	'Qui voluptatem ut est nesciunt quo.'
+);
 
-insert into _User values(
+insert into _User values (
 	'356',
 	'ROGER MCLEOD',
 	'Ekurhuleni',
@@ -3922,10 +4278,11 @@ insert into _User values(
 	'ROGERMCLEOD@gmail.com',
 	'wcobvzwt',
 	'2/10/1943',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/incubo82/128.jpg',
-	'Rerum veniam est.');
+	NULL,
+	'Rerum veniam est.'
+);
 
-insert into _User values(
+insert into _User values (
 	'357',
 	'FRANKLIN LOWERY',
 	'Xi_an',
@@ -3933,10 +4290,11 @@ insert into _User values(
 	'FRANKLINLOWERY@hotmail.com',
 	'kaviphzn',
 	'2/11/1945',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/timmillwood/128.jpg',
-	'Illum quam sed ex ratione dolor.');
+	NULL,
+	'Illum quam sed ex ratione dolor.'
+);
 
-insert into _User values(
+insert into _User values (
 	'358',
 	'EVELYN GRIMES',
 	'Dar_es_Salaam',
@@ -3944,10 +4302,11 @@ insert into _User values(
 	'EVELYNGRIMES@hotmail.com',
 	'kgundmcn',
 	'9/2/1999',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/vonachoo/128.jpg',
-	'A rem saepe quidem tenetur exercitationem earum quia veritatis vel.');
+	NULL,
+	'A rem saepe quidem tenetur exercitationem earum quia veritatis vel.'
+);
 
-insert into _User values(
+insert into _User values (
 	'359',
 	'MARYANN WALKER',
 	'Busan',
@@ -3955,10 +4314,11 @@ insert into _User values(
 	'MARYANNWALKER@ualg.pt',
 	'qbtqtxjz',
 	'10/2/2008',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/anoff/128.jpg',
-	'Eaque consequuntur maxime consectetur aut aut corrupti corporis.');
+	NULL,
+	'Eaque consequuntur maxime consectetur aut aut corrupti corporis.'
+);
 
-insert into _User values(
+insert into _User values (
 	'360',
 	'CECIL HANSEN',
 	'Tehran',
@@ -3966,10 +4326,11 @@ insert into _User values(
 	'CECILHANSEN@ualg.pt',
 	'afdiwtpo',
 	'6/7/2001',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/jacksonlatka/128.jpg',
-	'Autem et sequi ut illo aut molestiae.');
+	NULL,
+	'Autem et sequi ut illo aut molestiae.'
+);
 
-insert into _User values(
+insert into _User values (
 	'361',
 	'JULIAN ESTRADA',
 	'Surat',
@@ -3977,10 +4338,11 @@ insert into _User values(
 	'JULIANESTRADA@outlook.com',
 	'wubhnjlt',
 	'26/2/1959',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/webtanya/128.jpg',
-	'Ratione facilis vel dolor non omnis et.');
+	NULL,
+	'Ratione facilis vel dolor non omnis et.'
+);
 
-insert into _User values(
+insert into _User values (
 	'362',
 	'JEANNETTE BRAY',
 	'Mumbai',
@@ -3988,10 +4350,11 @@ insert into _User values(
 	'JEANNETTEBRAY@outlook.com',
 	'ulchjlaw',
 	'23/1/1985',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/elisabethkjaer/128.jpg',
-	'Architecto quo et autem voluptate maxime saepe.');
+	NULL,
+	'Architecto quo et autem voluptate maxime saepe.'
+);
 
-insert into _User values(
+insert into _User values (
 	'363',
 	'MORRIS HINES',
 	'Hyderabad',
@@ -3999,21 +4362,23 @@ insert into _User values(
 	'MORRISHINES@ualg.pt',
 	'hxjuyvee',
 	'9/2/1954',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/eyronn/128.jpg',
-	'Culpa voluptatibus magni voluptatibus fugit provident quae sequi neque animi.');
+	NULL,
+	'Culpa voluptatibus magni voluptatibus fugit provident quae sequi neque animi.'
+);
 
-insert into _User values(
+insert into _User values (
 	'364',
 	'JAMIE GAMBLE',
-	'SãoPaulo',
+	'Sï¿½oPaulo',
 	'Brazil',
 	'JAMIEGAMBLE@ualg.pt',
 	'dvdyjumc',
 	'17/9/1944',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/timpetricola/128.jpg',
-	'Aperiam optio voluptatem dolor qui consequatur blanditiis.');
+	NULL,
+	'Aperiam optio voluptatem dolor qui consequatur blanditiis.'
+);
 
-insert into _User values(
+insert into _User values (
 	'365',
 	'MARION MCKENZIE',
 	'Jakarta',
@@ -4021,10 +4386,11 @@ insert into _User values(
 	'MARIONMCKENZIE@hotmail.com',
 	'rqkkfkmv',
 	'22/8/1928',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/langate/128.jpg',
-	'Delectus aut nisi itaque.');
+	NULL,
+	'Delectus aut nisi itaque.'
+);
 
-insert into _User values(
+insert into _User values (
 	'366',
 	'WALLACE CARDENAS',
 	'Kinshasa',
@@ -4032,10 +4398,11 @@ insert into _User values(
 	'WALLACECARDENAS@ualg.pt',
 	'tnkifccr',
 	'7/7/1985',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/malgordon/128.jpg',
-	'In amet ab alias et exercitationem.');
+	NULL,
+	'In amet ab alias et exercitationem.'
+);
 
-insert into _User values(
+insert into _User values (
 	'367',
 	'MAGGIE BATES',
 	'Mexico_City',
@@ -4043,10 +4410,11 @@ insert into _User values(
 	'MAGGIEBATES@gmail.com',
 	'daqlsfqc',
 	'15/6/1942',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/looneydoodle/128.jpg',
-	'Eos qui voluptate et iste rerum inventore maiores beatae.');
+	NULL,
+	'Eos qui voluptate et iste rerum inventore maiores beatae.'
+);
 
-insert into _User values(
+insert into _User values (
 	'368',
 	'WALLACE WARD',
 	'Zhengzhou',
@@ -4054,10 +4422,11 @@ insert into _User values(
 	'WALLACEWARD@ualg.pt',
 	'cboaroqe',
 	'19/9/1932',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/hellofeverrrr/128.jpg',
-	'Voluptatum tempora rem dicta enim nam est quibusdam doloremque nam.');
+	NULL,
+	'Voluptatum tempora rem dicta enim nam est quibusdam doloremque nam.'
+);
 
-insert into _User values(
+insert into _User values (
 	'369',
 	'SUZANNE VILLARREAL',
 	'Kolkata',
@@ -4065,10 +4434,11 @@ insert into _User values(
 	'SUZANNEVILLARREAL@outlook.com',
 	'hbfnfiot',
 	'22/9/1966',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/knilob/128.jpg',
-	'Fugiat voluptate eum natus ea pariatur voluptatem commodi.');
+	NULL,
+	'Fugiat voluptate eum natus ea pariatur voluptatem commodi.'
+);
 
-insert into _User values(
+insert into _User values (
 	'370',
 	'JULIA TRAN',
 	'Rome',
@@ -4076,10 +4446,11 @@ insert into _User values(
 	'JULIATRAN@gmail.com',
 	'olvevehv',
 	'17/3/1996',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/gseguin/128.jpg',
-	'Debitis non iusto quia atque necessitatibus ipsum.');
+	NULL,
+	'Debitis non iusto quia atque necessitatibus ipsum.'
+);
 
-insert into _User values(
+insert into _User values (
 	'371',
 	'ANDRE FUENTES',
 	'Tehran',
@@ -4087,10 +4458,11 @@ insert into _User values(
 	'ANDREFUENTES@outlook.com',
 	'vavcmhow',
 	'13/5/1973',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/michzen/128.jpg',
-	'Ea aut voluptatem reprehenderit et eum et doloremque autem.');
+	NULL,
+	'Ea aut voluptatem reprehenderit et eum et doloremque autem.'
+);
 
-insert into _User values(
+insert into _User values (
 	'372',
 	'ROBIN DELGADO',
 	'Karachi',
@@ -4098,10 +4470,11 @@ insert into _User values(
 	'ROBINDELGADO@outlook.com',
 	'twswtrhw',
 	'22/10/1940',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/panchajanyag/128.jpg',
-	'Pariatur pariatur qui ut voluptatem.');
+	NULL,
+	'Pariatur pariatur qui ut voluptatem.'
+);
 
-insert into _User values(
+insert into _User values (
 	'373',
 	'ELLEN BOND',
 	'Shenzhen',
@@ -4109,10 +4482,11 @@ insert into _User values(
 	'ELLENBOND@outlook.com',
 	'lyjidfvh',
 	'20/3/1940',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/gipsy_raf/128.jpg',
-	'Hic quia quia perferendis quisquam nesciunt pariatur autem velit.');
+	NULL,
+	'Hic quia quia perferendis quisquam nesciunt pariatur autem velit.'
+);
 
-insert into _User values(
+insert into _User values (
 	'374',
 	'JEANNETTE WORKMAN',
 	'Durban',
@@ -4120,10 +4494,11 @@ insert into _User values(
 	'JEANNETTEWORKMAN@outlook.com',
 	'rpuoxniz',
 	'22/10/1973',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/jagan123/128.jpg',
-	'Exercitationem iste ratione expedita velit.');
+	NULL,
+	'Exercitationem iste ratione expedita velit.'
+);
 
-insert into _User values(
+insert into _User values (
 	'375',
 	'ANDREW CONLEY',
 	'Dhaka',
@@ -4131,10 +4506,11 @@ insert into _User values(
 	'ANDREWCONLEY@gmail.com',
 	'jzsndyxc',
 	'12/10/1977',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/fronx/128.jpg',
-	'Perspiciatis autem molestias quo dignissimos quae omnis aut.');
+	NULL,
+	'Perspiciatis autem molestias quo dignissimos quae omnis aut.'
+);
 
-insert into _User values(
+insert into _User values (
 	'376',
 	'CANDACE DOYLE',
 	'Tianjin',
@@ -4142,10 +4518,11 @@ insert into _User values(
 	'CANDACEDOYLE@ualg.pt',
 	'fmzzrcvs',
 	'4/6/1951',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/arthurholcombe1/128.jpg',
-	'Quos porro totam hic dolorem dolores voluptas et assumenda occaecati.');
+	NULL,
+	'Quos porro totam hic dolorem dolores voluptas et assumenda occaecati.'
+);
 
-insert into _User values(
+insert into _User values (
 	'377',
 	'JAN ROBERTSON',
 	'Surat',
@@ -4153,10 +4530,11 @@ insert into _User values(
 	'JANROBERTSON@ualg.pt',
 	'qjisynky',
 	'9/5/1988',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/nicolai_larsen/128.jpg',
-	'Magnam ab qui ut reprehenderit est.');
+	NULL,
+	'Magnam ab qui ut reprehenderit est.'
+);
 
-insert into _User values(
+insert into _User values (
 	'378',
 	'LOUIS MCINTOSH',
 	'Chengdu',
@@ -4164,10 +4542,11 @@ insert into _User values(
 	'LOUISMCINTOSH@outlook.com',
 	'eppvkgjb',
 	'12/9/1984',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/thewillbeard/128.jpg',
-	'Incidunt vel ratione quisquam.');
+	NULL,
+	'Incidunt vel ratione quisquam.'
+);
 
-insert into _User values(
+insert into _User values (
 	'379',
 	'KELLY STANTON',
 	'Chengdu',
@@ -4175,10 +4554,11 @@ insert into _User values(
 	'KELLYSTANTON@gmail.com',
 	'arvbxcsg',
 	'11/2/1929',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/akmalfikri/128.jpg',
-	'Beatae qui facere ea.');
+	NULL,
+	'Beatae qui facere ea.'
+);
 
-insert into _User values(
+insert into _User values (
 	'380',
 	'JOANNA TYSON',
 	'Nanjing',
@@ -4186,10 +4566,11 @@ insert into _User values(
 	'JOANNATYSON@hotmail.com',
 	'tdzzldlk',
 	'26/4/1956',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/rtgibbons/128.jpg',
-	'Laboriosam eveniet laborum.');
+	NULL,
+	'Laboriosam eveniet laborum.'
+);
 
-insert into _User values(
+insert into _User values (
 	'381',
 	'ISAAC MORENO',
 	'Chengdu',
@@ -4197,10 +4578,11 @@ insert into _User values(
 	'ISAACMORENO@ualg.pt',
 	'hozcasec',
 	'20/11/1955',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/dc_user/128.jpg',
-	'Architecto sequi maxime enim nobis harum odit et aspernatur.');
+	NULL,
+	'Architecto sequi maxime enim nobis harum odit et aspernatur.'
+);
 
-insert into _User values(
+insert into _User values (
 	'382',
 	'TYLER RAMSEY',
 	'Ahmedabad',
@@ -4208,10 +4590,11 @@ insert into _User values(
 	'TYLERRAMSEY@outlook.com',
 	'chmgyveg',
 	'19/8/2000',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/lu4sh1i/128.jpg',
-	'Nostrum et maiores repellat nulla itaque aut architecto.');
+	NULL,
+	'Nostrum et maiores repellat nulla itaque aut architecto.'
+);
 
-insert into _User values(
+insert into _User values (
 	'383',
 	'CECIL DUKE',
 	'Tokyo',
@@ -4219,10 +4602,11 @@ insert into _User values(
 	'CECILDUKE@gmail.com',
 	'elorjilz',
 	'16/1/1996',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/baumann_alex/128.jpg',
-	'Et dolores et facilis ab commodi eaque et ipsum voluptatem.');
+	NULL,
+	'Et dolores et facilis ab commodi eaque et ipsum voluptatem.'
+);
 
-insert into _User values(
+insert into _User values (
 	'384',
 	'STACY TERRY',
 	'HonKong',
@@ -4230,10 +4614,11 @@ insert into _User values(
 	'STACYTERRY@ualg.pt',
 	'cfeujtxv',
 	'2/10/1969',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/dicesales/128.jpg',
-	'Corporis quisquam aliquid quia et est quia maiores facere unde.');
+	NULL,
+	'Corporis quisquam aliquid quia et est quia maiores facere unde.'
+);
 
-insert into _User values(
+insert into _User values (
 	'385',
 	'WESLEY WELLS',
 	'Shantou',
@@ -4241,10 +4626,11 @@ insert into _User values(
 	'WESLEYWELLS@gmail.com',
 	'ppuppjvx',
 	'16/3/1945',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/souuf/128.jpg',
-	'Culpa fugiat quia aut.');
+	NULL,
+	'Culpa fugiat quia aut.'
+);
 
-insert into _User values(
+insert into _User values (
 	'386',
 	'WALTER COOLEY',
 	'HonKong',
@@ -4252,10 +4638,11 @@ insert into _User values(
 	'WALTERCOOLEY@outlook.com',
 	'abcivbyz',
 	'25/2/1943',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/adellecharles/128.jpg',
-	'Aliquam est quo unde.');
+	NULL,
+	'Aliquam est quo unde.'
+);
 
-insert into _User values(
+insert into _User values (
 	'387',
 	'GORDON RUIZ',
 	'Lahore',
@@ -4263,10 +4650,11 @@ insert into _User values(
 	'GORDONRUIZ@outlook.com',
 	'pjhlchme',
 	'4/9/1975',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/tomaslau/128.jpg',
-	'Assumenda in et autem omnis accusamus.');
+	NULL,
+	'Assumenda in et autem omnis accusamus.'
+);
 
-insert into _User values(
+insert into _User values (
 	'388',
 	'FRANK SHEPPARD',
 	'Mexico_City',
@@ -4274,10 +4662,11 @@ insert into _User values(
 	'FRANKSHEPPARD@ualg.pt',
 	'cccmphkv',
 	'6/4/1947',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/vytautas_a/128.jpg',
-	'Doloribus aut sit voluptatem quis in repellat dolorem labore.');
+	NULL,
+	'Doloribus aut sit voluptatem quis in repellat dolorem labore.'
+);
 
-insert into _User values(
+insert into _User values (
 	'389',
 	'KRISTY PACHECO',
 	'Bangkok',
@@ -4285,10 +4674,11 @@ insert into _User values(
 	'KRISTYPACHECO@hotmail.com',
 	'gxkdqlhx',
 	'11/1/1962',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/kevinjohndayy/128.jpg',
-	'Rerum voluptas aliquam.');
+	NULL,
+	'Rerum voluptas aliquam.'
+);
 
-insert into _User values(
+insert into _User values (
 	'390',
 	'HARVEY UNDERWOOD',
 	'Kolkata',
@@ -4296,10 +4686,11 @@ insert into _User values(
 	'HARVEYUNDERWOOD@hotmail.com',
 	'kpvqcfxe',
 	'22/11/1972',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/devankoshal/128.jpg',
-	'Quis quis necessitatibus debitis magnam nulla impedit nisi.');
+	NULL,
+	'Quis quis necessitatibus debitis magnam nulla impedit nisi.'
+);
 
-insert into _User values(
+insert into _User values (
 	'391',
 	'CARL SANTANA',
 	'Rome',
@@ -4307,10 +4698,11 @@ insert into _User values(
 	'CARLSANTANA@hotmail.com',
 	'ujhhusao',
 	'23/10/1948',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/netonet_il/128.jpg',
-	'Tempora enim iusto.');
+	NULL,
+	'Tempora enim iusto.'
+);
 
-insert into _User values(
+insert into _User values (
 	'392',
 	'ELLA BURTON',
 	'Harbin',
@@ -4318,10 +4710,11 @@ insert into _User values(
 	'ELLABURTON@gmail.com',
 	'foczicja',
 	'6/6/1979',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/alevizio/128.jpg',
-	'Voluptas sunt ut iusto aut dolores fugit.');
+	NULL,
+	'Voluptas sunt ut iusto aut dolores fugit.'
+);
 
-insert into _User values(
+insert into _User values (
 	'393',
 	'JOSEPHINE MEADOWS',
 	'Hefei',
@@ -4329,10 +4722,11 @@ insert into _User values(
 	'JOSEPHINEMEADOWS@hotmail.com',
 	'pgatnged',
 	'3/8/1951',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/stefanozoffoli/128.jpg',
-	'Vero sint quidem.');
+	NULL,
+	'Vero sint quidem.'
+);
 
-insert into _User values(
+insert into _User values (
 	'394',
 	'JACQUELINE ODOM',
 	'Chengdu',
@@ -4340,10 +4734,11 @@ insert into _User values(
 	'JACQUELINEODOM@hotmail.com',
 	'xcpoocde',
 	'16/10/1999',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/nelsonjoyce/128.jpg',
-	'Aspernatur nihil eius velit.');
+	NULL,
+	'Aspernatur nihil eius velit.'
+);
 
-insert into _User values(
+insert into _User values (
 	'395',
 	'ISABEL JONES',
 	'Tianjin',
@@ -4351,10 +4746,11 @@ insert into _User values(
 	'ISABELJONES@outlook.com',
 	'ifcraovz',
 	'4/2/2007',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/mateaodviteza/128.jpg',
-	'Consequatur eos est voluptate omnis voluptatem exercitationem non.');
+	NULL,
+	'Consequatur eos est voluptate omnis voluptatem exercitationem non.'
+);
 
-insert into _User values(
+insert into _User values (
 	'396',
 	'BYRON HARRIS',
 	'Moscow',
@@ -4362,10 +4758,11 @@ insert into _User values(
 	'BYRONHARRIS@gmail.com',
 	'hychaygj',
 	'5/6/1950',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/jpscribbles/128.jpg',
-	'Aut veritatis aspernatur ipsam unde et.');
+	NULL,
+	'Aut veritatis aspernatur ipsam unde et.'
+);
 
-insert into _User values(
+insert into _User values (
 	'397',
 	'JAMIE FUENTES',
 	'Shantou',
@@ -4373,10 +4770,11 @@ insert into _User values(
 	'JAMIEFUENTES@gmail.com',
 	'enbfdngr',
 	'3/3/1934',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/cggaurav/128.jpg',
-	'Excepturi sunt nostrum reiciendis rerum veniam veniam.');
+	NULL,
+	'Excepturi sunt nostrum reiciendis rerum veniam veniam.'
+);
 
-insert into _User values(
+insert into _User values (
 	'398',
 	'VIRGIL LANGLEY',
 	'Shantou',
@@ -4384,10 +4782,11 @@ insert into _User values(
 	'VIRGILLANGLEY@outlook.com',
 	'zqzvmsny',
 	'22/4/1980',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/areandacom/128.jpg',
-	'Omnis sint qui consequatur et minima.');
+	NULL,
+	'Omnis sint qui consequatur et minima.'
+);
 
-insert into _User values(
+insert into _User values (
 	'399',
 	'GLEN BROWNING',
 	'Ningbo',
@@ -4395,10 +4794,11 @@ insert into _User values(
 	'GLENBROWNING@outlook.com',
 	'ssxgtnlw',
 	'5/8/1970',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/flashmurphy/128.jpg',
-	'Et dolore eum omnis magni exercitationem nobis assumenda dolorem explicabo.');
+	NULL,
+	'Et dolore eum omnis magni exercitationem nobis assumenda dolorem explicabo.'
+);
 
-insert into _User values(
+insert into _User values (
 	'400',
 	'KARL KAUFMAN',
 	'Pune',
@@ -4406,10 +4806,11 @@ insert into _User values(
 	'KARLKAUFMAN@ualg.pt',
 	'wxvndbwk',
 	'24/5/2015',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/kimcool/128.jpg',
-	'Explicabo ipsam tempora in quam enim odit recusandae voluptatum.');
+	NULL,
+	'Explicabo ipsam tempora in quam enim odit recusandae voluptatum.'
+);
 
-insert into _User values(
+insert into _User values (
 	'401',
 	'JOY ORR',
 	'Hangzhou',
@@ -4417,10 +4818,11 @@ insert into _User values(
 	'JOYORR@gmail.com',
 	'oxzxjdcl',
 	'27/7/1947',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/kianoshp/128.jpg',
-	'Quam et vel veritatis dolores provident.');
+	NULL,
+	'Quam et vel veritatis dolores provident.'
+);
 
-insert into _User values(
+insert into _User values (
 	'402',
 	'NELLIE SHANNON',
 	'Shenyang',
@@ -4428,10 +4830,11 @@ insert into _User values(
 	'NELLIESHANNON@hotmail.com',
 	'hufebyff',
 	'24/6/2010',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/jagan123/128.jpg',
-	'Aut voluptatum omnis aut perspiciatis.');
+	NULL,
+	'Aut voluptatum omnis aut perspiciatis.'
+);
 
-insert into _User values(
+insert into _User values (
 	'403',
 	'JAVIER BARTON',
 	'Seoul',
@@ -4439,10 +4842,11 @@ insert into _User values(
 	'JAVIERBARTON@ualg.pt',
 	'iubvzxst',
 	'3/9/1945',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/buzzusborne/128.jpg',
-	'Est inventore et beatae atque.');
+	NULL,
+	'Est inventore et beatae atque.'
+);
 
-insert into _User values(
+insert into _User values (
 	'404',
 	'SAMUEL PHELPS',
 	'Lima',
@@ -4450,10 +4854,11 @@ insert into _User values(
 	'SAMUELPHELPS@outlook.com',
 	'hxyrldlq',
 	'27/5/2009',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/gregsqueeb/128.jpg',
-	'Optio voluptatibus ex ea.');
+	NULL,
+	'Optio voluptatibus ex ea.'
+);
 
-insert into _User values(
+insert into _User values (
 	'405',
 	'GORDON GRANT',
 	'Kolkata',
@@ -4461,10 +4866,11 @@ insert into _User values(
 	'GORDONGRANT@ualg.pt',
 	'bfuvdzvt',
 	'4/5/2011',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/guillemboti/128.jpg',
-	'Tempora voluptatibus vero ducimus.');
+	NULL,
+	'Tempora voluptatibus vero ducimus.'
+);
 
-insert into _User values(
+insert into _User values (
 	'406',
 	'SAM BEASLEY',
 	'Singapore',
@@ -4472,10 +4878,11 @@ insert into _User values(
 	'SAMBEASLEY@ualg.pt',
 	'ngthkjvq',
 	'15/4/1956',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/franciscoamk/128.jpg',
-	'Sapiente et aut iste soluta quia rerum.');
+	NULL,
+	'Sapiente et aut iste soluta quia rerum.'
+);
 
-insert into _User values(
+insert into _User values (
 	'407',
 	'JAMES BARLOW',
 	'Saint_Petersburg',
@@ -4483,10 +4890,11 @@ insert into _User values(
 	'JAMESBARLOW@gmail.com',
 	'haorixcp',
 	'21/11/1950',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/danvernon/128.jpg',
-	'Maiores ducimus autem est aut totam sed.');
+	NULL,
+	'Maiores ducimus autem est aut totam sed.'
+);
 
-insert into _User values(
+insert into _User values (
 	'408',
 	'LISA MARQUEZ',
 	'Durban',
@@ -4494,10 +4902,11 @@ insert into _User values(
 	'LISAMARQUEZ@outlook.com',
 	'ejvclslo',
 	'4/6/1982',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/safrankov/128.jpg',
-	'Possimus provident et alias sit et sequi omnis ducimus quaerat.');
+	NULL,
+	'Possimus provident et alias sit et sequi omnis ducimus quaerat.'
+);
 
-insert into _User values(
+insert into _User values (
 	'409',
 	'CHARLIE WHITE',
 	'Shenyang',
@@ -4505,10 +4914,11 @@ insert into _User values(
 	'CHARLIEWHITE@ualg.pt',
 	'mblotqbq',
 	'7/7/1956',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/vanchesz/128.jpg',
-	'Aspernatur quod necessitatibus rem placeat totam.');
+	NULL,
+	'Aspernatur quod necessitatibus rem placeat totam.'
+);
 
-insert into _User values(
+insert into _User values (
 	'410',
 	'GRACE HOUSTON',
 	'Rome',
@@ -4516,10 +4926,11 @@ insert into _User values(
 	'GRACEHOUSTON@hotmail.com',
 	'gddowouz',
 	'15/9/2005',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/jeremymouton/128.jpg',
-	'Et accusamus quos.');
+	NULL,
+	'Et accusamus quos.'
+);
 
-insert into _User values(
+insert into _User values (
 	'411',
 	'JACK HORTON',
 	'Kabul',
@@ -4527,10 +4938,11 @@ insert into _User values(
 	'JACKHORTON@hotmail.com',
 	'pvteyhcn',
 	'27/1/1995',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/lebinoclard/128.jpg',
-	'Maiores aliquam minus harum minus explicabo vitae.');
+	NULL,
+	'Maiores aliquam minus harum minus explicabo vitae.'
+);
 
-insert into _User values(
+insert into _User values (
 	'412',
 	'VIRGIL TORRES',
 	'Berlin',
@@ -4538,10 +4950,11 @@ insert into _User values(
 	'VIRGILTORRES@gmail.com',
 	'tksuiotg',
 	'2/4/2011',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/clubb3rry/128.jpg',
-	'Dolore aperiam animi accusamus dicta beatae dolorem repellendus.');
+	NULL,
+	'Dolore aperiam animi accusamus dicta beatae dolorem repellendus.'
+);
 
-insert into _User values(
+insert into _User values (
 	'413',
 	'CECIL MCDOWELL',
 	'Shantou',
@@ -4549,10 +4962,11 @@ insert into _User values(
 	'CECILMCDOWELL@gmail.com',
 	'ezyzxocr',
 	'1/6/2015',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/cadikkara/128.jpg',
-	'Et minus illo.');
+	NULL,
+	'Et minus illo.'
+);
 
-insert into _User values(
+insert into _User values (
 	'414',
 	'ISAAC DURAN',
 	'Yokohama',
@@ -4560,10 +4974,11 @@ insert into _User values(
 	'ISAACDURAN@gmail.com',
 	'gijyarwo',
 	'10/1/2016',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/miguelmendes/128.jpg',
-	'Nesciunt aut distinctio quod consequatur quidem magni aut veritatis.');
+	NULL,
+	'Nesciunt aut distinctio quod consequatur quidem magni aut veritatis.'
+);
 
-insert into _User values(
+insert into _User values (
 	'415',
 	'LEONA SULLIVAN',
 	'Ningbo',
@@ -4571,10 +4986,11 @@ insert into _User values(
 	'LEONASULLIVAN@ualg.pt',
 	'bfzzzpgs',
 	'27/3/2013',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/suribbles/128.jpg',
-	'Voluptate dolorem quo.');
+	NULL,
+	'Voluptate dolorem quo.'
+);
 
-insert into _User values(
+insert into _User values (
 	'416',
 	'KATHY VAUGHN',
 	'Kinshasa',
@@ -4582,10 +4998,11 @@ insert into _User values(
 	'KATHYVAUGHN@outlook.com',
 	'dlvwvblk',
 	'11/5/1925',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/notbadart/128.jpg',
-	'Quidem consectetur inventore accusantium corporis error quam hic sed totam.');
+	NULL,
+	'Quidem consectetur inventore accusantium corporis error quam hic sed totam.'
+);
 
-insert into _User values(
+insert into _User values (
 	'417',
 	'BESSIE HAYS',
 	'Jakarta',
@@ -4593,10 +5010,11 @@ insert into _User values(
 	'BESSIEHAYS@outlook.com',
 	'lgzqhngn',
 	'5/6/1949',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/larrybolt/128.jpg',
-	'Velit est velit corrupti totam blanditiis sunt eum.');
+	NULL,
+	'Velit est velit corrupti totam blanditiis sunt eum.'
+);
 
-insert into _User values(
+insert into _User values (
 	'418',
 	'TERRY SEXTON',
 	'Ahmedabad',
@@ -4604,10 +5022,11 @@ insert into _User values(
 	'TERRYSEXTON@ualg.pt',
 	'yacoickh',
 	'17/9/1951',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/miguelmendes/128.jpg',
-	'Voluptas error libero.');
+	NULL,
+	'Voluptas error libero.'
+);
 
-insert into _User values(
+insert into _User values (
 	'419',
 	'ROLAND ANTHONY',
 	'Santiago',
@@ -4615,10 +5034,11 @@ insert into _User values(
 	'ROLANDANTHONY@ualg.pt',
 	'pfmcopmp',
 	'8/3/1982',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/taylorling/128.jpg',
-	'Architecto aut cumque deserunt in.');
+	NULL,
+	'Architecto aut cumque deserunt in.'
+);
 
-insert into _User values(
+insert into _User values (
 	'420',
 	'MARVIN HOOPER',
 	'Shanghai',
@@ -4626,10 +5046,11 @@ insert into _User values(
 	'MARVINHOOPER@outlook.com',
 	'jtocpqvl',
 	'24/1/1959',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/vladyn/128.jpg',
-	'Aut ab in earum et distinctio aut.');
+	NULL,
+	'Aut ab in earum et distinctio aut.'
+);
 
-insert into _User values(
+insert into _User values (
 	'421',
 	'WILLARD BATTLE',
 	'Kabul',
@@ -4637,10 +5058,11 @@ insert into _User values(
 	'WILLARDBATTLE@outlook.com',
 	'opbtdbqc',
 	'13/11/1969',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/baliomega/128.jpg',
-	'Nam voluptatem dolorem cum.');
+	NULL,
+	'Nam voluptatem dolorem cum.'
+);
 
-insert into _User values(
+insert into _User values (
 	'422',
 	'MARION ELLIOTT',
 	'London',
@@ -4648,10 +5070,11 @@ insert into _User values(
 	'MARIONELLIOTT@gmail.com',
 	'isejyprc',
 	'18/9/1929',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/spedwig/128.jpg',
-	'Facere ipsum maxime delectus aut labore atque delectus omnis corrupti.');
+	NULL,
+	'Facere ipsum maxime delectus aut labore atque delectus omnis corrupti.'
+);
 
-insert into _User values(
+insert into _User values (
 	'423',
 	'TIMOTHY MILLER',
 	'Hefei',
@@ -4659,10 +5082,11 @@ insert into _User values(
 	'TIMOTHYMILLER@outlook.com',
 	'qjgrdflf',
 	'27/3/1930',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/S0ufi4n3/128.jpg',
-	'Repellendus commodi quas fugiat eaque voluptas.');
+	NULL,
+	'Repellendus commodi quas fugiat eaque voluptas.'
+);
 
-insert into _User values(
+insert into _User values (
 	'424',
 	'BILLIE FISHER',
 	'Los_Angeles',
@@ -4670,10 +5094,11 @@ insert into _User values(
 	'BILLIEFISHER@ualg.pt',
 	'fujabhnt',
 	'25/9/1987',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/johannesneu/128.jpg',
-	'Perspiciatis repellat placeat aut fugit qui nam.');
+	NULL,
+	'Perspiciatis repellat placeat aut fugit qui nam.'
+);
 
-insert into _User values(
+insert into _User values (
 	'425',
 	'DEBORAH SIMON',
 	'Surat',
@@ -4681,10 +5106,11 @@ insert into _User values(
 	'DEBORAHSIMON@hotmail.com',
 	'icetfsdw',
 	'18/3/2017',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/thierrymeier_/128.jpg',
-	'Nostrum nam commodi praesentium quae.');
+	NULL,
+	'Nostrum nam commodi praesentium quae.'
+);
 
-insert into _User values(
+insert into _User values (
 	'426',
 	'CHESTER QUINN',
 	'Suzhou',
@@ -4692,10 +5118,11 @@ insert into _User values(
 	'CHESTERQUINN@ualg.pt',
 	'zybibjev',
 	'28/9/1969',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/thaodang17/128.jpg',
-	'Et aut ut accusantium eius nihil placeat error sint quia.');
+	NULL,
+	'Et aut ut accusantium eius nihil placeat error sint quia.'
+);
 
-insert into _User values(
+insert into _User values (
 	'427',
 	'MINNIE MCLEAN',
 	'Chengdu',
@@ -4703,10 +5130,11 @@ insert into _User values(
 	'MINNIEMCLEAN@ualg.pt',
 	'gtfqazti',
 	'3/4/2011',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/mizko/128.jpg',
-	'Iure laborum est.');
+	NULL,
+	'Iure laborum est.'
+);
 
-insert into _User values(
+insert into _User values (
 	'428',
 	'JAVIER ROMERO',
 	'Santiago',
@@ -4714,10 +5142,11 @@ insert into _User values(
 	'JAVIERROMERO@ualg.pt',
 	'pyccpnlp',
 	'28/10/1972',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/kijanmaharjan/128.jpg',
-	'Saepe dolores aut quis incidunt quaerat vel voluptate tempore.');
+	NULL,
+	'Saepe dolores aut quis incidunt quaerat vel voluptate tempore.'
+);
 
-insert into _User values(
+insert into _User values (
 	'429',
 	'DARRYL AGUIRRE',
 	'Surat',
@@ -4725,10 +5154,11 @@ insert into _User values(
 	'DARRYLAGUIRRE@ualg.pt',
 	'vtjfjmdk',
 	'27/11/1971',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/bartoszdawydzik/128.jpg',
-	'Quae non rerum.');
+	NULL,
+	'Quae non rerum.'
+);
 
-insert into _User values(
+insert into _User values (
 	'430',
 	'CLARA THORNTON',
 	'Seoul',
@@ -4736,10 +5166,11 @@ insert into _User values(
 	'CLARATHORNTON@gmail.com',
 	'apnuevzd',
 	'7/2/1934',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/hai_ninh_nguyen/128.jpg',
-	'Eius labore quo sunt dolor et facere est.');
+	NULL,
+	'Eius labore quo sunt dolor et facere est.'
+);
 
-insert into _User values(
+insert into _User values (
 	'431',
 	'SETH FAULKNER',
 	'Hefei',
@@ -4747,10 +5178,11 @@ insert into _User values(
 	'SETHFAULKNER@hotmail.com',
 	'coyfedvd',
 	'21/9/2006',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/stan/128.jpg',
-	'Quo voluptas libero non id.');
+	NULL,
+	'Quo voluptas libero non id.'
+);
 
-insert into _User values(
+insert into _User values (
 	'432',
 	'EDWARD MORGAN',
 	'Seoul',
@@ -4758,10 +5190,11 @@ insert into _User values(
 	'EDWARDMORGAN@outlook.com',
 	'eleyrncp',
 	'7/7/1973',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/nitinhayaran/128.jpg',
-	'Assumenda voluptas et eum aliquid et voluptas natus maxime quisquam.');
+	NULL,
+	'Assumenda voluptas et eum aliquid et voluptas natus maxime quisquam.'
+);
 
-insert into _User values(
+insert into _User values (
 	'433',
 	'CATHY WATERS',
 	'Giza',
@@ -4769,10 +5202,11 @@ insert into _User values(
 	'CATHYWATERS@outlook.com',
 	'ffovxlgo',
 	'14/2/1959',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/kojourin/128.jpg',
-	'Aperiam rerum provident vero dolore ut.');
+	NULL,
+	'Aperiam rerum provident vero dolore ut.'
+);
 
-insert into _User values(
+insert into _User values (
 	'434',
 	'CAROLYN WILLIS',
 	'Ho_Chi_Minh_City',
@@ -4780,10 +5214,11 @@ insert into _User values(
 	'CAROLYNWILLIS@ualg.pt',
 	'wfyplcqx',
 	'24/3/1962',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/wegotvices/128.jpg',
-	'Molestiae eveniet fugit veniam deserunt qui occaecati exercitationem.');
+	NULL,
+	'Molestiae eveniet fugit veniam deserunt qui occaecati exercitationem.'
+);
 
-insert into _User values(
+insert into _User values (
 	'435',
 	'WALTER TAYLOR',
 	'Zhongshan',
@@ -4791,10 +5226,11 @@ insert into _User values(
 	'WALTERTAYLOR@gmail.com',
 	'iagrjsqz',
 	'1/10/2013',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/ashocka18/128.jpg',
-	'Aspernatur velit laborum reiciendis aspernatur sequi autem occaecati sed aut.');
+	NULL,
+	'Aspernatur velit laborum reiciendis aspernatur sequi autem occaecati sed aut.'
+);
 
-insert into _User values(
+insert into _User values (
 	'436',
 	'EMMA ALBERT',
 	'Casablanca',
@@ -4802,10 +5238,11 @@ insert into _User values(
 	'EMMAALBERT@gmail.com',
 	'litdlerz',
 	'15/5/1972',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/hota_v/128.jpg',
-	'Necessitatibus ipsam in.');
+	NULL,
+	'Necessitatibus ipsam in.'
+);
 
-insert into _User values(
+insert into _User values (
 	'437',
 	'GREG BAIRD',
 	'Busan',
@@ -4813,10 +5250,11 @@ insert into _User values(
 	'GREGBAIRD@hotmail.com',
 	'svasoplu',
 	'24/8/2010',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/petrangr/128.jpg',
-	'Quo accusantium sequi est dolor aliquid ut omnis.');
+	NULL,
+	'Quo accusantium sequi est dolor aliquid ut omnis.'
+);
 
-insert into _User values(
+insert into _User values (
 	'438',
 	'WESLEY SIMMONS',
 	'Ningbo',
@@ -4824,10 +5262,11 @@ insert into _User values(
 	'WESLEYSIMMONS@ualg.pt',
 	'qoagcwca',
 	'21/11/1995',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/sydlawrence/128.jpg',
-	'Nam adipisci qui repellendus corporis itaque dignissimos est vel.');
+	NULL,
+	'Nam adipisci qui repellendus corporis itaque dignissimos est vel.'
+);
 
-insert into _User values(
+insert into _User values (
 	'439',
 	'ELEANOR DILLON',
 	'Alexandria',
@@ -4835,10 +5274,11 @@ insert into _User values(
 	'ELEANORDILLON@gmail.com',
 	'ptsyurfq',
 	'23/10/1965',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/ganserene/128.jpg',
-	'Neque sapiente fuga earum eos voluptas beatae labore incidunt voluptas.');
+	NULL,
+	'Neque sapiente fuga earum eos voluptas beatae labore incidunt voluptas.'
+);
 
-insert into _User values(
+insert into _User values (
 	'440',
 	'NICOLE MACDONALD',
 	'Giza',
@@ -4846,10 +5286,11 @@ insert into _User values(
 	'NICOLEMACDONALD@ualg.pt',
 	'xasdmqhs',
 	'13/7/1965',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/saarabpreet/128.jpg',
-	'Architecto id adipisci vel deleniti a recusandae et quo eum.');
+	NULL,
+	'Architecto id adipisci vel deleniti a recusandae et quo eum.'
+);
 
-insert into _User values(
+insert into _User values (
 	'441',
 	'CASSANDRA OLSON',
 	'Surat',
@@ -4857,10 +5298,11 @@ insert into _User values(
 	'CASSANDRAOLSON@hotmail.com',
 	'gzedaucu',
 	'18/5/1956',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/operatino/128.jpg',
-	'Officiis qui aut sit illo quas expedita voluptas voluptatem.');
+	NULL,
+	'Officiis qui aut sit illo quas expedita voluptas voluptatem.'
+);
 
-insert into _User values(
+insert into _User values (
 	'442',
 	'JUSTIN HUNT',
 	'Giza',
@@ -4868,10 +5310,11 @@ insert into _User values(
 	'JUSTINHUNT@gmail.com',
 	'fuygzkct',
 	'27/4/1982',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/wesleytrankin/128.jpg',
-	'Error incidunt aliquam modi harum sapiente et vero iste voluptas.');
+	NULL,
+	'Error incidunt aliquam modi harum sapiente et vero iste voluptas.'
+);
 
-insert into _User values(
+insert into _User values (
 	'443',
 	'HOWARD MERCADO',
 	'Wenzhou',
@@ -4879,10 +5322,11 @@ insert into _User values(
 	'HOWARDMERCADO@hotmail.com',
 	'yporycvk',
 	'6/2/1986',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/thinkleft/128.jpg',
-	'Consequatur sint deleniti ea eum a quasi error voluptate omnis.');
+	NULL,
+	'Consequatur sint deleniti ea eum a quasi error voluptate omnis.'
+);
 
-insert into _User values(
+insert into _User values (
 	'444',
 	'JODI HENSLEY',
 	'Dhaka',
@@ -4890,10 +5334,11 @@ insert into _User values(
 	'JODIHENSLEY@gmail.com',
 	'ekrwswoz',
 	'12/5/1950',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/samuelkraft/128.jpg',
-	'Excepturi molestiae ut velit.');
+	NULL,
+	'Excepturi molestiae ut velit.'
+);
 
-insert into _User values(
+insert into _User values (
 	'445',
 	'MITCHELL LAMBERT',
 	'Foshan',
@@ -4901,10 +5346,11 @@ insert into _User values(
 	'MITCHELLLAMBERT@outlook.com',
 	'ygtdewvy',
 	'16/8/1971',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/marclgonzales/128.jpg',
-	'Omnis laudantium deleniti.');
+	NULL,
+	'Omnis laudantium deleniti.'
+);
 
-insert into _User values(
+insert into _User values (
 	'446',
 	'MARVIN PERRY',
 	'Surat',
@@ -4912,10 +5358,11 @@ insert into _User values(
 	'MARVINPERRY@ualg.pt',
 	'deagihuw',
 	'1/5/1962',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/josep_martins/128.jpg',
-	'Sint sit culpa quos rerum iusto.');
+	NULL,
+	'Sint sit culpa quos rerum iusto.'
+);
 
-insert into _User values(
+insert into _User values (
 	'447',
 	'VIVIAN RODRIQUEZ',
 	'Ho_Chi_Minh_City',
@@ -4923,10 +5370,11 @@ insert into _User values(
 	'VIVIANRODRIQUEZ@ualg.pt',
 	'jatnkaax',
 	'19/3/1923',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/nicolai_larsen/128.jpg',
-	'Pariatur ex eius ex cupiditate et aspernatur id id.');
+	NULL,
+	'Pariatur ex eius ex cupiditate et aspernatur id id.'
+);
 
-insert into _User values(
+insert into _User values (
 	'448',
 	'VERNON KIDD',
 	'Addis_Ababa',
@@ -4934,10 +5382,11 @@ insert into _User values(
 	'VERNONKIDD@hotmail.com',
 	'ntjabysr',
 	'4/2/1999',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/artd_sign/128.jpg',
-	'Quia commodi incidunt.');
+	NULL,
+	'Quia commodi incidunt.'
+);
 
-insert into _User values(
+insert into _User values (
 	'449',
 	'MILTON GOODWIN',
 	'Ekurhuleni',
@@ -4945,10 +5394,11 @@ insert into _User values(
 	'MILTONGOODWIN@hotmail.com',
 	'keqxisiv',
 	'9/11/2006',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/overcloacked/128.jpg',
-	'Id iste aperiam.');
+	NULL,
+	'Id iste aperiam.'
+);
 
-insert into _User values(
+insert into _User values (
 	'450',
 	'KEITH BERNARD',
 	'Ankara',
@@ -4956,10 +5406,11 @@ insert into _User values(
 	'KEITHBERNARD@hotmail.com',
 	'gmiijfxj',
 	'12/2/2013',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/urrutimeoli/128.jpg',
-	'Placeat et iste fugiat aliquam enim quia.');
+	NULL,
+	'Placeat et iste fugiat aliquam enim quia.'
+);
 
-insert into _User values(
+insert into _User values (
 	'451',
 	'DAVE FRY',
 	'Kinshasa',
@@ -4967,10 +5418,11 @@ insert into _User values(
 	'DAVEFRY@outlook.com',
 	'djkccaoo',
 	'10/10/1956',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/kennyadr/128.jpg',
-	'Ea ullam eius adipisci saepe illum aut quo voluptatem.');
+	NULL,
+	'Ea ullam eius adipisci saepe illum aut quo voluptatem.'
+);
 
-insert into _User values(
+insert into _User values (
 	'452',
 	'DAISY MEYER',
 	'Shenzhen',
@@ -4978,10 +5430,11 @@ insert into _User values(
 	'DAISYMEYER@gmail.com',
 	'dydnbwou',
 	'17/11/1986',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/richwild/128.jpg',
-	'Ut modi vitae quia quis quia molestiae et.');
+	NULL,
+	'Ut modi vitae quia quis quia molestiae et.'
+);
 
-insert into _User values(
+insert into _User values (
 	'453',
 	'TINA SHELTON',
 	'Ahmedabad',
@@ -4989,10 +5442,11 @@ insert into _User values(
 	'TINASHELTON@hotmail.com',
 	'exmuxwih',
 	'17/2/1943',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/aaronkwhite/128.jpg',
-	'Excepturi vero veniam temporibus vitae minima nam similique.');
+	NULL,
+	'Excepturi vero veniam temporibus vitae minima nam similique.'
+);
 
-insert into _User values(
+insert into _User values (
 	'454',
 	'LEON CRANE',
 	'Suzhou',
@@ -5000,10 +5454,11 @@ insert into _User values(
 	'LEONCRANE@outlook.com',
 	'qdymnlvt',
 	'21/5/1961',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/mattlat/128.jpg',
-	'Ut pariatur tempore est velit.');
+	NULL,
+	'Ut pariatur tempore est velit.'
+);
 
-insert into _User values(
+insert into _User values (
 	'455',
 	'LANCE KENT',
 	'Singapore',
@@ -5011,10 +5466,11 @@ insert into _User values(
 	'LANCEKENT@outlook.com',
 	'tydzsyct',
 	'3/5/1933',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/jeremymouton/128.jpg',
-	'Autem reprehenderit et autem autem fugit.');
+	NULL,
+	'Autem reprehenderit et autem autem fugit.'
+);
 
-insert into _User values(
+insert into _User values (
 	'456',
 	'TIM PATEL',
 	'Ahmedabad',
@@ -5022,10 +5478,11 @@ insert into _User values(
 	'TIMPATEL@hotmail.com',
 	'pryxhndw',
 	'4/7/1970',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/shalt0ni/128.jpg',
-	'Laboriosam labore reprehenderit cumque qui ducimus expedita aspernatur excepturi provident.');
+	NULL,
+	'Laboriosam labore reprehenderit cumque qui ducimus expedita aspernatur excepturi provident.'
+);
 
-insert into _User values(
+insert into _User values (
 	'457',
 	'JOHNNIE PATRICK',
 	'Hyderabad',
@@ -5033,10 +5490,11 @@ insert into _User values(
 	'JOHNNIEPATRICK@outlook.com',
 	'owwdgfoc',
 	'9/10/2000',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/macxim/128.jpg',
-	'Corporis harum dolor quia in voluptatem qui.');
+	NULL,
+	'Corporis harum dolor quia in voluptatem qui.'
+);
 
-insert into _User values(
+insert into _User values (
 	'458',
 	'KURT BREWER',
 	'NewYork',
@@ -5044,10 +5502,11 @@ insert into _User values(
 	'KURTBREWER@hotmail.com',
 	'pxelceoa',
 	'23/2/2006',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/anaami/128.jpg',
-	'Reprehenderit corrupti quidem fugiat.');
+	NULL,
+	'Reprehenderit corrupti quidem fugiat.'
+);
 
-insert into _User values(
+insert into _User values (
 	'459',
 	'CELIA KENT',
 	'Rio_de_Janeiro',
@@ -5055,10 +5514,11 @@ insert into _User values(
 	'CELIAKENT@outlook.com',
 	'sxnwiapf',
 	'16/7/1998',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/codepoet_ru/128.jpg',
-	'Et corporis et expedita sit est omnis.');
+	NULL,
+	'Et corporis et expedita sit est omnis.'
+);
 
-insert into _User values(
+insert into _User values (
 	'460',
 	'FREDERICK LEVINE',
 	'Dhaka',
@@ -5066,10 +5526,11 @@ insert into _User values(
 	'FREDERICKLEVINE@gmail.com',
 	'eepovmbp',
 	'7/6/1933',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/rude/128.jpg',
-	'Dicta aut sequi laboriosam fuga id rerum provident et sunt.');
+	NULL,
+	'Dicta aut sequi laboriosam fuga id rerum provident et sunt.'
+);
 
-insert into _User values(
+insert into _User values (
 	'461',
 	'DANIEL MCCULLOUGH',
 	'Yangon',
@@ -5077,10 +5538,11 @@ insert into _User values(
 	'DANIELMCCULLOUGH@outlook.com',
 	'gxqmtokp',
 	'8/4/1926',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/carlosm/128.jpg',
-	'Quo labore maiores in.');
+	NULL,
+	'Quo labore maiores in.'
+);
 
-insert into _User values(
+insert into _User values (
 	'462',
 	'LLOYD CALLAHAN',
 	'Hyderabad',
@@ -5088,10 +5550,11 @@ insert into _User values(
 	'LLOYDCALLAHAN@ualg.pt',
 	'mljerpmt',
 	'2/11/1978',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/artem_kostenko/128.jpg',
-	'Ab et non qui enim odio autem.');
+	NULL,
+	'Ab et non qui enim odio autem.'
+);
 
-insert into _User values(
+insert into _User values (
 	'463',
 	'SHELLEY NOBLE',
 	'Los_Angeles',
@@ -5099,10 +5562,11 @@ insert into _User values(
 	'SHELLEYNOBLE@ualg.pt',
 	'uratubpj',
 	'7/9/1933',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/vj_demien/128.jpg',
-	'Voluptatem voluptatibus nemo non harum vel.');
+	NULL,
+	'Voluptatem voluptatibus nemo non harum vel.'
+);
 
-insert into _User values(
+insert into _User values (
 	'464',
 	'RAFAEL VELEZ',
 	'Bogota',
@@ -5110,10 +5574,11 @@ insert into _User values(
 	'RAFAELVELEZ@gmail.com',
 	'ehumnsvf',
 	'25/2/1942',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/justinrgraham/128.jpg',
-	'Nihil voluptatem magni assumenda et odio.');
+	NULL,
+	'Nihil voluptatem magni assumenda et odio.'
+);
 
-insert into _User values(
+insert into _User values (
 	'465',
 	'JON TURNER',
 	'Ho_Chi_Minh_City',
@@ -5121,10 +5586,11 @@ insert into _User values(
 	'JONTURNER@hotmail.com',
 	'smhmpsoc',
 	'11/11/2015',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/mbilderbach/128.jpg',
-	'Error fugit odit eveniet sint.');
+	NULL,
+	'Error fugit odit eveniet sint.'
+);
 
-insert into _User values(
+insert into _User values (
 	'466',
 	'MATTHEW GUTIERREZ',
 	'Ankara',
@@ -5132,10 +5598,11 @@ insert into _User values(
 	'MATTHEWGUTIERREZ@ualg.pt',
 	'cktvjkig',
 	'10/5/1968',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/ganserene/128.jpg',
-	'Eum iusto tenetur.');
+	NULL,
+	'Eum iusto tenetur.'
+);
 
-insert into _User values(
+insert into _User values (
 	'467',
 	'MEGAN DIAZ',
 	'Chengdu',
@@ -5143,10 +5610,11 @@ insert into _User values(
 	'MEGANDIAZ@hotmail.com',
 	'rufthilu',
 	'14/7/1925',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/nerrsoft/128.jpg',
-	'Illum atque et.');
+	NULL,
+	'Illum atque et.'
+);
 
-insert into _User values(
+insert into _User values (
 	'468',
 	'HAZEL COOK',
 	'Surat',
@@ -5154,10 +5622,11 @@ insert into _User values(
 	'HAZELCOOK@outlook.com',
 	'acmvkbtc',
 	'25/8/1974',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/guillemboti/128.jpg',
-	'Sed sint et repudiandae et omnis et.');
+	NULL,
+	'Sed sint et repudiandae et omnis et.'
+);
 
-insert into _User values(
+insert into _User values (
 	'469',
 	'ANA CANTU',
 	'Tianjin',
@@ -5165,10 +5634,11 @@ insert into _User values(
 	'ANACANTU@ualg.pt',
 	'vxgqfcmr',
 	'27/10/1945',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/sasha_shestakov/128.jpg',
-	'Aut aut placeat ratione sit et est quis.');
+	NULL,
+	'Aut aut placeat ratione sit et est quis.'
+);
 
-insert into _User values(
+insert into _User values (
 	'470',
 	'LORRAINE NOEL',
 	'Mexico_City',
@@ -5176,10 +5646,11 @@ insert into _User values(
 	'LORRAINENOEL@hotmail.com',
 	'kgjmqhjd',
 	'1/7/1958',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/dmitriychuta/128.jpg',
-	'Autem magni expedita autem aliquam consequatur deleniti.');
+	NULL,
+	'Autem magni expedita autem aliquam consequatur deleniti.'
+);
 
-insert into _User values(
+insert into _User values (
 	'471',
 	'JEREMY CARDENAS',
 	'Bangalore',
@@ -5187,10 +5658,11 @@ insert into _User values(
 	'JEREMYCARDENAS@hotmail.com',
 	'meemwkoy',
 	'15/6/1965',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/uberschizo/128.jpg',
-	'Minima nobis eos quia sit et debitis.');
+	NULL,
+	'Minima nobis eos quia sit et debitis.'
+);
 
-insert into _User values(
+insert into _User values (
 	'472',
 	'ERIK DAVIS',
 	'Lahore',
@@ -5198,10 +5670,11 @@ insert into _User values(
 	'ERIKDAVIS@outlook.com',
 	'rbvxawlo',
 	'24/9/1969',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/mizko/128.jpg',
-	'Iure laborum est.');
+	NULL,
+	'Iure laborum est.'
+);
 
-insert into _User values(
+insert into _User values (
 	'473',
 	'GREGORY FRYE',
 	'Surat',
@@ -5209,10 +5682,11 @@ insert into _User values(
 	'GREGORYFRYE@outlook.com',
 	'gxpczvli',
 	'27/2/1950',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/mylesb/128.jpg',
-	'Quos consequatur modi.');
+	NULL,
+	'Quos consequatur modi.'
+);
 
-insert into _User values(
+insert into _User values (
 	'474',
 	'MARLENE COOPER',
 	'Dhaka',
@@ -5220,10 +5694,11 @@ insert into _User values(
 	'MARLENECOOPER@hotmail.com',
 	'qorjmqgt',
 	'11/6/2001',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/toddrew/128.jpg',
-	'Rem et vel quia necessitatibus nulla velit.');
+	NULL,
+	'Rem et vel quia necessitatibus nulla velit.'
+);
 
-insert into _User values(
+insert into _User values (
 	'475',
 	'ALAN BURNS',
 	'Xi_an',
@@ -5231,10 +5706,11 @@ insert into _User values(
 	'ALANBURNS@hotmail.com',
 	'zpcgiurg',
 	'19/1/2014',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/keryilmaz/128.jpg',
-	'Rerum fugiat repellat.');
+	NULL,
+	'Rerum fugiat repellat.'
+);
 
-insert into _User values(
+insert into _User values (
 	'476',
 	'BRIAN VILLARREAL',
 	'Tehran',
@@ -5242,10 +5718,11 @@ insert into _User values(
 	'BRIANVILLARREAL@ualg.pt',
 	'njvdxeat',
 	'11/6/2011',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/elenadissi/128.jpg',
-	'Tenetur eos qui possimus quia eos voluptate id nihil.');
+	NULL,
+	'Tenetur eos qui possimus quia eos voluptate id nihil.'
+);
 
-insert into _User values(
+insert into _User values (
 	'477',
 	'GREG RASMUSSEN',
 	'Mumbai',
@@ -5253,10 +5730,11 @@ insert into _User values(
 	'GREGRASMUSSEN@ualg.pt',
 	'wgwxnmni',
 	'18/7/1950',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/ricburton/128.jpg',
-	'Aut quisquam consequatur consequuntur quis qui voluptates ducimus.');
+	NULL,
+	'Aut quisquam consequatur consequuntur quis qui voluptates ducimus.'
+);
 
-insert into _User values(
+insert into _User values (
 	'478',
 	'JOSHUA SHELTON',
 	'Mexico_City',
@@ -5264,10 +5742,11 @@ insert into _User values(
 	'JOSHUASHELTON@outlook.com',
 	'dpfjgqbo',
 	'23/9/1970',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/nbirckel/128.jpg',
-	'Deserunt optio fugiat.');
+	NULL,
+	'Deserunt optio fugiat.'
+);
 
-insert into _User values(
+insert into _User values (
 	'479',
 	'ASHLEY ROBERSON',
 	'Kabul',
@@ -5275,10 +5754,11 @@ insert into _User values(
 	'ASHLEYROBERSON@gmail.com',
 	'jngkkcmf',
 	'2/6/1926',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/umurgdk/128.jpg',
-	'Quis doloremque fugiat aperiam occaecati ut blanditiis illo omnis numquam.');
+	NULL,
+	'Quis doloremque fugiat aperiam occaecati ut blanditiis illo omnis numquam.'
+);
 
-insert into _User values(
+insert into _User values (
 	'480',
 	'JUAN WEAVER',
 	'New_Taipei_City',
@@ -5286,10 +5766,11 @@ insert into _User values(
 	'JUANWEAVER@ualg.pt',
 	'qybthhce',
 	'26/9/1971',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/ilya_pestov/128.jpg',
-	'Ut eos voluptatem sit excepturi.');
+	NULL,
+	'Ut eos voluptatem sit excepturi.'
+);
 
-insert into _User values(
+insert into _User values (
 	'481',
 	'CHAD SHEPHERD',
 	'Surat',
@@ -5297,10 +5778,11 @@ insert into _User values(
 	'CHADSHEPHERD@outlook.com',
 	'wajdrwec',
 	'26/4/2002',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/danro/128.jpg',
-	'Ut nihil sed voluptas nostrum praesentium.');
+	NULL,
+	'Ut nihil sed voluptas nostrum praesentium.'
+);
 
-insert into _User values(
+insert into _User values (
 	'482',
 	'CANDICE ROWLAND',
 	'Shantou',
@@ -5308,10 +5790,11 @@ insert into _User values(
 	'CANDICEROWLAND@hotmail.com',
 	'wfownfpa',
 	'11/10/1973',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/attacks/128.jpg',
-	'Autem adipisci ipsa pariatur porro error eum qui cumque est.');
+	NULL,
+	'Autem adipisci ipsa pariatur porro error eum qui cumque est.'
+);
 
-insert into _User values(
+insert into _User values (
 	'483',
 	'DUSTIN JACOBSON',
 	'Karachi',
@@ -5319,10 +5802,11 @@ insert into _User values(
 	'DUSTINJACOBSON@gmail.com',
 	'jcshhlwu',
 	'10/3/1991',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/ChrisFarina78/128.jpg',
-	'Saepe perspiciatis beatae rerum aut placeat vel accusantium neque consectetur.');
+	NULL,
+	'Saepe perspiciatis beatae rerum aut placeat vel accusantium neque consectetur.'
+);
 
-insert into _User values(
+insert into _User values (
 	'484',
 	'SALLY BUCKNER',
 	'Shanghai',
@@ -5330,10 +5814,11 @@ insert into _User values(
 	'SALLYBUCKNER@hotmail.com',
 	'ttjthdoe',
 	'11/11/1920',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/juamperro/128.jpg',
-	'Occaecati nemo quo et nostrum.');
+	NULL,
+	'Occaecati nemo quo et nostrum.'
+);
 
-insert into _User values(
+insert into _User values (
 	'485',
 	'JEREMY PATTERSON',
 	'London',
@@ -5341,10 +5826,11 @@ insert into _User values(
 	'JEREMYPATTERSON@hotmail.com',
 	'dxueunqo',
 	'22/4/1967',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/olgary/128.jpg',
-	'Expedita numquam sunt dolore molestiae doloremque.');
+	NULL,
+	'Expedita numquam sunt dolore molestiae doloremque.'
+);
 
-insert into _User values(
+insert into _User values (
 	'486',
 	'CRAIG WILSON',
 	'Baghdad',
@@ -5352,10 +5838,11 @@ insert into _User values(
 	'CRAIGWILSON@hotmail.com',
 	'fgczbrfo',
 	'27/11/1969',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/ryankirkman/128.jpg',
-	'Perspiciatis et quis eum inventore cum magnam maxime possimus quasi.');
+	NULL,
+	'Perspiciatis et quis eum inventore cum magnam maxime possimus quasi.'
+);
 
-insert into _User values(
+insert into _User values (
 	'487',
 	'MILDRED DAVID',
 	'Cairo',
@@ -5363,10 +5850,11 @@ insert into _User values(
 	'MILDREDDAVID@gmail.com',
 	'pteqhqpz',
 	'21/2/1943',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/kerihenare/128.jpg',
-	'Maiores quia et.');
+	NULL,
+	'Maiores quia et.'
+);
 
-insert into _User values(
+insert into _User values (
 	'488',
 	'KYLE ESTRADA',
 	'NewYork',
@@ -5374,10 +5862,11 @@ insert into _User values(
 	'KYLEESTRADA@gmail.com',
 	'eqnritoa',
 	'14/4/1966',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/davidmerrique/128.jpg',
-	'In et ut modi sit architecto voluptates sapiente officiis.');
+	NULL,
+	'In et ut modi sit architecto voluptates sapiente officiis.'
+);
 
-insert into _User values(
+insert into _User values (
 	'489',
 	'JIMMIE ALFORD',
 	'Bogota',
@@ -5385,10 +5874,11 @@ insert into _User values(
 	'JIMMIEALFORD@gmail.com',
 	'yuilkyhb',
 	'18/5/1924',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/jerrybai1907/128.jpg',
-	'Beatae ducimus et fugiat magnam praesentium recusandae sint.');
+	NULL,
+	'Beatae ducimus et fugiat magnam praesentium recusandae sint.'
+);
 
-insert into _User values(
+insert into _User values (
 	'490',
 	'MARC NICHOLS',
 	'Buenos_Aires',
@@ -5396,10 +5886,11 @@ insert into _User values(
 	'MARCNICHOLS@hotmail.com',
 	'dxqzmlpx',
 	'8/3/1939',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/imsoper/128.jpg',
-	'Nam doloremque neque sint magnam nesciunt vero.');
+	NULL,
+	'Nam doloremque neque sint magnam nesciunt vero.'
+);
 
-insert into _User values(
+insert into _User values (
 	'491',
 	'SEAN HARVEY',
 	'Hanoi',
@@ -5407,10 +5898,11 @@ insert into _User values(
 	'SEANHARVEY@gmail.com',
 	'xuobgmbz',
 	'9/6/1985',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/mgonto/128.jpg',
-	'Laborum quia ratione possimus.');
+	NULL,
+	'Laborum quia ratione possimus.'
+);
 
-insert into _User values(
+insert into _User values (
 	'492',
 	'MARK MYERS',
 	'Surat',
@@ -5418,10 +5910,11 @@ insert into _User values(
 	'MARKMYERS@outlook.com',
 	'rndakwnv',
 	'1/2/2006',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/itstotallyamy/128.jpg',
-	'Quam necessitatibus at ipsum.');
+	NULL,
+	'Quam necessitatibus at ipsum.'
+);
 
-insert into _User values(
+insert into _User values (
 	'493',
 	'CELIA WALL',
 	'Chongqing',
@@ -5429,10 +5922,11 @@ insert into _User values(
 	'CELIAWALL@gmail.com',
 	'xienlmmw',
 	'6/9/1977',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/michzen/128.jpg',
-	'Dicta mollitia corporis dolor.');
+	NULL,
+	'Dicta mollitia corporis dolor.'
+);
 
-insert into _User values(
+insert into _User values (
 	'494',
 	'GUY MURRAY',
 	'Faisalabad',
@@ -5440,10 +5934,11 @@ insert into _User values(
 	'GUYMURRAY@gmail.com',
 	'yhqktpnf',
 	'11/2/1983',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/operatino/128.jpg',
-	'Dolores pariatur dolores vel voluptatibus et rerum minus.');
+	NULL,
+	'Dolores pariatur dolores vel voluptatibus et rerum minus.'
+);
 
-insert into _User values(
+insert into _User values (
 	'495',
 	'JOHN MCGEE',
 	'Zhongshan',
@@ -5451,10 +5946,11 @@ insert into _User values(
 	'JOHNMCGEE@ualg.pt',
 	'jipnbfdg',
 	'19/9/1966',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/jeffgolenski/128.jpg',
-	'Sunt ab corporis consequatur.');
+	NULL,
+	'Sunt ab corporis consequatur.'
+);
 
-insert into _User values(
+insert into _User values (
 	'496',
 	'TONYA TORRES',
 	'Hangzhou',
@@ -5462,10 +5958,11 @@ insert into _User values(
 	'TONYATORRES@hotmail.com',
 	'dsjzkrrn',
 	'2/7/1936',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/txcx/128.jpg',
-	'Eaque modi eos fugiat voluptatem et et eius in.');
+	NULL,
+	'Eaque modi eos fugiat voluptatem et et eius in.'
+);
 
-insert into _User values(
+insert into _User values (
 	'497',
 	'JOEL ASHLEY',
 	'Nairobi',
@@ -5473,10 +5970,11 @@ insert into _User values(
 	'JOELASHLEY@gmail.com',
 	'sygvbisa',
 	'10/7/1981',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/emmandenn/128.jpg',
-	'Cumque perferendis ipsa provident expedita est et veritatis.');
+	NULL,
+	'Cumque perferendis ipsa provident expedita est et veritatis.'
+);
 
-insert into _User values(
+insert into _User values (
 	'498',
 	'JOHNNIE BRENNAN',
 	'Bangkok',
@@ -5484,10 +5982,11 @@ insert into _User values(
 	'JOHNNIEBRENNAN@hotmail.com',
 	'gnwefgol',
 	'9/1/1992',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/rachelreveley/128.jpg',
-	'Sed sed provident est consequatur.');
+	NULL,
+	'Sed sed provident est consequatur.'
+);
 
-insert into _User values(
+insert into _User values (
 	'499',
 	'ROBERTO SNYDER',
 	'Giza',
@@ -5495,6 +5994,6 @@ insert into _User values(
 	'ROBERTOSNYDER@outlook.com',
 	'emovqbtb',
 	'11/11/2003',
-	'https://s3.amazonaws.com/uifaces/faces/twitter/johncafazza/128.jpg',
-	'Et eum qui fuga est voluptatem accusamus quidem.');
-
+	NULL,
+	'Et eum qui fuga est voluptatem accusamus quidem.'
+);
