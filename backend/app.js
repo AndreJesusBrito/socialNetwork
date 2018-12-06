@@ -1,25 +1,61 @@
 const express = require('express');
 const server = express();
-// const bodyParser = require('body-parser')
+const bodyParser = require('body-parser')
+
+
+
+const { Client } = require('pg');
+const client = new Client({
+  user: 'andre',
+  host: 'localhost',
+  database: 'filmes',
+  password: 'andre',
+  port: 5432,
+});
+
+client.connect();
+
 
 server.set("view engine", "ejs");
-// server.use(bodyParser);
 server.use(express.static("public"));
+
+server.use(bodyParser.urlencoded({ extended: false }));
+server.use(bodyParser.json());
+
+
+
 
 //--------------------------------------------
 // Routes
 //--------------------------------------------
 
+
+
+
 server.get("/", function(req, res) {
-    res.render("homepage");
+    res.render("search");
+    // console.log(req.query.ola);
+    // let out = "";
+    // client.query('SELECT * FROM filmes ORDER BY nome', (err, dbRes) => {
+    //     dbRes.rows.forEach(e => {
+    //         out += `<li>${e.nome}</li>`;
+    //     });
+    //     res.send(`<html><title>Names of filmes</title><ul>${out}</ul></html>`);
+    // });
+    // res.render("homepage");
     // res.render("home");
+    // client.end();
 });
 
-server.get("/user/*", function(req, res) {
+server.get("/login", function(req, res) {
+    res.render("authentication");
+});
+
+server.get("/user/:id", function(req, res) {
 
 });
 
-server.get("/group/*", function(req, res) {
+server.get("/group/:id", function(req, res) {
 
 });
 
@@ -38,8 +74,22 @@ server.get("*", function(req, res) {
 
 server.post("/post", function(req, res) {
     // logic
-    console.log("posted");
-    res.send("you posted");
+    // console.log(req.params);
+    // console.log(req.body);
+    // console.log(req.query);
+
+    let out = "";
+    const query = `SELECT * FROM filmes WHERE nomeestudio='${req.body.search}' ORDER BY nome`;
+    console.log("query:", query);
+    client.query(query, (err, dbRes) => {
+        dbRes.rows.forEach(e => {
+            out += `<li>${e.nome}</li>`;
+        });
+        res.send(`<html><title>Names of filmes</title><ul>${out}</ul></html>`);
+    });
+
+    // console.log("posted");
+    // res.send("you posted");
 });
 server.delete("/post", function(req, res) {
     // logic

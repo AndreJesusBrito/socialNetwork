@@ -61,7 +61,7 @@ SELECT * FROM
 
 
 -- number of members in a Group
-SELECT COUNT(groupID) AS "nº users"
+SELECT COUNT(groupID) AS "n users"
 FROM member
 WHERE groupID = (PUT__HERE);
 
@@ -93,7 +93,7 @@ WHERE nickname IS NOT NULL;
 
 
 -- number of posts that each user has writen in a GROUP
-SELECT ID AS "User ID", COUNT(*) AS "nº of posts"
+SELECT ID AS "User ID", COUNT(*) AS "n of posts"
 FROM
     Post
 NATURAL JOIN (
@@ -102,10 +102,10 @@ NATURAL JOIN (
     WHERE groupID = 101
 )
 GROUP BY ID
-ORDER BY "nº of posts";
+ORDER BY "n of posts";
 
 
-SELECT a.id, a.name, a."nº posts", b."nº comment" from
+SELECT a.id, a.name, a."n posts", b."n comment" from
 (
     SELECT U.id,U.name,Count(U.name) AS "number of posts"
     FROM
@@ -126,6 +126,27 @@ JOIN
 ON a.id = b.id
 ORDER BY a.name
 
+
+
+
+
+
+
+SELECT a.groupid, b."group name", b."group owner", a."group members" from
+(
+    SELECT m.groupid,Count(m.groupid) AS "group members"
+    FROM member AS m
+    GROUP BY m.groupid
+) AS a
+join
+(
+    SELECT U.id, u.name AS "group owner", G.id AS GID , g.name AS "group name"
+    FROM _Group AS G
+    INNER JOIN _User AS U
+    ON u.id = g.ownerID
+) AS b
+ON b.gid = a.groupid
+ORDER BY a."group members" DESC,b."group owner" ASC, "group name" ASC;
 
 
 
@@ -164,9 +185,8 @@ GROUP BY postID
   good stuff goes here xD
 ------------------------------*/
 
--- ID of all common friends between two Users
-
 -- 1)
+-- ID of all common friends between two Users
 (
     (
         SELECT user2ID AS ID FROM friend WHERE user1ID = 213
@@ -182,29 +202,10 @@ GROUP BY postID
 );
 
 -- 2)
-SELECT a.id, a.name, a."nº posts", b."nº comment" from
-(
-    SELECT U.id,U.name,Count(U.name) AS "number of posts"
-    FROM
-    _User AS U  JOIN  Post AS P
-    ON P.authorID = U.id
-    GROUP BY u.id
-) AS a
-JOIN
-(
-    SELECT d.id, d.name, Count(D.name) AS "number of comment"
-    FROM
-        _User AS D
-    JOIN
-        Comment AS C
-    ON C.authorID = D.id
-    GROUP BY D.id
-) AS b
-ON a.id = b.id
-ORDER BY a.name
 
--- get number of reactions of a post
+
 -- 3)
+-- get number of reactions of a post
 SELECT postid, likes, dislikes FROM
 (
     SELECT postid, count(type) AS likes
@@ -222,9 +223,34 @@ NATURAL JOIN
 order BY postid
 
 
--- get IDs of the posts that should appear in the feed of a User  -  posts of groups and friends
+
+
+-- 4)
+SELECT a.id, a.name, a."n posts", b."n comment" from
+(
+    SELECT U.id,U.name,Count(U.name) AS "n posts"
+    FROM
+    _User AS U  JOIN  Post AS P
+    ON P.authorID = U.id
+    GROUP BY u.id
+) AS a
+JOIN
+(
+    SELECT d.id, d.name, Count(D.name) AS "n comment"
+    FROM
+        _User AS D
+    JOIN
+        Comment AS C
+    ON C.authorID = D.id
+    GROUP BY D.id
+) AS b
+ON a.id = b.id
+ORDER BY a.name
+
+
 -- 5)
 
+-- get IDs of the posts that should appear in the feed of a User  -  posts of groups and friends
 SELECT ID FROM post WHERE id IN (
     (
         (   -- get all posts FROM friends that are visible

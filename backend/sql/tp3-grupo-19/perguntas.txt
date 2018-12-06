@@ -1,0 +1,11 @@
+1º) quais os IDs dos amigos em comum entre dois Users?
+    em particular, para os users com IDs 213 e 225
+
+2º) qual o nome do grupo, criador do grupo e a quantidade de pessoas de cada grupo?
+
+3º) quantas reações tem um determinado post? 
+
+4º) quantos posts e comentários cada user publicou no total?
+
+5º) quais os post que um utilizador deve conseguir ver na página principal(feed)?
+    em particular, para o User com o ID 109
